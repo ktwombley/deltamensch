@@ -4,3 +4,4 @@ git add sitemap.xml
 git add patribotics.blog/*
 git add patribotics.files.wordpress.com/*
 git commit -m "Automatic Update `date`"
+git push -u origin master

@@ -3,5 +3,6 @@ cat sitemap.xml | egrep -o "https?://[^<]+" | wget -nv --mirror --wait .5 --rand
 find patribotics.blog/ -type f -not -name "*.diffable" -exec sh -c 'mkdir -p `dirname ./diffable/{}`; sed -r -f diffable.sed {} > ./diffable/{}.diffable' \;
 git add sitemap.xml
 git add patribotics.blog/*
+git add diffable/*
 git commit -m "Automatic Update `date -u`"
 git push -u origin master

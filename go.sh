@@ -3,5 +3,5 @@ cat sitemap.xml | egrep -o "https?://[^<]+" | wget -nv --mirror --wait .5 --rand
 git add sitemap.xml
 git add patribotics.blog/*
 git add patribotics.files.wordpress.com/*
-git commit -m "Automatic Update `date`"
+git commit -m "Automatic Update `date -u`"
 git push -u origin master

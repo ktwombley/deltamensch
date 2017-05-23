@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://patribotics.blog/xmlrpc.php">
+
+<title>May 2017 &#8211; patribotics</title>
+		<script src='https://r-login.wordpress.com/remote-login.php##Scriptpath##</script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//patribotics.wordpress.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="patribotics &raquo; Feed" href="https://patribotics.blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="patribotics &raquo; Comments Feed" href="https://patribotics.blog/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJx9kN0KwjAMhV/IGsQx9UJ8lq6LNZq0ZekYe3s75w+o7CbkhO/kkMCQjIshY8ggvUncewoKQ3JRjAoxjl9q7VRX8N/GdEOFK+Zk3c081A/ecPSfnNi1tlXwHBvLS6spnClQHt/NEuxih2UuyeaJEGzJIqMUbMkmqX65pvZSjlg8d/5L06QOVU2pQr2YfClBv755DE8KWks8ivWgeWSc6JMcN9V+t6031aG63gGJO5mR' type='text/css' media='all' />
+<link rel='stylesheet' id='dailymag-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%7CAbril+Fatface%3A400%7CLora%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=0.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJx9i8sKgCAQAH8oWwSjOkTfYmLLhrrig34/u0Rdus3ADBAELmQ45Ad6k3MHZxRNig0FfBXRVaTWoGXh2OhCHD4idqcp/a3Jbo6xIUKrXnpPq1+kGmalplGq4wKxyTcd' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s2.wp.com/_static/??-eJx9i9EKwjAMRX/IGoVN54P4LVnp2kialCbD3xcfRGTi0z0XzoFHC1HFkzjUNTReM4kBRieVGfuH9tFsB7/1puZhYaQOVrCT5Pf+q0wjIQfWrN9nE3lJNRmUATLrjPwSbvV6HC6H83Qap/H+BMWZScE=' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyF0G0KwjAMBuAL2dXJxP0Rz1Lr60hdP2zaDT29FSYiVIVAIHkISeQcBDk95hNYmhLXjHhbUmN4JX8BYWmIKqGx5F5Ye5fg0tNaf6QRIjOiGkqtDDr7iguekwVzQZXu50rkJsL8lxmkoPRFRDDdUTuEw3vn7x9Y1MHu267fbfp2263NA675cvs='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://patribotics.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://patribotics.blog/osd.xml" title="patribotics" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="patribotics" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Exposing Vladimir Putin&#039;s War on America" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://patribotics.blog/feed/;icon-uri=https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Posts from May 2017 on patribotics" />
+<meta name="description" content="7 posts published by patribotics during May 2017" />
+ 		<script type="text/javascript">
+		var _ipw_custom = {
+				wordAds: '1',
+				adSafe: '1',
+				domain: 'patribotics.blog',
+				pageURL: 'https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/'
+			};
+		</script>
+ 		<script type="text/javascript" src="//s.pubmine.com/head.js"></script>
+		<script type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script><style type="text/css" id="syntaxhighlighteranchor"></style>
+<link rel="icon" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=270" />
+
+</head>
+<body class="archive date mp6 customizer-styles-applied layout-two-column-default highlander-enabled highlander-light infinite-scroll neverending">
+
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+<div class="secondary-navigation-container">
+	<nav id="secondary-navigation" class="nav-menu-wrapper" role="navigation">
+		<div class="menu"><ul>
+<li ><a href="https://patribotics.blog/">Home</a></li><li class="page_item page-item-2"><a href="https://patribotics.blog/about/">About</a></li>
+<li class="page_item page-item-3"><a href="https://patribotics.blog/contact/">Contact and Whistleblowing</a></li>
+</ul></div>
+	</nav><!-- #site-navigation -->
+</div>
+	<header id="masthead" class="site-header" role="banner">
+
+		
+<div class="site-title-wrapper">
+
+	<div class="site-title-wrapper-inner">
+
+		<div class="site-logo"></div>
+
+		<h1 class="site-title"><a href="https://patribotics.blog/" rel="home">patribotics</a></h1>
+		<div class="site-description">Exposing Vladimir Putin&#039;s War on America</div>
+
+	</div><!-- .site-info-inner -->
+
+	
+	<div class="social-menu">
+		<div class="menu-social-links-container"><ul id="menu-social-links" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://facebook.com/">Facebook</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://twitter.com/wordpressdotcom">Twitter</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://dribbble.com/automattic">Dribbble</a></li>
+</ul></div>	</div><!-- .social-menu -->
+
+	
+</div><!-- .site-title-wrapper -->
+
+	</header><!-- #masthead -->
+
+	
+<div class="main-navigation-container">
+	<nav id="site-navigation" class="nav-menu-wrapper" role="navigation">
+		<button class="menu-toggle" id="menu-toggle" aria-controls="primary-menu" aria-expanded="false">&#9776; Menu</button>
+		<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/">Home</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9"><a href="https://patribotics.blog/about/">About</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="https://patribotics.blog/contact/">Contact and Whistleblowing</a></li>
+</ul></div>	</nav><!-- #site-navigation -->
+</div>
+
+	<div id="content" class="site-content">
+
+	<section id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<header class="archive-header">
+				<h1 class="archive-title">
+					Month: May 2017				</h1>
+
+				
+			</header><!-- .page-header -->
+
+						
+				<article id="post-2948" class="post-2948 post type-post status-publish format-standard has-post-thumbnail hentry category-trump-russia tag-chief-justice-roberts tag-claude-taylor tag-featured tag-impeachment tag-louise-mensch tag-marshal-of-the-supreme-court tag-muslim-ban tag-pamela-talkin tag-rudy-giuliani tag-scotus">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg?w=1690&amp;h=900&amp;crop=1 1690w, https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg?w=1024&amp;h=545&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="3008" data-permalink="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/supreme_court_east_facade/" data-orig-file="https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg" data-orig-size="3091,2012" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Supreme_court_east_facade" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/05/supreme_court_east_facade.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/trump-russia/" rel="category tag">Trump Russia</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/" rel="bookmark"><time class="entry-date published" datetime="2017-05-23T13:53:11+00:00">May 23, 2017</time><time class="updated" datetime="2017-05-23T14:40:36+00:00">May 23, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/" rel="permalink"><h1 class="entry-title">EXCLUSIVE: Marshal of the Supreme Court Warned Trump over &#8216;Muslim&nbsp;Ban&#8217;</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<p>By <a href="https://twitter.com/LouiseMensch">Louise Mensch</a> and <a href="http://www.travelphotography.net">Claude Taylor</a></p>
+<p>&nbsp;</p>
+<p>Multiple sources confirm that <a href="https://en.wikipedia.org/wiki/Pamela_Talkin">Pamela Talkin</a>, <a href="https://en.wikipedia.org/wiki/Marshal_of_the_United_States_Supreme_Court">Marshal of the Supreme Court</a>, was dispatched to the White House by Chief Justice Roberts last Friday. The decision to send her was taken, sources say, when White House Counsel, Don McGahn, did not release Rudy Giuliani&#8217;s &#8216;Muslim memo&#8217;, despite an order of the court<span style="color:#ff9900;">*</span> to do so by that date.</p>
+<p>The White House failed to meet the May 19th deadline to hand over the Giuliani memo, violating this<a href="http://www.politico.com/f/?id=0000015b-fe11-d361-abff-ffdb15370001"> order</a>. The <a href="http://www.politico.com/f/?id=0000015b-fe11-d361-abff-ffdb15370001">order states,</a> among other things:</p>
+<blockquote>
+<div class="page" title="Page 8">
+<div class="layoutArea">
+<div class="column">
+<p>The parties must exchange initial disclosures by May 19, 2017. Regarding the discovery requests Plaintiffs served on Defendants on April 6, Defendants must produce the document responsive to document request 1 by May 19, 2017, and they must respond to the remaining discovery requests by June 2, 2017.</p>
+</div>
+</div>
+</div>
+</blockquote>
+<p>A list of current suits in which the &#8216;Giuliani memo&#8217; is vital evidence include ones at the Eastern District of Virginia, Case #17-cv-00120, Sarsour vs Trump; the Fourth Circuit Court of Appeals, a case that originated in Maryland, Case #17-1351, International Refugee Assistance Project v Trump; The State of Hawaii v Trump, case #17-cv-00050 at the 9th Circuit Court of Appeals; and the <a href="http://www.politico.com/f/?id=0000015b-fe11-d361-abff-ffdb15370001">case that triggered the decision</a> to send the Marshal of the SCOTUS to Trump, Case #17-10310 at the Eastern District of Michigan, Arab American Civil Rights League et al v Trump.</p>
+<p>Violating a court order is colloquially called &#8216;Contempt of Court&#8217; and this matter falls within the standards of impeachment for a President under the constitution. The Trump Administration had not filed a motion of leave, or availed themselves of any legal mechanism to deny the order to provide the Guiliani memo by the 19th of May.</p>
+<p>Chief Justice Roberts was concerned about both the preservation of evidence and Trump&#8217;s disregard for legal orders of the courts. He sent Marshal Talkin to the White House on Friday night, in order to tell Donald Trump that he was ordered to keep and preserve all evidence relating to this matter. Marshal Talkin was told by White House staff &#8211; brusquely, sources say &#8211; that she was too late to deliver the message to Mr. Trump; he had already left for his first trip overseas.</p>
+<p>Marshal Talkin was not deterred. Sources report she ordered her escort to drive her straight to Andrews Air Force base. She met Trump on the tarmac, and delivered the message of the Chief Justice. Multiple sources, from law enforcement, to those linked to the intelligence community, sources linked to the military, and those linked to various different parts of the Justice Department and of the judicial system, report that Marshal Talkin informed Trump that if he were not to preserve and protect evidence, in line with orders of the courts, it would constitute a further impeachable offense; that is to say, a <em>separate</em> impeachable offense, <em>additional</em> to the case of impeachment which has already legally begun against him.</p>
+<p>More on this breaking story as we receive it.</p>
+<h5>Patribotics hopes to expand reporting and commission other writers. If you would like to <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch"><strong>donate</strong></a></span>, there are buttons around the site, or you could <span style="color:#ff0000;"><strong><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch">make a contribution here. </a> </strong></span></h5>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/13/trumps-presidency-ended-may-9th-hatch-getting-security-briefings/">“Trump’s Presidency Ended May 9th” – Hatch Getting Security Briefing</a></strong></li>
+<li><strong><a href="https://patribotics.blog/2017/04/01/alfa-bank-trump-tower-and-a-social-media-impeachment/" rel="bookmark">Alfa Bank, Trump Tower and a Social Media Impeachment</a></strong></li>
+<li><strong><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">EXCLUSIVE: RICO Case Being Pursued Against the GOP on Russian Money Launderin</a><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">g</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/">Jeff Sessions, Attorney General, Suspect</a></strong></li>
+</ul>
+<p>Whistleblowers are encouraged to get in touch on our secure <a href="https://patribotics.blog/contact/"><span style="color:#339966;">protonmail</span> </a>email address.</p>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/">EXCLUSIVE: Marshal of the Supreme Court Warned Trump over ‘Muslim Ban’</a></strong></li>
+<li><strong><a href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/">Mike Flynn Turns on Trump, Talks To FBI</a></strong></li>
+<li><strong><a href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/">EXCLUSIVE: Judiciary Committee Considering Articles of Impeachment</a></strong></li>
+</ul>
+<p>*<span style="color:#ff9900;">Correction:</span> I originally attached the wrong court to the order linked in the text; as stated below, the case that triggered the Chief Justice&#8217;s decision to send the Marshal to the White House was Case #17-10310 at the Eastern District of Michigan, Arab American Civil Rights League et al v Trump.</p>
+<h4></h4>
+		<div class="wpcnt">
+			<div class="wpa wpmrec">
+				<span class="wpa-about">Advertisements</span>
+				<div class="u">
+								<script type='text/javascript'>
+				(function(g){if("undefined"!=typeof g.__ATA){g.__ATA.initAd({sectionId:1227313501, width:300, height:250});}})(window);
+			</script>
+				</div>
+				        <div id="crt-##DivID##" style="width:300px;height:250px;"></div>
+        <script type="text/javascript">
+        var o = document.getElementById('crt-##DivID##');
+        if ("undefined"!=typeof Criteo) {
+            var p = o.parentNode;
+            p.style.setProperty('display', 'inline-block', 'important');
+            o.style.setProperty('display', 'block', 'important');
+            Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-##DivID##",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-##DivID##'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); }
+        });
+        } else {
+            o.style.setProperty('display', 'none', 'important');
+            o.style.setProperty('visibility', 'hidden', 'important');
+        }
+        </script>
+			</div>
+		</div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2948" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2948" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-2948" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=2948&amp;origin=patribotics.wordpress.com&amp;obj_id=122731350-2948-5924a3aff1574' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+					<span class="comments-link"><a href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/#respond">Leave a comment</a></span>
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/chief-justice-roberts/" rel="tag">Chief Justice Roberts</a>, <a href="https://patribotics.blog/tag/claude-taylor/" rel="tag">Claude Taylor</a>, <a href="https://patribotics.blog/tag/featured/" rel="tag">featured</a>, <a href="https://patribotics.blog/tag/impeachment/" rel="tag">Impeachment</a>, <a href="https://patribotics.blog/tag/louise-mensch/" rel="tag">Louise Mensch</a>, <a href="https://patribotics.blog/tag/marshal-of-the-supreme-court/" rel="tag">Marshal of the Supreme Court</a>, <a href="https://patribotics.blog/tag/muslim-ban/" rel="tag">Muslim Ban</a>, <a href="https://patribotics.blog/tag/pamela-talkin/" rel="tag">Pamela Talkin</a>, <a href="https://patribotics.blog/tag/rudy-giuliani/" rel="tag">Rudy Giuliani</a>, <a href="https://patribotics.blog/tag/scotus/" rel="tag">SCOTUS</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				<article id="post-2896" class="post-2896 post type-post status-publish format-standard has-post-thumbnail hentry category-mike-flynn category-trump-russia tag-comey tag-comey-day tag-fifth-amendment tag-flynn-subpoena tag-general-flynn tag-impeachment tag-louise-mensch tag-mike-flynn tag-mike-flynn-jr tag-mueller tag-nsa tag-patribotics tag-patribotics-blog tag-trump">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg?w=1690&amp;h=900&amp;crop=1 1690w, https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg?w=1024&amp;h=545&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="2902" data-permalink="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/fbi_evidence_response_team_vehicle/" data-orig-file="https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg" data-orig-size="2100,1500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D60&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1232187999&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;44&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FBI_Evidence_Response_Team_vehicle" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/05/fbi_evidence_response_team_vehicle.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/mike-flynn/" rel="category tag">Mike Flynn</a>, <a href="https://patribotics.blog/category/trump-russia/" rel="category tag">Trump Russia</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/" rel="bookmark"><time class="entry-date published" datetime="2017-05-22T21:21:29+00:00">May 22, 2017</time><time class="updated" datetime="2017-05-22T21:36:10+00:00">May 22, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/" rel="permalink"><h1 class="entry-title">Mike Flynn Turns on Trump, Talks To&nbsp;FBI</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<p>Multiple sources with links to the intelligence and law enforcement communities say that Lt. Gen Mike Flynn has turned on Donald Trump, and has already had at least one lengthy interview with the FBI.</p>
+<p>General Flynn has not been offered a deal as of yet, these sources say. They indicate that as of this writing Flynn has not been arrested. He would likely be offered a chance to surrender himself, sources report, when that time comes.</p>
+<blockquote>
+<h4>Patribotics hopes to expand reporting and commission other writers. If you would like to <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch"><strong>donate</strong></a></span>, there are buttons around the site, or you could <strong><a href="http://paypal.me/LouiseMensch"><span style="color:#ff0000;">make a contribution here.</span> </a> </strong></h4>
+</blockquote>
+<p>Sources with links to the Justice Department indicate that General Flynn has already been indicted. On Twitter, <a href="https://twitter.com/TrueFactsStated/status/863720527986348032"><strong>Claude Taylor exclusively reported</strong></a> on May 14th that an indictment against Flynn had been returned by a Grand Jury and that this indictment was sealed. I can further report that Flynn&#8217;s indictment is thought to be for his failure to register under FARA, the Foreign Agents&#8217; Registration Act, for his lobbying for Turkey. Reporting by NBC of Grand Jury subpoenas in an investigation for which Flynn is the subject, sources say, cover separate offenses of Mike Flynn&#8217;s that are linked to Russia. These are being investigated under prosecutors at the Northern District of Virginia, with an attorney accustomed to handling espionage prosecutions.</p>
+<p>Sources believe that General Mike &#8220;Misha&#8221; Flynn, to give him the Russian nickname he awarded himself when picked up by British intelligence committing treason in Cambridge, England, panicked when he heard that Special Counsel Robert Mueller had been appointed to head the investigation into Trump&#8217;s collusion with Russia.</p>
+<p>Mike Flynn may also have interpreted Donald Trump&#8217;s text to him, &#8216;Stay Strong,&#8217; on the day the subpoenas for evidence in the ongoing case against him were announced, as a threat. Sources believe that Flynn informed the FBI, and multiple other persons, of Trump&#8217;s text himself.</p>
+<p>Separate sources with links to the intelligence community confirm our earlier reporting on how <a href="https://patribotics.blog/2017/04/16/mike-flynns-treason-tour-global-russian-propaganda-coordinated-with-trump/">Mike Flynn co-ordinated Russia&#8217;s propaganda attack on the West</a> on behalf of Trump, giving advice across Europe to far-right parties linked to the Russian state. These include, but are not limited to, UKIP, Marine Le Pen in France and a far-right party in Austria. Flynn regarded himself as a partisan of the Russian state, and his assistance in Russia&#8217;s messaging was not limited to hacking the American election, but in trying to boost Nazi ideology and Putin allies right across Europe. These sources state that Gen. Flynn could receive the death penalty for espionage for these activities, if charges are brought on the matter and he is found guilty.</p>
+<p>Flynn is being decommissioned, sources say, meaning that he is telling the FBI what he knows. This is clearly very bad news for Donald Trump and all those around him who colluded with Russia. It may be <a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">particularly bad news for Vice-President Mike Pence</a>, who is attempting, with little success, to disclaim knowledge of Flynn&#8217;s collusion with Russia.</p>
+<blockquote>
+<h4><span style="color:#000000;">Whistleblowers are encouraged to get in touch on our secure <span style="color:#008000;"><a style="color:#008000;" href="https://patribotics.blog/contact/">protonmail </a></span>email address. </span></h4>
+</blockquote>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/13/trumps-presidency-ended-may-9th-hatch-getting-security-briefings/">“Trump’s Presidency Ended May 9th” – Hatch Getting Security Briefings</a></strong></li>
+<li>
+<h2 class="entry-title"><span style="color:#ff0000;"><a style="color:#ff0000;" href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/" rel="bookmark">EXCLUSIVE: Judiciary Committee Considering Articles of Impeachment</a></span></h2>
+</li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/04/01/alfa-bank-trump-tower-and-a-social-media-impeachment/" rel="bookmark">Alfa Bank, Trump Tower and a Social Media Impeachment</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">EXCLUSIVE: RICO Case Being Pursued Against the GOP on Russian Money Launderin</a><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">g</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/">Jeff Sessions, Attorney General, Suspect</a></strong></li>
+</ul>
+<ul>
+<li>
+<p class="entry-title"><strong><a href="https://patribotics.blog/2017/04/16/carter-page-went-to-moscow-with-a-tape-of-donald-trump-offering-treason-for-hacking/" rel="bookmark">Carter Page Went to Moscow With a Tape of Donald Trump Offering Treason For Hacking</a></strong></p>
+</li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/">Dear Mr. Putin, Let’s Play Chess</a></strong></li>
+<li>
+<h2 class="entry-title"><span style="color:#ff0000;"><a style="color:#ff0000;" href="https://patribotics.blog/2017/05/14/exclusive-sealed-indictment-granted-against-donald-trump/" rel="bookmark">EXCLUSIVE: Sealed Indictment granted against Donald Trump</a></span></h2>
+</li>
+<li>
+<h2 class="entry-title"> <a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">Sources: Russia probe means President Hatch; RICO Case Against GOP</a></h2>
+<div class="excerpt"></div>
+</li>
+</ul>
+<div class="teads_slot"></div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2896" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2896" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-2896" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=2896&amp;origin=patribotics.wordpress.com&amp;obj_id=122731350-2896-5924a3b000063' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+					<span class="comments-link"><a href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/#comments">2 Comments</a></span>
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/comey/" rel="tag">Comey</a>, <a href="https://patribotics.blog/tag/comey-day/" rel="tag">Comey Day</a>, <a href="https://patribotics.blog/tag/fifth-amendment/" rel="tag">Fifth Amendment</a>, <a href="https://patribotics.blog/tag/flynn-subpoena/" rel="tag">Flynn subpoena</a>, <a href="https://patribotics.blog/tag/general-flynn/" rel="tag">General Flynn</a>, <a href="https://patribotics.blog/tag/impeachment/" rel="tag">Impeachment</a>, <a href="https://patribotics.blog/tag/louise-mensch/" rel="tag">Louise Mensch</a>, <a href="https://patribotics.blog/tag/mike-flynn/" rel="tag">Mike Flynn</a>, <a href="https://patribotics.blog/tag/mike-flynn-jr/" rel="tag">Mike Flynn Jr</a>, <a href="https://patribotics.blog/tag/mueller/" rel="tag">Mueller</a>, <a href="https://patribotics.blog/tag/nsa/" rel="tag">NSA</a>, <a href="https://patribotics.blog/tag/patribotics/" rel="tag">Patribotics</a>, <a href="https://patribotics.blog/tag/patribotics-blog/" rel="tag">Patribotics blog</a>, <a href="https://patribotics.blog/tag/trump/" rel="tag">Trump</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				<article id="post-2847" class="post-2847 post type-post status-publish format-standard has-post-thumbnail hentry category-comey-day category-impeachment category-mike-flynn category-national-security category-russia category-supreme-court category-trump-russia tag-articles-of-impeachment tag-claude-taylor tag-comey-day tag-impeachment tag-louise-mensch tag-marshal-of-the-supreme-court tag-supreme-court">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg?w=1690&amp;h=900&amp;crop=1 1690w, https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg?w=1024&amp;h=545&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="24" data-permalink="https://patribotics.blog/mon-12-sep-1349/" data-orig-file="https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg" data-orig-size="4898,3265" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;Louise Menschh &lt;&quot;,&quot;camera&quot;:&quot;NIKON D7100&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473695618&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;140&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mon-12-sep-1349" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/01/mon-12-sep-1349.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/comey-day/" rel="category tag">Comey Day</a>, <a href="https://patribotics.blog/category/impeachment/" rel="category tag">Impeachment</a>, <a href="https://patribotics.blog/category/mike-flynn/" rel="category tag">Mike Flynn</a>, <a href="https://patribotics.blog/category/national-security/" rel="category tag">National Security</a>, <a href="https://patribotics.blog/category/russia/" rel="category tag">Russia</a>, <a href="https://patribotics.blog/category/supreme-court/" rel="category tag">Supreme Court</a>, <a href="https://patribotics.blog/category/trump-russia/" rel="category tag">Trump Russia</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/" rel="bookmark"><time class="entry-date published" datetime="2017-05-20T17:25:20+00:00">May 20, 2017</time><time class="updated" datetime="2017-05-20T18:10:35+00:00">May 20, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/" rel="permalink"><h1 class="entry-title">EXCLUSIVE: Judiciary Committee Considering Articles of&nbsp;Impeachment</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<p>By <a href="https://twitter.com/LouiseMensch">Louise Mensch</a> and <a href="https://twitter.com/TrueFactsStated">Claude Taylor</a></p>
+<p>Multiple sources close to the intelligence, justice and law enforcement communities say that the House Judiciary Committee is considering Articles of Impeachment against the President of the United States.</p>
+<p>Sources further say that the Supreme Court notified Mr. Trump that the formal process of a case of impeachment against him was begun, before he departed the country on Air Force One. The notification was given, as part of the formal process of the matter, in order that Mr. Trump knew he was not able to use his powers of pardon against other suspects in Trump-Russia cases. Sources have confirmed that the Marshal of the Supreme Court spoke to Mr. Trump.</p>
+<p>It was reported this week that Mr. Trump had texted Lt. Gen. Mike Flynn the message &#8216;Stay strong&#8217;. This might be interpreted as an attempt to intimidate a witness, sources say.</p>
+<p>Deputy Attorney General Rosenstein met with the House Judiciary Committee this week in closed session.</p>
+<p>The authors have previously reported exclusively on <a href="https://patribotics.blog/2017/05/14/exclusive-sealed-indictment-granted-against-donald-trump/">Patribotics</a> that a <a href="https://patribotics.blog/2017/05/14/exclusive-sealed-indictment-granted-against-donald-trump/">sealed indictment</a> exists against Donald Trump.</p>
+<hr />
+<blockquote>
+<h4>Editor’s Note: Donations and Whistleblowing</h4>
+<h4>Patribotics hopes to expand reporting and commission other writers. If you would like to <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch"><strong>donate</strong></a></span>, there are buttons around the site, or you could <strong><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch">make a contribution here. </a> </span>If whistleblowers wish to contact patribotics they are encouraged to get in touch on Twitter, or via the<span style="color:#ff0000;"> <a style="color:#ff0000;" href="https://patribotics.blog/contact/">contact form elsewhere</a> </span>on this site.</strong></h4>
+</blockquote>
+<p>&nbsp;</p>
+<p>More of Patribotics journalism:</p>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/13/trumps-presidency-ended-may-9th-hatch-getting-security-briefings/">“Trump’s Presidency Ended May 9th” – Hatch Getting Security Briefings</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/04/01/alfa-bank-trump-tower-and-a-social-media-impeachment/" rel="bookmark">Alfa Bank, Trump Tower and a Social Media Impeachment</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">EXCLUSIVE: RICO Case Being Pursued Against the GOP on Russian Money Launderin</a><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">g</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/">Jeff Sessions, Attorney General, Suspect</a></strong></li>
+</ul>
+<ul>
+<li>
+<p class="entry-title"><strong><a href="https://patribotics.blog/2017/04/16/carter-page-went-to-moscow-with-a-tape-of-donald-trump-offering-treason-for-hacking/" rel="bookmark">Carter Page Went to Moscow With a Tape of Donald Trump Offering Treason For Hacking</a></strong></p>
+</li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/">Dear Mr. Putin, Let’s Play Chess</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2847" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2847" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-2847" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=2847&amp;origin=patribotics.wordpress.com&amp;obj_id=122731350-2847-5924a3b002541' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+					<span class="comments-link"><a href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/#respond">Leave a comment</a></span>
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/articles-of-impeachment/" rel="tag">articles of impeachment</a>, <a href="https://patribotics.blog/tag/claude-taylor/" rel="tag">Claude Taylor</a>, <a href="https://patribotics.blog/tag/comey-day/" rel="tag">Comey Day</a>, <a href="https://patribotics.blog/tag/impeachment/" rel="tag">Impeachment</a>, <a href="https://patribotics.blog/tag/louise-mensch/" rel="tag">Louise Mensch</a>, <a href="https://patribotics.blog/tag/marshal-of-the-supreme-court/" rel="tag">Marshal of the Supreme Court</a>, <a href="https://patribotics.blog/tag/supreme-court/" rel="tag">Supreme Court</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				<article id="post-2755" class="post-2755 post type-post status-publish format-standard has-post-thumbnail hentry category-comey category-comey-day category-espionage category-hacking category-impeachment category-president-hatch category-trump-russia tag-amash tag-comey-computer tag-comey-memo tag-fbi tag-impeachment tag-james-comey tag-louise-mensch tag-patribotics tag-trump-russia">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/05/img_8094.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/05/img_8094.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/05/img_8094.jpg?w=1690&amp;h=900&amp;crop=1 1690w, https://patribotics.files.wordpress.com/2017/05/img_8094.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/05/img_8094.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/05/img_8094.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/05/img_8094.jpg?w=1024&amp;h=545&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="2798" data-permalink="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/img_8094/" data-orig-file="https://patribotics.files.wordpress.com/2017/05/img_8094.jpg" data-orig-size="6000,4000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 80D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1495041960&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;100&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_8094" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/05/img_8094.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/05/img_8094.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/comey/" rel="category tag">Comey</a>, <a href="https://patribotics.blog/category/comey-day/" rel="category tag">Comey Day</a>, <a href="https://patribotics.blog/category/espionage/" rel="category tag">Espionage</a>, <a href="https://patribotics.blog/category/hacking/" rel="category tag">Hacking</a>, <a href="https://patribotics.blog/category/impeachment/" rel="category tag">Impeachment</a>, <a href="https://patribotics.blog/category/president-hatch/" rel="category tag">President Hatch</a>, <a href="https://patribotics.blog/category/trump-russia/" rel="category tag">Trump Russia</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/" rel="bookmark"><time class="entry-date published" datetime="2017-05-17T21:34:35+00:00">May 17, 2017</time><time class="updated" datetime="2017-05-18T13:20:46+00:00">May 18, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/" rel="permalink"><h1 class="entry-title">Comey&#8217;s FBI Computer Illegally Accessed: Data Given to Russian&nbsp;Diplomats</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<p><strong>Exclusive:</strong> Sources close to the intelligence community report that Director Comey&#8217;s FBI computer was illegally accessed immediately after he was dismissed from his post. They further report that &#8216;removable media&#8217; was used in the commission of this crime. &#8216;Removable media&#8217; is a category describing physical devices that can be placed into a computer, either to download information or to upload it, such as a memory card, a USB stick, a removable hard drive, a thumb drive or similar items.</p>
+<p>Sources further report that a person or persons allied to Donald Trump passed data accessed from Director Comey&#8217;s computer to Russian diplomats. It is not known when or how this took place. A piece of removable media containing all the data in question has been recovered from hostile actors, sources say, and is now in the possession of the Justice Department.</p>
+<p><a href="https://patribotics.blog/2017/05/11/exclusive-comey-day-first-trump-russia-arrests-possible-thursday/">Director Comey is said to have known in advance</a> that Mr. Trump would dismiss him. He took careful steps, these sources say, to leave not only a paper trail as we have seen in the story of the <a href="https://www.nytimes.com/2017/05/16/us/politics/james-comey-trump-flynn-russia-investigation.html">&#8216;Comey Memo&#8217; </a>but also a digital one. Director Comey&#8217;s own primary work computer, and other computers in and around his former office, were fitted with sophisticated intelligence community software allowing the Justice Department to see precisely how and when they were attacked.</p>
+<p><img data-attachment-id="2801" data-permalink="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/comey-fired/" data-orig-file="https://patribotics.files.wordpress.com/2017/05/comey-fired.jpeg" data-orig-size="1270,1130" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="comey fired" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/05/comey-fired.jpeg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/05/comey-fired.jpeg?w=845" class="alignnone size-medium wp-image-2801" src="https://patribotics.files.wordpress.com/2017/05/comey-fired.jpeg?w=300&#038;h=267" alt="comey fired" width="300" height="267" srcset="https://patribotics.files.wordpress.com/2017/05/comey-fired.jpeg?w=300&amp;h=267 300w, https://patribotics.files.wordpress.com/2017/05/comey-fired.jpeg?w=600&amp;h=534 600w, https://patribotics.files.wordpress.com/2017/05/comey-fired.jpeg?w=150&amp;h=133 150w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>The official Foreign Ministry of Russia&#8217;s Twitter account posted a tweet showing <a href="https://twitter.com/mfa_russia/status/862318531664326656">Foreign Minister Lavarov laughing with Rex Tillerson</a>, the Secretary of State who has won the Order of Friendship of Vladimir Putin, over Director Comey&#8217;s firing, on the day Donald Trump hosted the Russians in the White House and <a href="http://www.bbc.com/news/world-us-canada-39937258">verbally gave them top-secret allied intelligence</a>, later published by the Russian news agency Tass.</p>
+<p>White House sources say <a href="https://patribotics.blog/2017/05/13/trumps-presidency-ended-may-9th-hatch-getting-security-briefings/">Trump has already discussed his resignation </a>more than once. Perhaps when he discovers that the justice and intelligence communities are well aware he breached Director Comey&#8217;s computer and handed FBI data to Russia, he may decide to spare the nation further trauma and resign.</p>
+<p>If he becomes President, Mike Pence will be unable to pardon Donald Trump for any crimes at the state level.</p>
+<p>More on this story as we receive it.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
+<blockquote>
+<h4>Patribotics hopes to expand reporting and commission other writers. If you would like to <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch"><strong>donate</strong></a>, </span>there are buttons around the site, or you could <strong><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch">make a contribution here. </a></span> </strong></h4>
+</blockquote>
+<p class="wpcnt">
+<h3>Read more of Patribotics breaking coverage here:</h3>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/">EXCLUSIVE: U.S. Marshals Readying; Plan Approved By Justice Dept Official</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/14/exclusive-sealed-indictment-granted-against-donald-trump/">EXCLUSIVE: Sealed Indictment granted against Donald Trump</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/13/trumps-presidency-ended-may-9th-hatch-getting-security-briefings/">“Trump’s Presidency Ended May 9th” – Hatch Getting Security Briefings</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/04/01/alfa-bank-trump-tower-and-a-social-media-impeachment/" rel="bookmark">Alfa Bank, Trump Tower and a Social Media Impeachment</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">EXCLUSIVE: RICO Case Being Pursued Against the GOP on Russian Money Launderin</a><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">g</a></strong></li>
+</ul>
+<ul>
+<li>
+<p class="entry-title"><strong><a href="https://patribotics.blog/2017/04/16/carter-page-went-to-moscow-with-a-tape-of-donald-trump-offering-treason-for-hacking/" rel="bookmark">Carter Page Went to Moscow With a Tape of Donald Trump Offering Treason For Hacking</a></strong></p>
+</li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/">Dear Mr. Putin, Let’s Play Chess</a></strong></li>
+</ul>
+<h3></h3>
+<p class="wpcnt">
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2755" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2755" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-2755" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=2755&amp;origin=patribotics.wordpress.com&amp;obj_id=122731350-2755-5924a3b012eed' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+					<span class="comments-link"><a href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/#comments">1 Comment</a></span>
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/amash/" rel="tag">Amash</a>, <a href="https://patribotics.blog/tag/comey-computer/" rel="tag">Comey Computer</a>, <a href="https://patribotics.blog/tag/comey-memo/" rel="tag">Comey Memo</a>, <a href="https://patribotics.blog/tag/fbi/" rel="tag">FBI</a>, <a href="https://patribotics.blog/tag/impeachment/" rel="tag">Impeachment</a>, <a href="https://patribotics.blog/tag/james-comey/" rel="tag">James Comey</a>, <a href="https://patribotics.blog/tag/louise-mensch/" rel="tag">Louise Mensch</a>, <a href="https://patribotics.blog/tag/patribotics/" rel="tag">Patribotics</a>, <a href="https://patribotics.blog/tag/trump-russia/" rel="tag">Trump Russia</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				<article id="post-2692" class="post-2692 post type-post status-publish format-standard has-post-thumbnail hentry category-comey category-comey-day category-dana-boente category-impeachment category-mike-flynn category-president-hatch category-supreme-court category-trump-russia tag-edva tag-federal-grand-jury tag-hacking tag-impeachment tag-louise-mensch tag-mike-flynn tag-patribotics tag-paul-manafort tag-rico tag-servers tag-supreme-court tag-u-s-marshals">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/05/mass_us_marshals_special_deputation_31566414674.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/05/mass_us_marshals_special_deputation_31566414674.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/05/mass_us_marshals_special_deputation_31566414674.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/05/mass_us_marshals_special_deputation_31566414674.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/05/mass_us_marshals_special_deputation_31566414674.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/05/mass_us_marshals_special_deputation_31566414674.jpg?w=1024&amp;h=546&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="2704" data-permalink="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/mass_us_marshals_special_deputation_31566414674/" data-orig-file="https://patribotics.files.wordpress.com/2017/05/mass_us_marshals_special_deputation_31566414674.jpg" data-orig-size="1599,1064" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Mass_US_Marshals_Special_Deputation_(31566414674)" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/05/mass_us_marshals_special_deputation_31566414674.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/05/mass_us_marshals_special_deputation_31566414674.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/comey/" rel="category tag">Comey</a>, <a href="https://patribotics.blog/category/comey-day/" rel="category tag">Comey Day</a>, <a href="https://patribotics.blog/category/dana-boente/" rel="category tag">Dana Boente</a>, <a href="https://patribotics.blog/category/impeachment/" rel="category tag">Impeachment</a>, <a href="https://patribotics.blog/category/mike-flynn/" rel="category tag">Mike Flynn</a>, <a href="https://patribotics.blog/category/president-hatch/" rel="category tag">President Hatch</a>, <a href="https://patribotics.blog/category/supreme-court/" rel="category tag">Supreme Court</a>, <a href="https://patribotics.blog/category/trump-russia/" rel="category tag">Trump Russia</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/" rel="bookmark"><time class="entry-date published" datetime="2017-05-16T15:29:24+00:00">May 16, 2017</time><time class="updated" datetime="2017-05-16T15:45:16+00:00">May 16, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/" rel="permalink"><h1 class="entry-title">EXCLUSIVE: U.S. Marshals Readying; Plan Approved By Justice Dept&nbsp;Official</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<p>The <a href="https://www.usmarshals.gov">U.S. Marshals Service</a> presented a plan to a senior Justice Department official yesterday for the service of warrants in the Trump-Russia inquiry, separate sources with links to the intelligence and law enforcement communities report.</p>
+<p>The extensive plan was approved yesterday by a senior Justice Department official who is closely involved in prosecuting the case.</p>
+<p>Sources say that the extensive plan, multiple pages in length, covered not only the serving of warrants, but logistical arrangements such as the closure of streets, if necessary.</p>
+<p>They further report that while timing is uncertain, such plans are normally only presented and approved when arrests are imminent.</p>
+<p>Patribotics knows the identity of the senior justice official who approved the plan, and the court in which it was approved. We are redacting that information for now.</p>
+<p>More on this story as it develops.</p>
+<p>Edited:</p>
+<p>I want to acknowledge the following tweets by <a href="http://www.travelphotography.net"><strong>Claude Taylor</strong></a> made last night. My sources support his sources (and go further). He has asked me to reproduce them exactly as written.</p>
+<blockquote><p>1. Followers know I&#8217;ve tried to avoid an exact timeline as to when to expect arrests. I&#8217;m now receiving word that it may be soon. <a href="https://twitter.com/TrueFactsStated/status/864247781724233728">Here&#8217;s why</a></p>
+<p>2. In order to avoid any possible misinterpretation, I&#8217;m going to give exact word for word quote of what I was told. &#8220;Rumor has it the AUSA</p>
+<p>3. has signed off on the tactical &amp; logistical plan to take numerous subjects into custody&#8221;. That&#8217;s it. Word for word.</p></blockquote>
+<p>&nbsp;</p>
+<hr />
+<blockquote>
+<h4>Editor’s Note: Donations and Whistleblowing</h4>
+<h4>Patribotics hopes to expand reporting and commission other writers. If you would like to <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch"><strong>donate</strong></a></span>, there are buttons around the site, or you could <strong><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch">make a contribution here. </a> </span>If whistleblowers wish to contact patribotics they are encouraged to get in touch on Twitter, or via the<span style="color:#ff0000;"> <a style="color:#ff0000;" href="https://patribotics.blog/contact/">contact form elsewhere</a></span> on this site.</strong></h4>
+</blockquote>
+<hr />
+<h3>Read more of Patribotics breaking coverage here:</h3>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/13/trumps-presidency-ended-may-9th-hatch-getting-security-briefings/">“Trump’s Presidency Ended May 9th” – Hatch Getting Security Briefings</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/04/01/alfa-bank-trump-tower-and-a-social-media-impeachment/" rel="bookmark">Alfa Bank, Trump Tower and a Social Media Impeachment</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">EXCLUSIVE: RICO Case Being Pursued Against the GOP on Russian Money Launderin</a><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">g</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/">Jeff Sessions, Attorney General, Suspect</a></strong></li>
+</ul>
+<ul>
+<li>
+<p class="entry-title"><strong><a href="https://patribotics.blog/2017/04/16/carter-page-went-to-moscow-with-a-tape-of-donald-trump-offering-treason-for-hacking/" rel="bookmark">Carter Page Went to Moscow With a Tape of Donald Trump Offering Treason For Hacking</a></strong></p>
+</li>
+</ul>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/">Dear Mr. Putin, Let&#8217;s Play Chess</a></strong></li>
+</ul>
+<h3></h3>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2692" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2692" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-2692" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=2692&amp;origin=patribotics.wordpress.com&amp;obj_id=122731350-2692-5924a3b015739' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+					<span class="comments-link"><a href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/#respond">Leave a comment</a></span>
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/edva/" rel="tag">EDVA</a>, <a href="https://patribotics.blog/tag/federal-grand-jury/" rel="tag">Federal Grand Jury</a>, <a href="https://patribotics.blog/tag/hacking/" rel="tag">Hacking</a>, <a href="https://patribotics.blog/tag/impeachment/" rel="tag">Impeachment</a>, <a href="https://patribotics.blog/tag/louise-mensch/" rel="tag">Louise Mensch</a>, <a href="https://patribotics.blog/tag/mike-flynn/" rel="tag">Mike Flynn</a>, <a href="https://patribotics.blog/tag/patribotics/" rel="tag">Patribotics</a>, <a href="https://patribotics.blog/tag/paul-manafort/" rel="tag">paul Manafort</a>, <a href="https://patribotics.blog/tag/rico/" rel="tag">RICO</a>, <a href="https://patribotics.blog/tag/servers/" rel="tag">Servers</a>, <a href="https://patribotics.blog/tag/supreme-court/" rel="tag">Supreme Court</a>, <a href="https://patribotics.blog/tag/u-s-marshals/" rel="tag">U.S. Marshals</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				<article id="post-2593" class="post-2593 post type-post status-publish format-standard has-post-thumbnail hentry category-comey category-comey-day category-russia category-trump-russia tag-brad-moss tag-carolina-conspiracy tag-fbi tag-foia tag-james-madison-project tag-louise-mensch tag-mark-zaid tag-rudy-giuliani">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/05/rufy.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/05/rufy.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/05/rufy.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/05/rufy.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/05/rufy.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/05/rufy.jpg?w=1024&amp;h=546&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="2649" data-permalink="https://patribotics.blog/2017/05/15/exclusive-fbi-no-longer-glomar-ing-on-politicized-leaks-to-giuliani/rufy/" data-orig-file="https://patribotics.files.wordpress.com/2017/05/rufy.jpg" data-orig-size="1599,1062" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="rufy" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/05/rufy.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/05/rufy.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/comey/" rel="category tag">Comey</a>, <a href="https://patribotics.blog/category/comey-day/" rel="category tag">Comey Day</a>, <a href="https://patribotics.blog/category/russia/" rel="category tag">Russia</a>, <a href="https://patribotics.blog/category/trump-russia/" rel="category tag">Trump Russia</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/05/15/exclusive-fbi-no-longer-glomar-ing-on-politicized-leaks-to-giuliani/" rel="bookmark"><time class="entry-date published" datetime="2017-05-15T18:30:37+00:00">May 15, 2017</time><time class="updated" datetime="2017-05-16T12:10:42+00:00">May 16, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/05/15/exclusive-fbi-no-longer-glomar-ing-on-politicized-leaks-to-giuliani/" rel="permalink"><h1 class="entry-title">Exclusive: FBI No Longer GLOMAR-ing on Politicized Leaks to&nbsp;Giuliani</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<h3></h3>
+<p>Today my lawyers <a href="https://twitter.com/BradMossEsq/status/864118947758706688https://twitter.com/BradMossEsq/status/864107516678070272">Brad Moss </a>and <a href="https://twitter.com/MarkSZaidEsq/status/797169542392905728">Mark S. Zaid</a>, received the following email from the FBI&#8217;s lawyers:</p>
+<blockquote><p>The FBI advises that it no longer intends to rely on a <em>Glomar</em> response with respect to your request regarding information leaked to Rudy Giuliani.  The FBI is currently considering your request in light of the testimony you referenced and hopes to be able to provide a response in the near future.</p>
+<p>&nbsp;</p>
+<p>We will be in touch with more information as it becomes available.</p></blockquote>
+<p>The request to which they refer, is the <a href="http://www.politico.com/f/?id=00000159-50da-d4ff-a75f-fbdadbf10002">lawsuit that I jointly filed</a> with the J<a href="http://www.jamesmadisonproject.org">ames Madison project</a> on December 20th, 2016, over non-response to a FOIA request of Nov 30th, 2016.</p>
+<p>The lawsuit was reported at the time in <a href="http://thehill.com/policy/national-security/312266-second-foia-lawsuit-targets-details-on-election-interference">the Hill </a>and <a href="http://www.politico.com/blogs/under-the-radar/2016/12/lawsuit-foia-foreign-interference-election-233068">Politico</a>. Patriot lawyers Mark and Brad represent me and the James Madison Project, pro bono.</p>
+<p>Our lawsuit refers to, inter alia, politicized leaks from the FBI to Rudy Giuliani:</p>
+<div class="page" title="Page 12">
+<div class="layoutArea">
+<div class="column">
+<p><strong>COUNT SIX – FBI</strong></p>
+</div>
+</div>
+</div>
+<div class="page" title="Page 12">
+<div class="layoutArea">
+<div class="column">
+<p>47. By letter dated November 30, 2016, JMP submitted to FBI a FOIA request. The FOIA request specifically sought copies of records, including cross-references, memorializing crime reports filed regarding, investigations conducted into and/or disciplinary or legal actions taken as a result of unauthorized leaks of U.S. Government information to non-U.S. Government individuals.</p>
+<p>&#8230;</p>
+<ol>
+<li>  Information or documentation provided directly or indirectly to Mr. Giuliani;</li>
+<li>  Information or documentation provided directly or indirectly to LTG Flynn;</li>
+<li>  Information or documentation provided to unauthorized third parties regarding the investigations into alleged mishandling of classified information by Secretary Clinton and/or her senior aides;</li>
+<li>  Information or documentation provided to unauthorized third parties regarding the investigations into alleged criminal actions by the Clinton Foundation; and</li>
+<li>  Information or documentation provided to unauthorized third parties regarding the investigation into a computer server linking Trump Tower to a Russian financial institution.</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="page" title="Page 12">
+<div class="layoutArea">
+<div class="column">
+<blockquote>
+<h4><span style="color:#ff0000;"><strong><a style="color:#ff0000;" href="https://patribotics.blog">Patribotics</a> </strong></span>hopes to expand reporting and commission other writers. If you would like to <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch"><strong>donate</strong></a></span>, there are buttons around the site, or you could <span style="color:#ff0000;"><strong><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch">make a contribution here. </a></strong></span></h4>
+</blockquote>
+<p>In <a href="https://www.washingtonpost.com/news/post-politics/wp/2017/05/03/read-the-full-testimony-of-fbi-director-james-comey-in-which-he-discusses-clinton-email-investigation/">his testimony</a> before the Senate Judiciary Committee, James Comey responded to a question about the leaks that named Giuliani:</p>
+<p>LEAHY: Let me ask you this. During your investigation into Hillary Clinton&#8217;s emails, a number of surrogates like Rudy Giuliani claimed to have a pipeline to the FBI. He boasted that, and I quote, numerous agents talk to him all the time. (Inaudible) regarding the investigation. He even said that he had — insinuated he had advanced warning about the emails described in your October letter. Former FBI agent Jim Kallstrom made similar claims.</p>
+<p>Now, either they&#8217;re lying, or there&#8217;s a serious problem within the bureau. Anybody in the FBI during this 2016 campaign have contact with Rudy Giuliani about — about the Clinton investigation?</p>
+<p>COMEY: I don&#8217;t know yet. But if I find out that people were leaking information about our investigations, whether it&#8217;s to reporters or to private parties, there will be severe consequences.</p>
+<p>LEAHY: Did you know of anything from Jim Kallstrom?</p>
+<p>COMEY: Same answer. I don&#8217;t know yet.</p>
+<p>LEAHY: Do you know any about — from other former agents?</p>
+<p>COMEY: I don&#8217;t know yet. But it&#8217;s a matter that I&#8217;m very, very interested in.</p>
+<p>LEAHY: But you are looking into it?</p>
+<p>COMEY: Correct.</p>
+<p>The FBI is, therefore, about to send us a response which won&#8217;t say &#8220;we can neither confirm nor deny&#8221; this.</p>
+<p>Obviously, I cannot be certain what the FBI&#8217;s lawyers will tell our lawyers. But there is a parallel instance where Jason Leopold of Vice made a FOIA request to the FBI over an investigation into Trump&#8217;s comments in July: &#8220;Russia, if you&#8217;re listening&#8230;.&#8221; as he called for Russia to release Clinton&#8217;s emails.</p>
+<p>The FBI response to that <a href="https://www.sparrowmedia.net/wp-content/uploads/2017/05/Joint-status-report-4-6-17.pdf">changed after Comey&#8217;s first testimony</a>. Their reply now includes these paragraphs:</p>
+<blockquote><p>One of Plaintiffs’ requests to the FBI (the “<strong>Russia Request</strong>”) sought “any and all records, including investigative records,” referring to the following statements attributed to then-candidate, now-President Trump on July 27, 2016: “<strong>Russia, if you’re listening, I hope you’re able to find the 30,000 emails that are missing.” </strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&#8220;the FBI expects that virtually all, if not all, of the documents responsive to the <strong>Russia Request</strong> will be exempt from disclosure in their entirety under Exemption 7(A), which applies to <strong>law-enforcement</strong> records the disclosure of which “could reasonably be expected to interfere<strong> with enforcement proceedings.</strong>”</p>
+<p>&#8220;10. Because of the existence of <strong>an active, ongoing investigation</strong>, the FBI anticipates that it will assert Exemption 7(A), on a categorical basis, to withhold all records that are responsive to the Russia Request, because releasing any responsive records (or portions thereof) “could reasonably be expected to interfere with enforcement proceedings.”</p></blockquote>
+</div>
+<p>This does appear to confirm there is an active investigation into Donald Trump&#8217;s request to Russia to release Hillary Clinton&#8217;s emails.</p>
+<p>Republicans on the various committees have concentrated on alleged &#8220;leaks&#8221; from law enforcement about the Russia probe, going on about their supposed criminality. They may well find themselves unpleasantly surprised when rogue FBI agents, leaking to Trump campaign senior adviser Rudy Giuliani, prove to be under investigation  &#8211; if indeed that is what their response tells us.</p>
+<p>We don&#8217;t yet know if it will.</p>
+<p>It was <a href="http://www.msnbc.com/rachel-maddow-show/trump-surrogate-giuliani-admits-he-received-inside-scoop-fbi">these comments of Giuliani&#8217;</a>s that prompted his inclusion in our FOIA request:</p>
+<blockquote><p>Rudy Giuliani said Friday that he knew the FBI planned to review more emails tied to Hillary Clinton before a public announcement about the investigation last week, confirming that the agency leaked information to Donald Trump’s presidential campaign.</p>
+<p>&#8230;&#8230;</p>
+<p>Last week, however, <a href="http://www.thedailybeast.com/articles/2016/11/03/meet-donald-trump-s-top-fbi-fanboy.html?via=desktop&amp;source=twitter" rel="nofollow">Giuliani said</a>, “The other rumor that I get is that there’s a kind of revolution going on inside the FBI…. I know that from former agents. I know that even from a few active agents.”</p>
+<p>So, which is it? Does Giuliani get leaks from active FBI agents or doesn’t he?</p></blockquote>
+<p>The James Madison Project and I are hoping to find out the answer to that question soon.</p>
+<blockquote><p><strong>If <span style="color:#ff0000;">whistleblowers</span> wish to contact patribotics they are encouraged to get in touch on Twitter, or via the <span style="color:#ff0000;"><a style="color:#ff0000;" href="https://patribotics.blog/contact/">contact form elsewhere</a> </span>on this site.</strong></p></blockquote>
+</div>
+</div>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2593" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/05/15/exclusive-fbi-no-longer-glomar-ing-on-politicized-leaks-to-giuliani/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2593" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/05/15/exclusive-fbi-no-longer-glomar-ing-on-politicized-leaks-to-giuliani/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-2593" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/05/15/exclusive-fbi-no-longer-glomar-ing-on-politicized-leaks-to-giuliani/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=2593&amp;origin=patribotics.wordpress.com&amp;obj_id=122731350-2593-5924a3b01858a' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+					<span class="comments-link"><a href="https://patribotics.blog/2017/05/15/exclusive-fbi-no-longer-glomar-ing-on-politicized-leaks-to-giuliani/#respond">Leave a comment</a></span>
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/brad-moss/" rel="tag">Brad Moss</a>, <a href="https://patribotics.blog/tag/carolina-conspiracy/" rel="tag">Carolina Conspiracy</a>, <a href="https://patribotics.blog/tag/fbi/" rel="tag">FBI</a>, <a href="https://patribotics.blog/tag/foia/" rel="tag">FOIA</a>, <a href="https://patribotics.blog/tag/james-madison-project/" rel="tag">James Madison Project</a>, <a href="https://patribotics.blog/tag/louise-mensch/" rel="tag">Louise Mensch</a>, <a href="https://patribotics.blog/tag/mark-zaid/" rel="tag">Mark Zaid</a>, <a href="https://patribotics.blog/tag/rudy-giuliani/" rel="tag">Rudy Giuliani</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				<article id="post-2502" class="post-2502 post type-post status-publish format-standard has-post-thumbnail hentry category-comey-day category-hacking category-impeachment category-national-security category-president-hatch category-russia category-supreme-court category-trump-russia tag-claude-taylor tag-comey-day tag-fbi tag-federal-grand-jury tag-fisa tag-impeachment tag-james-comey tag-louise-mensch tag-supreme-court tag-trump-indictment">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg?w=1690&amp;h=900&amp;crop=1 1690w, https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg?w=1024&amp;h=545&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="2447" data-permalink="https://patribotics.blog/2017/05/13/trumps-presidency-ended-may-9th-hatch-getting-security-briefings/olympus-digital-camera/" data-orig-file="https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg" data-orig-size="2017,1480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;13&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;u10D,S300D,u300D&quot;,&quot;caption&quot;:&quot;OLYMPUS DIGITAL CAMERA&quot;,&quot;created_timestamp&quot;:&quot;-62169984000&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;12.84&quot;,&quot;iso&quot;:&quot;80&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;OLYMPUS DIGITAL CAMERA&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OLYMPUS DIGITAL CAMERA" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/05/courtequaljustice.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/comey-day/" rel="category tag">Comey Day</a>, <a href="https://patribotics.blog/category/hacking/" rel="category tag">Hacking</a>, <a href="https://patribotics.blog/category/impeachment/" rel="category tag">Impeachment</a>, <a href="https://patribotics.blog/category/national-security/" rel="category tag">National Security</a>, <a href="https://patribotics.blog/category/president-hatch/" rel="category tag">President Hatch</a>, <a href="https://patribotics.blog/category/russia/" rel="category tag">Russia</a>, <a href="https://patribotics.blog/category/supreme-court/" rel="category tag">Supreme Court</a>, <a href="https://patribotics.blog/category/trump-russia/" rel="category tag">Trump Russia</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/05/14/exclusive-sealed-indictment-granted-against-donald-trump/" rel="bookmark"><time class="entry-date published" datetime="2017-05-14T02:00:51+00:00">May 14, 2017</time><time class="updated" datetime="2017-05-16T12:09:41+00:00">May 16, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/05/14/exclusive-sealed-indictment-granted-against-donald-trump/" rel="permalink"><h1 class="entry-title">EXCLUSIVE: Sealed Indictment granted against Donald&nbsp;Trump</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<p>By <a href="https://twitter.com/patribotics">Louise Mensch</a> and <a href="https://twitter.com/TrueFactsStated">Claude Taylor</a></p>
+<p>Separate sources with links to the intelligence and justice communities have stated that a sealed indictment has been granted against Donald Trump.</p>
+<p>While it is understood that the Supremacy Clause of the Constitution means that, until Mr. Trump is impeached, he cannot be prosecuted, sources say that the indictment is intended by the FBI and prosecutors in the Justice Department to form the basis of Mr. Trump&#8217;s impeachment. The indictment is, perhaps uniquely, not intended or expected to be used for prosecution, sources say, because of the constitutional position of the President.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
+<blockquote>
+<h4>Editor’s Note: Donations and Whistleblowing</h4>
+<h4>Patribotics hopes to expand reporting and commission other writers. If you would like to <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch"><strong>donate</strong></a></span>, there are buttons around the site, or you could <strong><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://paypal.me/LouiseMensch">make a contribution here. </a> </span>If whistleblowers wish to contact patribotics they are encouraged to get in touch on Twitter, or via the<span style="color:#ff0000;"> <a style="color:#ff0000;" href="https://patribotics.blog/contact/">contact form elsewhere</a></span> on this site.</strong></h4>
+</blockquote>
+<p>&nbsp;</p>
+<hr />
+<h3>Read more of Patribotics breaking coverage here:</h3>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/13/trumps-presidency-ended-may-9th-hatch-getting-security-briefings/">“Trump’s Presidency Ended May 9th” – Hatch Getting Security Briefings</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/04/01/alfa-bank-trump-tower-and-a-social-media-impeachment/" rel="bookmark">Alfa Bank, Trump Tower and a Social Media Impeachment</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">EXCLUSIVE: RICO Case Being Pursued Against the GOP on Russian Money Launderin</a><a href="https://patribotics.blog/2017/05/11/sources-russia-probe-means-president-hatch-rico-case-against-gop/">g</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/">Jeff Sessions, Attorney General, Suspect</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<p class="entry-title"><strong><a href="https://patribotics.blog/2017/04/16/carter-page-went-to-moscow-with-a-tape-of-donald-trump-offering-treason-for-hacking/" rel="bookmark">Carter Page Went to Moscow With a Tape of Donald Trump Offering Treason For Hacking</a></strong></p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/">Dear Mr. Putin, Let&#8217;s Play Chess</a></strong></li>
+</ul>
+<h3></h3>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2502" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/05/14/exclusive-sealed-indictment-granted-against-donald-trump/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2502" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/05/14/exclusive-sealed-indictment-granted-against-donald-trump/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-2502" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/05/14/exclusive-sealed-indictment-granted-against-donald-trump/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=2502&amp;origin=patribotics.wordpress.com&amp;obj_id=122731350-2502-5924a3b01a565' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/claude-taylor/" rel="tag">Claude Taylor</a>, <a href="https://patribotics.blog/tag/comey-day/" rel="tag">Comey Day</a>, <a href="https://patribotics.blog/tag/fbi/" rel="tag">FBI</a>, <a href="https://patribotics.blog/tag/federal-grand-jury/" rel="tag">Federal Grand Jury</a>, <a href="https://patribotics.blog/tag/fisa/" rel="tag">FISA</a>, <a href="https://patribotics.blog/tag/impeachment/" rel="tag">Impeachment</a>, <a href="https://patribotics.blog/tag/james-comey/" rel="tag">James Comey</a>, <a href="https://patribotics.blog/tag/louise-mensch/" rel="tag">Louise Mensch</a>, <a href="https://patribotics.blog/tag/supreme-court/" rel="tag">Supreme Court</a>, <a href="https://patribotics.blog/tag/trump-indictment/" rel="tag">Trump Indictment</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+			
+	<nav class="navigation posts-navigation" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://patribotics.blog/2017/05/page/2/" >Older posts</a></div></div>
+	</nav>
+		
+		</main><!-- #main -->
+	</section><!-- #primary -->
+
+
+<div id="secondary" class="widget-area" role="complementary">
+
+	<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://patribotics.blog/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="archives-2" class="widget widget_archive"><h6 class="widget-title">Archives</h6>		<ul>
+			<li><a href='https://patribotics.blog/2017/05/'>May 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/04/'>April 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/03/'>March 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/02/'>February 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/01/'>January 2017</a></li>
+		</ul>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h6 class="widget-title">Recent Posts</h6>		<ul>
+					<li>
+				<a href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/">EXCLUSIVE: Marshal of the Supreme Court Warned Trump over &#8216;Muslim&nbsp;Ban&#8217;</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/">Mike Flynn Turns on Trump, Talks To&nbsp;FBI</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/">EXCLUSIVE: Judiciary Committee Considering Articles of&nbsp;Impeachment</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/">Comey&#8217;s FBI Computer Illegally Accessed: Data Given to Russian&nbsp;Diplomats</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/">EXCLUSIVE: U.S. Marshals Readying; Plan Approved By Justice Dept&nbsp;Official</a>
+						</li>
+				</ul>
+		</aside>		
+</div><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-footer-inner">
+
+			
+
+		</div><!-- .site-footer-inner -->
+	</footer><!-- #colophon -->
+
+	
+<div class="site-info-wrapper">
+	<div class="site-info">
+		<div class="site-info-inner">
+
+			<h6>Exposing Vladimir Putin&#039;s War on America</h6>
+
+			
+			<div class="social-menu">
+				<h6 class="find-us">Find us on</h6>
+				<div class="menu-social-links-container"><ul id="menu-social-links-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://facebook.com/">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://twitter.com/wordpressdotcom">Twitter</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://dribbble.com/automattic">Dribbble</a></li>
+</ul></div>			</div><!-- .social-menu -->
+
+			
+			<div class="site-info-text">
+				<a></a>
+				
+							</div><!-- .site-info-text -->
+
+		</div><!-- .site-info-inner -->
+	</div><!-- .site-info -->
+</div><!-- .site-info-wrapper -->
+</div><!-- #page -->
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = {"settings":{"id":"main","ajaxurl":"https:\/\/patribotics.blog\/?infinity=scrolling","type":"scroll","wrapper":false,"wrapper_class":"infinite-wrap","footer":"content","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"23.05.17","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":0,"history":{"host":"patribotics.blog","path":"\/2017\/05\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"year":2017,"monthnum":5,"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","static":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":7,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":"2017-05-14 02:00:51","stats":"blog=122731350&v=wpcom&tz=0&user_id=0&subd=patribotics&x_pagetype=infinite"}};
+		//]]>
+		</script>
+		<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201721y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+		<div id="infinite-footer">
+			<div class="container">
+				<div class="blog-info">
+					<a id="infinity-blog-title" href="https://patribotics.blog/" rel="home">
+						patribotics					</a>
+				</div>
+				<div class="blog-credits">
+					<a></a> 				</div>
+			</div>
+		</div><!-- #infinite-footer -->
+					<script type="text/javascript">
+			try {
+				window._ttf = window._ttf || [];
+				_ttf.push({
+					pid          : 25030
+					,lang        : "en"
+				 	,format      : "inread"
+					,slot        : ".teads_slot"
+					,slotMode    : "in"
+					,minSlot     : 1
+					,css         : "margin: 10px auto; max-width: 550px;"
+				});
+				(function (d) {
+				        var js, s = d.getElementsByTagName('script')[0];
+				        js = d.createElement('script');
+				        js.async = true;
+				        js.src = '//cdn.teads.tv/media/format.js';
+				        s.parentNode.insertBefore(js, s);
+				})(window.document);
+			} catch(e) {}
+			</script>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/patribotics.blog\/2017\/05\/23\/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban\/":2948,"https:\/\/patribotics.blog\/2017\/05\/22\/mike-flynn-turns-on-trump-talks-to-fbi\/":2896,"https:\/\/patribotics.blog\/2017\/05\/20\/exclusive-judiciary-committee-considering-articles-of-impeachment\/":2847,"https:\/\/patribotics.blog\/2017\/05\/17\/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats\/":2755,"https:\/\/patribotics.blog\/2017\/05\/16\/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official\/":2692,"https:\/\/patribotics.blog\/2017\/05\/15\/exclusive-fbi-no-longer-glomar-ing-on-politicized-leaks-to-giuliani\/":2593,"https:\/\/patribotics.blog\/2017\/05\/14\/exclusive-sealed-indictment-granted-against-donald-trump\/":2502};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="122731350" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://patribotics.blog" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="patribotics" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="14c3d66098" /><input type="hidden" name="_wp_http_referer" value="/2017/05/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2-2' href='https://s1.wp.com/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1443731146h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"122731350","siteName":"patribotics","siteURL":"https:\/\/patribotics.blog","icon":"<img alt='' src='https:\/\/patribotics.files.wordpress.com\/2017\/01\/cropped-mon-12-sep-13491.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/dailymag","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F05%2F23%2Fexclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban%2F","themeURL":"https:\/\/wordpress.com\/theme\/dailymag\/","xhrURL":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"ebeaf38cf0","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"08ad06bcf1\" \/>","referer":"https:\/\/patribotics.blog\/2017\/05\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/patribotics.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fpatribotics.wordpress.com%2F2017%2F05%2F","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: DailyMag","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 14,037 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F05%2F23%2Fexclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"62ffdf63fe","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F05%2F17%2Fcomeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats%2F","blog_id":"122731350","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=122731350&v=wpcom&tz=0&user_id=0&subd=patribotics","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVkNFuwyAMRX9ozG1VbdrDtG9xwUlNwDAM6fr3I5USTX2ItLeLufdwDdyysUkqSQWv4GhmS/nn1esL/LmKzeTQRhaFwBMpfDdqdEVxgcqOmWVg4XrfxLO3Xil2XC4UuUVwyOEecVy6CM48YuUk/wjpxNkElskMyTY1A+/tgi6ymAsWiKiVSlcmzVQKu87fZnsEuxRcCJvacVssqSkF8FQz2smsgzXDYkNb3l5WuQ3p4snWZ+BKm3vLBKhK9RF4nPunqPbEV/w8nj9Oh8Pb8fTufwFoZrdi'></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVzTEOwjAMheELYQwSEBgQZ0kbE1xcN3Jcqt6+XRhYQExP//Dp4VSgHdRJHfsRioyZtaJP7E4GjcT22bAlKEyo9CIjTax529UN/mPLb8dCCXIUIZs/64sqQ3W4S2TD+oi2Xrx3Rbf+uj+cL7twCsfQLZZaV/w='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery","jquery-core","jquery-migrate","mobile-useragent-info","postmessage","jquery_inview","jetpack_resize","spin","jquery.spin","grofiles-cards","wpgroho","devicepx","jetpack_likes_queuehandler","the-neverending-homepage","dailymag-navigation","dailymag-skip-link-focus-fix","wpcom-masterbar-js","wpcom-actionbar-bar","jetpack-carousel","swfobject","videopress","twitter-widgets","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery","sharing-js"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["wpcom-smileys","jetpack_likes","wordads-global","the-neverending-homepage","wpcom-core-compat-playlist-styles","mp6hacks","wpcom-bbpress2-staff-css","dailymag","noticons","geo-location-flair","reblogging","a8c-global-print","wpcom-actionbar-bar","sharedaddy","social-logos","h4-global","dailymag-fonts","jetpack-carousel","tiled-gallery","jetpack-carousel-ie8fix"] );
+		</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.defer = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'122731350','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'122731350','v':'wpcom','tz':'0','user_id':'0','subd':'patribotics'}]);
+_stq.push(['extra', {'crypt':##Crypt##'}]);q
+_stq.push([ 'clickTrackerInit', '122731350', '0' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

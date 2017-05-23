@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://patribotics.blog/xmlrpc.php">
+
+<title>Dear Mr. Putin, Let&#8217;s Play Chess &#8211; patribotics</title>
+		<script src='https://r-login.wordpress.com/remote-login.php##Scriptpath##</script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//patribotics.wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="patribotics &raquo; Feed" href="https://patribotics.blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="patribotics &raquo; Comments Feed" href="https://patribotics.blog/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="patribotics &raquo; Dear Mr. Putin, Let&#8217;s Play&nbsp;Chess Comments Feed" href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJyFkOsOgjAMhV/I2RiJlx/GZxlbg8OWLbSE8PYO8RLR4J+lpzlfT1fok3GxUWwUuDOJuio0An1ykY1wIBxmau1EVvAbo3BFgRo1WXc1d/VlLylW75zYeusFKoqlpaXRLZJV9CZF0ZlawlxsMfc5WR0djD5YJORsW8I47Z7UWF7ydxZjpguVZWpRxOSXQ8dGLznoz3o8rjKdCrLxszOhAZqoIdPyKr5mTlHwSAZvAw1sKxAdCEf3mU+b4rDf7jbFsahvET69JQ==' type='text/css' media='all' />
+<link rel='stylesheet' id='dailymag-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%7CAbril+Fatface%3A400%7CLora%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=0.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJzTLy/QTc7PK0nNK9HPLdUtyClNz8wr1k9PzdfNyU9OLMnMz0Ph6KblJGYW6SUXF+voY9dalJqUk58OZKbrA1UhcUGa7HNtDU1MLU1MLMwNTbIAmkQtqg==' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s2.wp.com/_static/??-eJx9i9EKwjAMRX/IGoVN54P4LVnp2kialCbD3xcfRGTi0z0XzoFHC1HFkzjUNTReM4kBRieVGfuH9tFsB7/1puZhYaQOVrCT5Pf+q0wjIQfWrN9nE3lJNRmUATLrjPwSbvV6HC6H83Qap/H+BMWZScE=' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFj90KwjAMhV/IrAw6xQvxWWoXS2r/bNoNfXo70At1KARCTr4cTsScgIJ2dUQWttW1Yr49W2d5I34B4MlkVbDzFF6wjqFgKAvr44kcQmXMyjStGZ3jCpciF4/MDVrZvkeiMBHOfzGLJSl9gYxM9y9XXyG5aiiwyOjaAyMsGT6mdnX0h17uh36Qcre1DyuucHk='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://patribotics.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='Jeff Sessions: Attorney General,&nbsp;Suspect' href='https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/comment-page-2/#comments" />
+<link rel='shortlink' href='http://wp.me/p8iY1U-4' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fpatribotics.blog%2F2017%2F01%2F17%2Fdear-mr-putin-lets-play-chess-louise-mensch-trump-russia%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fpatribotics.blog%2F2017%2F01%2F17%2Fdear-mr-putin-lets-play-chess-louise-mensch-trump-russia%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Dear Mr. Putin, Let&#8217;s Play Chess" />
+<meta property="og:url" content="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/" />
+<meta property="og:description" content="Editor’s Note Patribotics hopes to expand reporting and commission other writers. If you would like to donate, there are buttons around the site, or you could make a contribution here.  PART ONE: P…" />
+<meta property="article:published_time" content="2017-01-17T19:40:20+00:00" />
+<meta property="article:modified_time" content="2017-05-13T13:22:23+00:00" />
+<meta property="og:site_name" content="patribotics" />
+<meta property="og:image" content="https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="942" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:image:src" content="https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://patribotics.blog/osd.xml" title="patribotics" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="patribotics" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Exposing Vladimir Putin&#039;s War on America" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://patribotics.blog/feed/;icon-uri=https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Dear Mr. Putin, Let&#8217;s Play&nbsp;Chess | patribotics on WordPress.com" />
+<meta name="description" content="Editor’s Note Patribotics hopes to expand reporting and commission other writers. If you would like to donate, there are buttons around the site, or you could make a contribution here.  PART ONE: PAWN TAKES QUEEN I have an overarching theory of Russia’s attack on America and the West. Here it is. There have not been a series of&hellip;" />
+ 		<script type="text/javascript">
+		var _ipw_custom = {
+				wordAds: '1',
+				adSafe: '1',
+				domain: 'patribotics.blog',
+				pageURL: 'https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/'
+			};
+		</script>
+ 		<script type="text/javascript" src="//s.pubmine.com/head.js"></script>
+		<script type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script><link rel="amphtml" href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<link rel="icon" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=270" />
+
+</head>
+<body class="post-template-default single single-post postid-4 single-format-standard mp6 customizer-styles-applied layout-two-column-default highlander-enabled highlander-light">
+
+<progress value="0"></progress>
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+<div class="secondary-navigation-container">
+	<nav id="secondary-navigation" class="nav-menu-wrapper" role="navigation">
+		<div class="menu"><ul>
+<li ><a href="https://patribotics.blog/">Home</a></li><li class="page_item page-item-2"><a href="https://patribotics.blog/about/">About</a></li>
+<li class="page_item page-item-3"><a href="https://patribotics.blog/contact/">Contact and Whistleblowing</a></li>
+</ul></div>
+	</nav><!-- #site-navigation -->
+</div>
+	<header id="masthead" class="site-header" role="banner">
+
+		
+<div class="site-title-wrapper">
+
+	<div class="site-title-wrapper-inner">
+
+		<div class="site-logo"></div>
+
+		<h1 class="site-title"><a href="https://patribotics.blog/" rel="home">patribotics</a></h1>
+		<div class="site-description">Exposing Vladimir Putin&#039;s War on America</div>
+
+	</div><!-- .site-info-inner -->
+
+	
+	<div class="social-menu">
+		<div class="menu-social-links-container"><ul id="menu-social-links" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://facebook.com/">Facebook</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://twitter.com/wordpressdotcom">Twitter</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://dribbble.com/automattic">Dribbble</a></li>
+</ul></div>	</div><!-- .social-menu -->
+
+	
+</div><!-- .site-title-wrapper -->
+
+	</header><!-- #masthead -->
+
+	
+<div class="main-navigation-container">
+	<nav id="site-navigation" class="nav-menu-wrapper" role="navigation">
+		<button class="menu-toggle" id="menu-toggle" aria-controls="primary-menu" aria-expanded="false">&#9776; Menu</button>
+		<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/">Home</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9"><a href="https://patribotics.blog/about/">About</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="https://patribotics.blog/contact/">Contact and Whistleblowing</a></li>
+</ul></div>	</nav><!-- #site-navigation -->
+</div>
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<article id="post-4" class="post-4 post type-post status-publish format-standard has-post-thumbnail hentry category-espionage category-national-security category-russia tag-assange tag-cia tag-formspring tag-gazprom tag-hacking tag-impeachment tag-manafort tag-nikulin tag-page tag-putin tag-russia tag-snowden tag-trump tag-wiener">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=1690&amp;h=900&amp;crop=1 1690w, https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=1024&amp;h=545&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="20" data-permalink="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/chess/" data-orig-file="https://patribotics.files.wordpress.com/2017/01/chess.jpg" data-orig-size="2606,2045" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;Louise Menschh &lt;&quot;,&quot;camera&quot;:&quot;NIKON D7100&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473691716&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;38&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="chess" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/01/chess.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/espionage/" rel="category tag">Espionage</a>, <a href="https://patribotics.blog/category/national-security/" rel="category tag">National Security</a>, <a href="https://patribotics.blog/category/russia/" rel="category tag">Russia</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/" rel="bookmark"><time class="entry-date published" datetime="2017-01-17T19:40:20+00:00">January 17, 2017</time><time class="updated" datetime="2017-05-13T13:22:23+00:00">May 13, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/" rel="permalink"><h1 class="entry-title">Dear Mr. Putin, Let&#8217;s Play&nbsp;Chess</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<blockquote>
+<h3>Editor’s Note</h3>
+<p>Patribotics hopes to expand reporting and commission other writers. If you would like to <a href="http://paypal.me/LouiseMensch"><strong>donate</strong></a>, there are buttons around the site, or you could <strong><a href="http://paypal.me/LouiseMensch">make a contribution here. </a></strong></p></blockquote>
+<h2 class="p1">PART ONE: PAWN TAKES QUEEN</h2>
+<p class="p3">I have an overarching theory of Russia’s attack on America and the West. Here it is.</p>
+<p class="p3"><strong>There have not been a series of attacks on America and Europe by Vladimir Putin. There has been <em>one single operation</em>; it is the <em>same operation</em>.</strong></p>
+<p class="p3">By 2008, possibly even earlier, according to John Schindler, a National Security expert formerly at the NSA, <a href="http://observer.com/2016/08/the-real-russian-mole-inside-nsa/">Russia had placed moles in the highest levels of US counter-intelligence</a>. I take this as my starting-point, because all the subsequent facts bear it out.</p>
+<p class="p3">Mr. Putin always wanted to use the strength of the West as a lever to attack it, because Russia is weak and poor. So he did, and he used a very old-fashioned and effective method. Spies inside the IC. He also believes in propaganda and mind-games. He uses them on the West, he uses them on Russians, in Russia.</p>
+<p class="p3">Hillary Clinton correctly noted that Putin rigged his own election in 2011. This, apparently, is when he started to hate her.</p>
+<p class="p3">By the 2012 election, <a href="https://twitter.com/DrJillStein/status/265628616744894464">Russia’s desire to interfere</a> with American democracy was already there, but it as yet didn’t have the tools to succeed in that aim. I deliberately omit some of the timeline here in order to get to the bigger points in the story, but I will return to it later.</p>
+<p class="p3">Russian moles placed inside the NSA recruited Edward Snowden.<a href="http://heatst.com/politics/assange-doc-suggests-russia-knew-in-advance-ed-snowden-would-spy-on-nsa/"> A letter between the FSB in Cuba and SENAIN in Quito held in a file marked ‘Assange’ in London</a>, dated 4<span class="s1"><sup>th</sup></span> April 2013, the day before Snowden sent his only email on legalities, April 5<span class="s1"><sup>th</sup></span> 2013, and before Snowden took his uppermost level documents during the rest of the month of April, proves conclusively that Mr. Snowden is a Russian agent who acted on instructions from Moscow. After Snowden fled to Hong Kong, he escaped from there by an Ecuadorean travel document arranged by Julian Assange, and tried to get to Cuba.</p>
+<p class="p3">Snowden is a low-level IT idiot. He <i>had help</i> taking what he took from the NSA. I recommend the NSA review their case files and pick up the Russian moles within their agency. Snowden used stolen credentials, but it is almost certain that he received a piece of removable media like a memory card from his Russian handlers. He took military secrets. And by “he” I mean the FSB.</p>
+<p class="p3">In 2013, after the Russians received all of the Snowden files, and China some of them, most press coverage concentrated on the traps that terrorists and Russian spies were able to avoid. They missed that Russian hackers would now proceed to use the NSA’s tech offensively.</p>
+<p class="p3">In 2013, the Russians briefed their army of hackers.</p>
+<p class="p3">In 2012/13, a young Russian hacker called Yvegeny Nikulin, then 26, was <a href="https://www.justice.gov/opa/pr/yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-and-formspring">using Snowden’s NSA techniques &#8211; stolen credentials &#8211; to hack LinkedIn, Dropbox and Formspring</a>.</p>
+<p class="p3">Formspring, which shut down late 2013, was the app that Anthony Wiener used for his sexting.</p>
+<p class="p3">According to John Schindler, &#8220;a hacker&#8221;(Nikulin) was picked up in Prague, October 5<span class="s1"><sup>th</sup></span>, <a href="http://observer.com/2016/10/east-west-spywar-heats-up-with-arrest-of-russian-hacker-in-prague/">on suspicion of interfering with the DNC and the Democrats in America’s election.</a> He had been sought on an <a href="http://observer.com/2016/10/east-west-spywar-heats-up-with-arrest-of-russian-hacker-in-prague/">FBI red warrant</a>.</p>
+<p class="p3">He is being extradited to the United States (if <a href="http://www.businessinsider.com/trump-names-foreign-policy-team-led-by-senator-sessions-2016-3">Jeff Sessions, a Russia partisan who recruited the spy Carter Page into Team Trump,</a> does not try to stop it)  over strong protests from Russia. The DoJ announcement on his indictment mentioned not only Formspring, but ‘a count of conspiracy’ and ‘sending a code to a computer’.</p>
+<p class="p3">It was three years later. Nikulin was now 29.</p>
+<p class="p3">On Oct 26, <a href="http://video.foxnews.com/v/5185914034001/#sp=show-clips">Rudy Giuliani joked on television</a> about a big surprise coming in the election that would turn things around for Trump.</p>
+<p class="p3"><a href="https://www.nytimes.com/interactive/2016/10/28/us/politics/fbi-letter.html?_r=0">On Oct 28, Director James Comey of the FBI announced</a> that more as yet unexamined emails had been found on an old laptop of Mr. Wiener’s.</p>
+<p class="p3">Mr. Putin, it is my surmise that some of the Russian moles inside US counter-intelligence work within the FBI’s criminal division, and particularly, within the New York field office.</p>
+<p class="p3">It is my surmise that your hacker, Nikulin, s<a href="https://www.justice.gov/opa/press-release/file/904516/download">ent a command buried in a virus earlier transmitted by Formspring to ‘wake up’ that old computer and either find, or place, emails from Huma Abedin on to it, </a>and that you then contacted your moles inside the NYPD/  FBI NY and told them to “suddenly find” emails that, the expectation was, could not possibly be combed through in time before the election.</p>
+<p class="p3">Your agents within the FBI Field Office then did a number of additional things.</p>
+<p class="p3">Firstly, they illegally spoke to any friendly press and the Trump campaign about putative ongoing criminal investigations into the Clinton Foundation and the matter of her email server.</p>
+<p class="p3">They told Fox News’s Brett Baier that Hillary Clinton “Would soon be indicted” and this was reported on TV, and then retracted after the damage was done.</p>
+<p class="p3">They told your agents of influence, Rudy Giuliani and X Kallstrom, that ‘a group of active FBI agents’ had demanded Comey release his letter. Both of them stated as much, Mr. Giuliani specifying ‘active’ FBI agents.</p>
+<p class="p3">They used your agent General Flynn &#8211; I scorn to use ‘of influence’ in this case, Flynn knew what he was doing &#8211; to say on live television that active FBI agents were talking to him about an going ‘criminal investigation’</p>
+<p class="p3">And they told the New York Times that the FBI ’Saw No Clear Ties to Russia’ in the matter of the Russian bank servers. And the New York Times printed it, even though they, the Times, knew it was false.</p>
+<p class="p3">Before the election, only I reported, correctly, that the FBI’s Counter-Intelligence division in Connecticut had obtained a FISA warrant for ‘any US persons’ relating to the two banks involved in the Trump Tower server; Alfa Bank and SVB Bank.</p>
+<p class="p3">So your moles in the NSA recruited Ed Snowden in 2012/2013.</p>
+<p class="p3">You got to work using NSA hacking techniques. Stealing legit credentials features often. You hacked Wiener in 2013 via Formspring. You waited.</p>
+<p class="p3">You used your moles in the FBI Field Office and, in 2016 at the right moment, you woke up Wiener’s laptop via the ’Snowden Virus’, found or planted old emails on it, and suddenly had the FBI Field Office “find it” and then lean, hard, on Comey to produce the letter he did.</p>
+<p class="p3">Your RIS moles in the FBI then engaged in some agitprop with Giuliani, Flynn, an innocent Fox News, a not-innocent New York Times who deliberately used its prior authority to rubbish Franklin Foer and David Corn’s Alfa Bank server reporting, to make absolutely certain that “Trump-Russia” was suppressed and Clinton was defeated.</p>
+<p class="p3">Your agents in the FBI Field Office in New York did, however, make one incredibly stupid mistake. <a href="https://twitter.com/DustinGiebel/status/793509666055557120">A coder named Dustin Giebel caught it and he flagged it up to me</a>.</p>
+<p class="p3">The trouble with hiring young and foolish men to flood twitter and Facebook, to act as your hackers and so forth, is that they are young and foolish. Trolls gonna troll.</p>
+<p class="p3">In this case, the Twitter account @FBIRecordsVault ceased being dormant for the first time in two years. It went on a little tweet storm. The last tweets were attacks on Hillary Clinton with a chaser of an attack on Eric Holder, the former AG. <a href="http://heatst.com/politics/dormant-fbi-archives-twitter-account-revived-two-days-ago-pro-trump-anti-clinton/">The first tweet, however, was a tweet praising Fred C. Trump.</a> (Donald Trump has often said that his father is his only hero). It used language about Mr. Trump senior that was not only unlike any FBI descriptors ever used before, but had been lifted from Donald Trump’s commercial, company website.</p>
+<p class="p3">When I saw that, I was overwhelmed with joy. It was not the severity of the offense, it was its traceability. Somebody sat at a keyboard and typed those tweets. Identifiable people. An <a href="http://heatst.com/politics/fbi-will-launch-internal-investigation-over-phantom-fbi-records-vault-tweets/">FBI statement wrongly said</a> that these were automated responses to three FOIA requests. Not true. Some identifiable person ordered and gave that statement. <a href="http://thehill.com/policy/national-security/312266-second-foia-lawsuit-targets-details-on-election-interference">When I filed a private FOIA lawsuit with Mark S Zaid and Bradley Moss, we wrote the questions in ways that would be difficult to avoid answering.</a> Who wrote those tweets? How many agents knew of them? What records exist of FBI agents or staff visiting the Trump commercial website to lift the descriptor of Fred Trump? What <i>internal </i>investigations exist into FBI agents leaking criminal investigations to Flynn and Giuliani? Do they feature any of the same agents who composed, knew of or authorized the FBI Records Vault tweets?</p>
+<p class="p3">Days after our FOIA requests landed, Mr. Giuliani abruptly withdrew from his application to be Secretary of State. A week after our lawsuit was announced over non-response, <a href="https://www.washingtonpost.com/news/post-nation/wp/2017/01/12/justice-department-inspector-general-to-investigate-pre-election-actions-by-department-and-fbi/?utm_term=.ef18c04fc7a1">the Department of Justice announced an investigation into more or less every matter named in our lawsuit</a>, including the FBI Records Vault’s beautifully traceable tweets.</p>
+<p class="p3">Even little pawns, like Twitter accounts, can become Queens, if you let them reach the 8<span class="s1"><sup>th</sup></span> square, Mr. Putin.</p>
+<p class="p3">So there you have it. Part One:</p>
+<p class="p3">Russia has moles inside the IC, several of whom are not yet caught.</p>
+<p class="p3"><a href="http://heatst.com/politics/assange-doc-suggests-russia-knew-in-advance-ed-snowden-would-spy-on-nsa/">The NSA moles recruit Snowden</a>.</p>
+<p class="p3">Assange<a href="http://heatst.com/politics/assange-doc-suggests-russia-knew-in-advance-ed-snowden-would-spy-on-nsa/"> Ecuador and Russia give Snowden orders</a>, and removable media to scrape intel and military secrets.</p>
+<p class="p3">Ecuador exfiltrates Snowden to Moscow.</p>
+<p class="p3">2012-2013, Russian hackers are given all of the NSA techniques. <a href="https://www.justice.gov/opa/press-release/file/904516/download">Nikulin hacks Formspring and Wiener.</a> He plants a virus in his laptop. He waits and wakes it up in October.</p>
+<p class="p3">Russia’s FBI Field Office moles “suddenly find” the emails, perhaps even placed on that computer, at a crucial juncture.</p>
+<p class="p3">Russia’s FBI Field Office moles pressure Comey into releasing his letter, and thereby spin the election to Trump.</p>
+<p class="p3">How am doing so far, Mr. Putin? You know, for a woman. And an amateur.</p>
+<h2 class="p3">PART TWO<span class="Apple-converted-space">  </span>&#8211;<span class="Apple-converted-space">  FBI: </span>WHITE KNIGHT VS BLACK KNIGHT</h2>
+<p class="p3">Or,<em> James Comey’s Counterintelligence FBI</em> vs<em> Rudy Giuliani’s NY Criminal FBI</em></p>
+<p class="p3">There are three parts to this theory, like a good play, and narratively, the next section ought to be about your spy ring in the University of Cambridge, your hacking of Facebook and Twitter and your propaganda wars across Europe, but as I have learned from you one must play to the audience, and I think American readers are mostly terrified that Director Comey will throw America under the bus and cover up your coup.</p>
+<p class="p3">I don’t agree. Here is my take.</p>
+<p class="p3">Before the BBC and the Guardian confirmed <a href="http://heatst.com/world/exclusive-fbi-granted-fisa-warrant-covering-trump-camps-ties-to-russia/">my HeatStreet exclusive on the FISA warrant issued in October</a>, I was a lone voice in the wilderness on its existence.(And may history record that our conservative-leaning website had that scoop). When the writer Jason Leopold of Vice asked if Trump had been under investigation in September he got a GLOMAR response: ‘We can neither confirm nor deny the existence of any such records’.</p>
+<p class="p3">GLOMAR responses are named for a submarine and can only be given if a matter of national security is at stake. Mr. Leopold announced he would sue, for why should a concluded investigation be a matter of national security? I told him, with little credibility then and tons now, that the GLOMAR response made sense because there is an <i>ongoing investigation into Mr. Trump </i>and his associates on a matter of national security.</p>
+<p class="p3">Democrats, including Democrats in Obama’s government who ought to know better, have asked if James Comey had ‘a double standard’ over the investigations into Clinton and Trump. Yes; he did, and he does. He <i>may </i>talk about a criminal investigation. He <i>may not </i>talk about a <i>current, ongoing </i> investigation into espionage, bribery, money laundering and so forth that affects US national security.</p>
+<p class="p3">Over the summer and early autumn Democrats wrongly stated that the FBI / Comey had said they were not looking into Roger Stone and had declined to investigate Roger Stone, who announced his links to Wikileaks. This came from a Senate hearing and <a href="http://https://www.youtube.com/watch?v=_l7bxVZgspk">Mr. Comey’s testimony to Democrat Rep. Nadler.</a> Rep. Nadler asked if Stone’s boasts constituted special circumstances, Comey said “I don’t think so.”<span class="Apple-converted-space">  </span>It must have been frustrating for Comey. He was GLOMAR-ing Congress right to their face and they did not understand what was going on.</p>
+<p class="p3">Subsequently, the heads of NSA, CIA and FBI “Glomar”ed, in no particular order, two Congressional open Russian hack hearings, one closed briefing to the House of Representatives, and in the case of the <a href="http://https://youtu.be/d_kzJ3p2I94?t=5m54s">CIA’s Director Brennan, Chris Wallace on Fox</a> News Sunday.</p>
+<p class="p3">Furthermore, although Comey is a natural Republican he appeared to have played it straight. In the summer he cleared Clinton of a criminal standard of negligence. In the fall, he had been sandbagged by Russian moles inside the FBI Field Office in New York. But I do not believe Mr. Comey surrendered wrongly to ‘pressure’. He knew the moles had effective <i>kompromat</i> &#8211; the emails your hacker Nikulin planted or woke &#8211; and that were he not to revise his testimony in the light of new evidence, his far more important natsec investigation into the traitor, Donald Trump, would be discredited. He then worked around the clock to clear Mrs. Clinton.</p>
+<p class="p3">All evidence shows that James Comey is pursuing your assault on America, Mr. Putin, with the fearless I expect from a counter-intelligence patriot. In June, he named Donald Trump to a FISA court as an agent of Russian influence. In July, he did the same. Both times, the court turned him down. In April, Mr. Comey received audio of Russian money financing Trump &#8211; that’s the same time that Paul Manafort joined the campaign to run it. He formed a joint CIA/FBI /Treasury task force to look at the money.</p>
+<p class="p3">Over the summer, US counter-intelligence met with Chris Steele because they had already got their own independent information that he was correct. On October 5<span class="s1"><sup>th</sup></span>, your hacker Nikulin was picked up on an FBI ‘Red Warrant’ in Prague which means Director Comey had put a top priority on getting him some time before. Armed with whatever Nikulin spilled &#8211; and, Mr. Putin, he fainted when they caught him &#8211; Director Comey went back again, to a new FISA judge, on October 15, and he got his warrant.</p>
+<p class="p3">Every indication is that Director Comey is not only independent but plays better chess than both you or I, Mr. Putin. (Can I call you VVP? I feel like I know you). For in September, the FBI did not join the ODNI statement about Russia’s intent being to aid Trump. Why not? Because while the NSA and CIA had heard the tapes of Americans in Trump’s camp working with your officials, taking your bribes, disseminating your information, <i>Director Comey had not yet received his warrant</i>. In order not to give Trump’s defense and the defense of his camps anything to go on, the FBI was Caesar’s wife. It did not act on surveillance of US persons abroad offered by the UK, Estonia, BIS, and Lithuania until it got the warrant. Director Comey does not want any ‘fruit of the poisoned tree’ defenses (no pun intended, Mr. Putin, and may I remind you sir that it is bad form to kill one’s opponents in chess. It’s cheating).</p>
+<p class="p3">The FBI ‘changed’ its stance on the final Russian hacking report because they had, by then, listened to the tapes. Legally. Under a warrant.</p>
+<p class="p3">The FBI has, fortunately, always employed the principle of compartmentalization. The FBI Counter-Intelligence division in New York kept their dealings secret from the criminal field office in New York.</p>
+<p class="p3">But, some readers will say, Russian moles in the NSA &#8211; OK, it’s a worthy target. Why would the Russians have sleeper moles in a mere FBI criminal field office, even if it is New York?</p>
+<p class="p3">And the answer to that is simple; a corrupt FBI NY Field Office guards the interest of Russian mobsters, allows them to launder their money through Trump’s “failing” casinos and building projects, makes sure that Trump being paid double for a Florida house doesn’t get investigated, allows paedophile Jeffrey Epstein to keep a mansion in New York City,<span class="Apple-converted-space">  </span>ensures that Trump’s criminal taxes don’t get investigated, and sits hard enough on the NYPD that Trump can commit crime after crime in plain sight, socializing with the FBI’s most wanted mobsters, and never get charged with a damn thing. It ensures that Manafort and Stone can live in Trump tower, that Cohen’s trips on Russian-Registered private jets get washed. It allows the “FBI” to be next to the media, including the New York Times and Fox news, and act as un-named law enforcement sources. The FBI Field Office in New York wasn’t just infiltrated by your agents to scupper Hillary Clinton, Mr. Putin. It was there to guard the money of your billionaires and to cover the tracks of your handlers in the Russian embassy and consulates. That’s why the dead security guard at the Russian consulate never got investigated. You have a lot of people in New York, and they are very affable, pleasant folks, too. I’ve met a couple.</p>
+<p class="p3">But let’s get back to the game. Your trouble is that Mr. Comey is not for sale. You have nothing on him. Let’s remember your hacker Nikulin, whom Comey was chasing since who knows when. A few days ago Comey picked up another of your hackers in Spain as he was about to board a plane to France with his wife. You yourself, through your propaganda sites, connected this to the DNC hack. You had the identical reaction that you did to Nikulin being picked up. You threw a rather beta male hissy fit. <a href="http://mobile.reuters.com/article/idUSKBN154132">Stanislav Lisov</a> had coded a bank virus. But there’s rather more to it than that. Lisov fits the hacker narrative in the Steele dossier. He needed paying. <a href="http://https://twitter.com/mitgc_cm/status/822830235922104321">He has Gazprom connections</a>, and he has a <a href="http://https://twitter.com/mitgc_cm/status/822830235922104321">scary interest in satellites</a>, which you, Mr. Putin, would like to weaponize against the United States.</p>
+<p class="p3">But you know, the FBI caught him, none the less. Comey caught him. They know about the US company he formed, how it transferred to Oregon from Florida, and how money was funneled through a failed ‘secretive startup’.</p>
+<p class="p3">The white knight is outplaying the black knight and all his moves indicate that.</p>
+<h2 class="p3">PART THREE: ENDGAME &#8211; THE ‘IAGO GAMBIT’</h2>
+<p class="p3">Is it really worth chronicling the rest of the match? You, Mr. Putin, have relied on big data and on propaganda, including an army of trolls. It is plain to UK intelligence that you have <a href="http://www.dailymail.co.uk/news/article-4046846/Have-Russian-SPIES-infiltrated-Cambridge-70-years-infamous-Philby-ring-ex-MI6-chief-caught-claims-new-Kremlin-intrigue.html">a Russian spy ring at Cambridge University</a>; that you may have combed through and <a href="http://heatst.com/tech/peter-thiel-trump-and-facebook-vs-cambridge-analyticas-steve-bannon/">stolen, illegally in the EU, the Facebook data of hundreds of millions of Americans</a>; that you use propagandists SCR and combined GSR and SCR to form <a href="http://heatst.com/tech/peter-thiel-trump-and-facebook-vs-cambridge-analyticas-steve-bannon/">Cambridge Analytica</a>; and that you used Twitter’s database to create a bot army.</p>
+<p class="p3">It’s plain from both money and propaganda that Steve Bannon is your tool, your agent of influence; that you work through Nigel Farage and so on; that RT and Sputnik are not merely spy centers, but money-laundering tools; and that you have used ‘Big data’ of Cambridge Analytica (personality types plus propaganda from SCR) to poison the minds of Americans and indeed voters across the West. You have your hackers sitting on 4 Chan, where <a href="http://heatst.com/world/exclusive-brexit-2nd-referendum-petition-was-hacked-with-russian-emails/">the &#8216;prank&#8217; on the Brexit petition involved Russian server addresses</a>.</p>
+<p class="p3">But you are a careless player, Mr. Putin. Scrubbing <a href="http://archive.is">archive.is</a> of tweets wherein @GenFlynn pushes your hideous propaganda is pretty dumb. Scrubbing Michael Cohen’s phone data is also dumb, when we have him and his daughter waltzing around Europe and the Caribbean in Russian-owned private jets. You live by the troll, sir, then you die by the troll. Your propaganda and how you pay for it is all traceable. America has its hackers, too.</p>
+<p class="p3">The DoJ inquiry has fired the first shots. It’s named Erik Prince. It knows you have the Mercers, <a href="http://www.breitbart.com/radio/2016/11/04/erik-prince-nypd-ready-make-arrests-weiner-case/">it knows about Bannon, it knows about your moles in the NYPD. </a>You see sir it all goes back to Nikulin. The NYPD ‘found’ that laptop on October 3<span class="s1"><sup>rd</sup></span>.<span class="Apple-converted-space">  </span>And on October 5<span class="s1"><sup>th</sup></span>, Nikulin comes to Prague for payment.</p>
+<p class="p3">But Mr. Putin, James Comey’s friends were waiting there to turn your black pawn into our white queen. And whenever Flynn tweeted Russian agitprop, the FBI and the NSA had a URL.</p>
+<p class="p3">You sir, are like a chess player in possession of all his many, many pieces, but boxed in, in the back row, and despite having them all arrayed on the board &#8211; <a href="http://www.businessinsider.com/trump-names-foreign-policy-team-led-by-senator-sessions-2016-3">Jeff Sessions as Attorney General even though </a><i><a href="http://www.businessinsider.com/trump-names-foreign-policy-team-led-by-senator-sessions-2016-3">he recruited the spy Carter Page into your team</a> &#8211; </i>despite all of that, none of it will matter. White has you trapped. You and your ally Iran. Checkmate came from the Persian phrase, “Shah Mat”.</p>
+<p class="p3">The King is dead. And I didn’t even have to bother with Sessions, Page, Manafort, Stone, Flynn, and all the SIGINT that we have on them, the deals they made with Wikileaks to receive intel that you hacked and phished and planted with your viruses.</p>
+<p class="p3">Impeachment of Mr. Trump is on the way.</p>
+<p class="p3">What you should ask yourself is if it is in Russia’s and your own best interest for you to keep deceiving an angry America? For when the trials do start, the back-covering, the rage, the scrambling, the desperate need to seem harder on your oligarch friends than the next politician &#8211; this could harm not only you and your allies but the next generation of Russian kleptocrats too.</p>
+<p class="p3">It would surely be better to give it up now, release some of that kompromat now, push Trump out, and face the anger of a relieved United States after Trump resigns.</p>
+<p class="p3">But perhaps you cannot.</p>
+<p class="p3">Perhaps Mr. Putin, you have played yourself right into a corner.<span class="Apple-converted-space">  </span>After all, those who know what <i>komprat </i>you hold on them <i>also know that you hold it</i>. And they can collaborate with the FBI.</p>
+<p class="p3">Chess is a good game, sir.</p>
+<p class="p3">But the reason Russians are so poor is that you can’t stop playing it.</p>
+			<style type="text/css">
+			div.wpmrec2x{max-width:610px;}
+			div.wpmrec2x div.u > div{float:left;margin-right:10px;}
+			div.wpmrec2x div.u > div:nth-child(3n){margin-right:0px;}
+			</style>		<div class="wpcnt">
+			<div class="wpa wpmrec wpmrec2x">
+				<span class="wpa-about">Advertisements</span>
+				<div class="u">
+								<script type='text/javascript' id="s1227313501">
+				(function(g,$){if("undefined"!=typeof g.__ATA){
+					g.__ATA.initAd({sectionId:1227313501, width:300, height:250});
+					g.__ATA.initAd({sectionId:1227313504, width:300, height:250});
+				}})(window,jQuery);
+			</script>
+				</div>
+				        <div id="crt-##DivID##" style="width:300px;height:250px;"></div>
+        <script type="text/javascript">
+        var o = document.getElementById('crt-##DivID##');
+        if ("undefined"!=typeof Criteo) {
+            var p = o.parentNode;
+            p.style.setProperty('display', 'inline-block', 'important');
+            o.style.setProperty('display', 'block', 'important');
+            Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-##DivID##",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-##DivID##'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); }
+        });
+        } else {
+            o.style.setProperty('display', 'none', 'important');
+            o.style.setProperty('visibility', 'hidden', 'important');
+        }
+        </script>
+			</div>
+		</div><div class="teads_slot"></div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-4" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-4" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-4" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=4&amp;origin=patribotics.wordpress.com&amp;obj_id=122731350-4-5924a38108269' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+					<span class="comments-link"><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/#comments">55 Comments</a></span>
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/assange/" rel="tag">Assange</a>, <a href="https://patribotics.blog/tag/cia/" rel="tag">CIA</a>, <a href="https://patribotics.blog/tag/formspring/" rel="tag">Formspring</a>, <a href="https://patribotics.blog/tag/gazprom/" rel="tag">Gazprom</a>, <a href="https://patribotics.blog/tag/hacking/" rel="tag">Hacking</a>, <a href="https://patribotics.blog/tag/impeachment/" rel="tag">Impeachment</a>, <a href="https://patribotics.blog/tag/manafort/" rel="tag">Manafort</a>, <a href="https://patribotics.blog/tag/nikulin/" rel="tag">Nikulin</a>, <a href="https://patribotics.blog/tag/page/" rel="tag">Page</a>, <a href="https://patribotics.blog/tag/putin/" rel="tag">Putin</a>, <a href="https://patribotics.blog/tag/russia/" rel="tag">Russia</a>, <a href="https://patribotics.blog/tag/snowden/" rel="tag">Snowden</a>, <a href="https://patribotics.blog/tag/trump/" rel="tag">Trump</a>, <a href="https://patribotics.blog/tag/wiener/" rel="tag">Wiener</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+				<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links">
+			<div class="nav-next"><a href="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/" rel="next"><img width="150" height="100" src="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=150 150w, https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="2357" data-permalink="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/sessions-dick/" data-orig-file="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Jeff Sessions arrested" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=845" /><span class="next-title prev-next">Next Post &rarr;</span><h4>Jeff Sessions: Attorney General,&nbsp;Suspect</h4><div class="excerpt">Our report, naming Jeff Sessions a Trump Russia suspect on the day he was confirmed. NOTE: He still is. (HINT) </div></a></div>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+			
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			55 thoughts on &ldquo;Dear Mr. Putin, Let&#8217;s Play&nbsp;Chess&rdquo;		</h2>
+
+				<nav id="comment-nav-above" class="comment-navigation" role="navigation">
+			<h1 class="screen-reader-text">Comment navigation</h1>
+			<div class="nav-previous"><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/comment-page-1/#comments" >&larr; Older Comments</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #comment-nav-above -->
+		
+		<ol class="comment-list">
+					<li id="comment-425" class="comment even thread-even depth-1 highlander-comment">
+			<article id="div-comment-425" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/e27a5bd0687f234ff30e217638f4a402?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn"><a href='https://www.facebook.com/edmsbest/' rel='external nofollow' class='url'>Herz Beest</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/comment-page-2/#comment-425">
+							<time datetime="2017-03-11T20:28:56+00:00">
+								March 11, 2017 at 8:28 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>A meticulously researched article. Thankful for patriots like this author.</p>
+<p id="comment-like-425" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/?like_comment=425&#038;_wpnonce=76b6bf2745" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-425" class="comment-like-feedback">Liked by <a href="#" class="view-likers" data-like-count="3">3 people</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/?replytocom=425#respond' onclick='return addComment.moveForm( "div-comment-425", "425", "respond", "4" )' aria-label='Reply to Herz Beest'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-522" class="comment odd alt thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-522" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/2bb47baabcc7a6a36deb05fab4e15b8f?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">Julian</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/comment-page-2/#comment-522">
+							<time datetime="2017-03-18T14:39:13+00:00">
+								March 18, 2017 at 2:39 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Louise &#8211; actually just rechecked here. Follow up on Bill Browder &#8211; Stephen Kelly &#8211; the guy who is the company secretary for wikileaks. I promise you &#8211; when a company non-exec is corrupted &#8211; and this guy was- he acted for Magnitsky, then he stays corrupted. </p>
+<p>The only question is whether he was our guy or theirs. I suspect strongly, theirs.</p>
+<p>Not for publication.</p>
+<p>Actually, realising my previous comments not published (thanks) I realise you or your PA have read them. Thanks, and thanks not for publishing.</p>
+<p id="comment-like-522" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/?like_comment=522&#038;_wpnonce=07985f5516" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-522" class="comment-like-feedback">Liked by <a href="#" class="view-likers" data-like-count="2">2 people</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/?replytocom=522#respond' onclick='return addComment.moveForm( "div-comment-522", "522", "respond", "4" )' aria-label='Reply to Julian'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-728" class="comment even thread-even depth-1 highlander-comment">
+			<article id="div-comment-728" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/63bd68a20ba61f481f900e882ad994a9?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn"><a href='http://www.lockdoctor.biz' rel='external nofollow' class='url'>Graham King</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/comment-page-2/#comment-728">
+							<time datetime="2017-03-31T13:20:58+00:00">
+								March 31, 2017 at 1:20 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I have 290 examples of Russian bots targeting British businesses (mine) disguised as subscribers that I sent to MI6 and I would like to copy you in. What is your email or PO Box?</p>
+<p id="comment-like-728" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/?like_comment=728&#038;_wpnonce=24d696e927" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-728" class="comment-like-feedback">Liked by <a href="#" class="view-likers" data-like-count="1">1 person</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/?replytocom=728#respond' onclick='return addComment.moveForm( "div-comment-728", "728", "respond", "4" )' aria-label='Reply to Graham King'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+				<nav id="comment-nav-below" class="comment-navigation" role="navigation">
+			<h1 class="screen-reader-text">Comment navigation</h1>
+			<div class="nav-previous"><a href="https://patribotics.blog/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/comment-page-1/#comments" >&larr; Older Comments</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #comment-nav-below -->
+		
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/comment-page-2/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://patribotics.blog/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="93b06b37cc" /><input type="hidden" name="_wp_http_referer" value="/2017/01/17/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia/comment-page-2/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='4' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="2796dc2e09" /></p>
+<input type="hidden" name="genseq" value="1495573377" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="115"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<div id="secondary" class="widget-area" role="complementary">
+
+	<aside id="image-3" class="widget widget_image"><h6 class="widget-title">Donate with PayPal</h6><div style="overflow:hidden;"><figure style="width: 522px" class="wp-caption alignnone"><a href="http://paypal.me/LouiseMensch"><img src="https://patribotics.files.wordpress.com/2017/05/papal.jpeg?w=522&amp;h=208" alt="Donate with PayPal" title="Donate with PayPal" width="522" height="208" /></a><figcaption class="wp-caption-text">If you enjoy our work, please consider a donation. </figcaption></figure></div>
+</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://patribotics.blog/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="archives-2" class="widget widget_archive"><h6 class="widget-title">Archives</h6>		<ul>
+			<li><a href='https://patribotics.blog/2017/05/'>May 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/04/'>April 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/03/'>March 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/02/'>February 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/01/'>January 2017</a></li>
+		</ul>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h6 class="widget-title">Recent Posts</h6>		<ul>
+					<li>
+				<a href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/">EXCLUSIVE: Marshal of the Supreme Court Warned Trump over &#8216;Muslim&nbsp;Ban&#8217;</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/">Mike Flynn Turns on Trump, Talks To&nbsp;FBI</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/">EXCLUSIVE: Judiciary Committee Considering Articles of&nbsp;Impeachment</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/">Comey&#8217;s FBI Computer Illegally Accessed: Data Given to Russian&nbsp;Diplomats</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/">EXCLUSIVE: U.S. Marshals Readying; Plan Approved By Justice Dept&nbsp;Official</a>
+						</li>
+				</ul>
+		</aside>		
+</div><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-footer-inner">
+
+			
+
+<div class="footer-widget-area count-1">
+
+	
+	<div class="footer-widget">
+		<aside id="image-4" class="widget widget_image"><h6 class="widget-title">Donate with PayPal</h6><div style="overflow:hidden;"><figure style="width: 522px" class="wp-caption aligncenter"><a href="http://paypal.me/LouiseMensch"><img src="https://patribotics.files.wordpress.com/2017/05/papal.jpeg?w=522&amp;h=208" title="Donate with PayPal" width="522" height="208" /></a><figcaption class="wp-caption-text">If you enjoy our work, please consider donating.</figcaption></figure></div>
+</aside>	</div>
+
+	
+	
+	
+</div>
+
+
+		</div><!-- .site-footer-inner -->
+	</footer><!-- #colophon -->
+
+	
+<div class="site-info-wrapper">
+	<div class="site-info">
+		<div class="site-info-inner">
+
+			<h6>Exposing Vladimir Putin&#039;s War on America</h6>
+
+			
+			<div class="social-menu">
+				<h6 class="find-us">Find us on</h6>
+				<div class="menu-social-links-container"><ul id="menu-social-links-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://facebook.com/">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://twitter.com/wordpressdotcom">Twitter</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://dribbble.com/automattic">Dribbble</a></li>
+</ul></div>			</div><!-- .social-menu -->
+
+			
+			<div class="site-info-text">
+				<a></a>
+				
+							</div><!-- .site-info-text -->
+
+		</div><!-- .site-info-inner -->
+	</div><!-- .site-info -->
+</div><!-- .site-info-wrapper -->
+</div><!-- #page -->
+
+<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201721y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-e27a5bd0687f234ff30e217638f4a402">
+	</div>
+	<div class="grofile-hash-map-2bb47baabcc7a6a36deb05fab4e15b8f">
+	</div>
+	<div class="grofile-hash-map-63bd68a20ba61f481f900e882ad994a9">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/patribotics.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?action=logout&_wpnonce=dc5bb2aed9","homeURL":"https:\/\/patribotics.blog\/","postID":"4","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+			<script type="text/javascript">
+			try {
+				window._ttf = window._ttf || [];
+				_ttf.push({
+					pid          : 25030
+					,lang        : "en"
+				 	,format      : "inread"
+					,slot        : ".teads_slot"
+					,slotMode    : "in"
+					,minSlot     : 1
+					,css         : "margin: 10px auto; max-width: 550px;"
+				});
+				(function (d) {
+				        var js, s = d.getElementsByTagName('script')[0];
+				        js = d.createElement('script');
+				        js.async = true;
+				        js.src = '//cdn.teads.tv/media/format.js';
+				        s.parentNode.insertBefore(js, s);
+				})(window.document);
+			} catch(e) {}
+			</script>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/patribotics.blog\/2017\/01\/17\/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia\/":4};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"122731350","siteName":"patribotics","siteURL":"https:\/\/patribotics.blog","icon":"<img alt='' src='https:\/\/patribotics.files.wordpress.com\/2017\/01\/cropped-mon-12-sep-13491.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/dailymag","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F01%2F17%2Fdear-mr-putin-lets-play-chess-louise-mensch-trump-russia%2F","themeURL":"https:\/\/wordpress.com\/theme\/dailymag\/","xhrURL":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"ebeaf38cf0","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"08ad06bcf1\" \/>","referer":"https:\/\/patribotics.blog\/2017\/01\/17\/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia\/comment-page-2\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/patribotics.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fpatribotics.wordpress.com%2F2017%2F01%2F17%2Fdear-mr-putin-lets-play-chess-louise-mensch-trump-russia%2Fcomment-page-2%2F","postID":"4","shortlink":"http:\/\/wp.me\/p8iY1U-4","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/patribotics.blog\/4","statsLink":"https:\/\/wordpress.com\/stats\/post\/4\/patribotics.blog","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: DailyMag","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 14,037 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F01%2F17%2Fdear-mr-putin-lets-play-chess-louise-mensch-trump-russia%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVkNFuwyAMRX9olLaaNu1h2rdQcIgTDMyGdP37gaZF7SZFyhPW9T0X2/qalU2xQCx6Eu1gQQv56zDJk75rUVU5VI9RdMAZRH9WqDCa6ALwhtkmoiapH2jq9EXLFTPsgR6Ev2AZgZotMxBW0s5guJHxnYtmQW8KprgDypw8g+z5R2bMbbg4qyHZKmrA9YAYbajucQ2GHG4Hwn9T3d3AuNZXF8OajBTgVqm0ADP2sFXbSrB98Z6wVhvunKSoIRhkLaNhjP73bdAHvZ+e387H48vp/Dp9A7yF03U='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.defer = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'122731350','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'122731350','v':'wpcom','tz':'0','user_id':'0','post':'4','subd':'patribotics'}]);
+_stq.push(['extra', {'crypt':##Crypt##'}]);q
+_stq.push([ 'clickTrackerInit', '122731350', '4' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+<!--
+##GeneratedSeconds##
+##Batcache##
+-->

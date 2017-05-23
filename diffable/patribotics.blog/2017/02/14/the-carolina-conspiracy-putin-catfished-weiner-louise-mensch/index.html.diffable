@@ -1,0 +1,1239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://patribotics.blog/xmlrpc.php">
+
+<title>The Carolina Conspiracy &#8211; patribotics</title>
+		<script src='https://r-login.wordpress.com/remote-login.php##Scriptpath##</script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//patribotics.wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="patribotics &raquo; Feed" href="https://patribotics.blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="patribotics &raquo; Comments Feed" href="https://patribotics.blog/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="patribotics &raquo; The Carolina Conspiracy Comments Feed" href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJyFkOsOgjAMhV/I2RiJlx/GZxlbg8OWLbSE8PYO8RLR4J+lpzlfT1fok3GxUWwUuDOJuio0An1ykY1wIBxmau1EVvAbo3BFgRo1WXc1d/VlLylW75zYeusFKoqlpaXRLZJV9CZF0ZlawlxsMfc5WR0djD5YJORsW8I47Z7UWF7ydxZjpguVZWpRxOSXQ8dGLznoz3o8rjKdCrLxszOhAZqoIdPyKr5mTlHwSAZvAw1sKxAdCEf3mU+b4rDf7jbFsahvET69JQ==' type='text/css' media='all' />
+<link rel='stylesheet' id='dailymag-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%7CAbril+Fatface%3A400%7CLora%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=0.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJzTLy/QTc7PK0nNK9HPLdUtyClNz8wr1k9PzdfNyU9OLMnMz0Ph6KblJGYW6SUXF+voY9dalJqUk58OZKbrA1UhcUGa7HNtDU1MLU1MLMwNTbIAmkQtqg==' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s2.wp.com/_static/??-eJx9i9EKwjAMRX/IGoVN54P4LVnp2kialCbD3xcfRGTi0z0XzoFHC1HFkzjUNTReM4kBRieVGfuH9tFsB7/1puZhYaQOVrCT5Pf+q0wjIQfWrN9nE3lJNRmUATLrjPwSbvV6HC6H83Qap/H+BMWZScE=' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFj90KwjAMhV/IrAw6xQvxWWoXS2r/bNoNfXo70At1KARCTr4cTsScgIJ2dUQWttW1Yr49W2d5I34B4MlkVbDzFF6wjqFgKAvr44kcQmXMyjStGZ3jCpciF4/MDVrZvkeiMBHOfzGLJSl9gYxM9y9XXyG5aiiwyOjaAyMsGT6mdnX0h17uh36Qcre1DyuucHk='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://patribotics.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Jeff Sessions: Attorney General,&nbsp;Suspect' href='https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/' />
+<link rel='next' title='Planespotting: Michael Cohen&#8217;s Amazing&nbsp;Journey' href='https://patribotics.blog/2017/02/26/planespotting-michael-cohens-amazing-journey-louise-mensch/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/" />
+<link rel='shortlink' href='http://wp.me/p8iY1U-4G' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fpatribotics.blog%2F2017%2F02%2F14%2Fthe-carolina-conspiracy-putin-catfished-weiner-louise-mensch%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fpatribotics.blog%2F2017%2F02%2F14%2Fthe-carolina-conspiracy-putin-catfished-weiner-louise-mensch%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Carolina Conspiracy" />
+<meta property="og:url" content="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/" />
+<meta property="og:description" content="Did Putin&#039;s Carolina Hackers CWA   catfish Weiner - using  a real sexting victim to reopen Comey&#039;s Hillary email probe?" />
+<meta property="article:published_time" content="2017-02-14T23:21:01+00:00" />
+<meta property="article:modified_time" content="2017-05-19T18:08:32+00:00" />
+<meta property="og:site_name" content="patribotics" />
+<meta property="og:image" content="https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:image:src" content="https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://patribotics.blog/osd.xml" title="patribotics" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="patribotics" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Exposing Vladimir Putin&#039;s War on America" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://patribotics.blog/feed/;icon-uri=https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="The Carolina Conspiracy | patribotics on WordPress.com" />
+<meta name="description" content="Did Putin&#039;s Carolina Hackers CWA catfish Weiner - using a real sexting victim to reopen Comey&#039;s Hillary email probe?" />
+ 		<script type="text/javascript">
+		var _ipw_custom = {
+				wordAds: '1',
+				adSafe: '1',
+				domain: 'patribotics.blog',
+				pageURL: 'https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/'
+			};
+		</script>
+ 		<script type="text/javascript" src="//s.pubmine.com/head.js"></script>
+		<script type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script><link rel="amphtml" href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<link rel="icon" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=270" />
+
+</head>
+<body class="post-template-default single single-post postid-290 single-format-standard mp6 customizer-styles-applied layout-two-column-default highlander-enabled highlander-light">
+
+<progress value="0"></progress>
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+<div class="secondary-navigation-container">
+	<nav id="secondary-navigation" class="nav-menu-wrapper" role="navigation">
+		<div class="menu"><ul>
+<li ><a href="https://patribotics.blog/">Home</a></li><li class="page_item page-item-2"><a href="https://patribotics.blog/about/">About</a></li>
+<li class="page_item page-item-3"><a href="https://patribotics.blog/contact/">Contact and Whistleblowing</a></li>
+</ul></div>
+	</nav><!-- #site-navigation -->
+</div>
+	<header id="masthead" class="site-header" role="banner">
+
+		
+<div class="site-title-wrapper">
+
+	<div class="site-title-wrapper-inner">
+
+		<div class="site-logo"></div>
+
+		<h1 class="site-title"><a href="https://patribotics.blog/" rel="home">patribotics</a></h1>
+		<div class="site-description">Exposing Vladimir Putin&#039;s War on America</div>
+
+	</div><!-- .site-info-inner -->
+
+	
+	<div class="social-menu">
+		<div class="menu-social-links-container"><ul id="menu-social-links" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://facebook.com/">Facebook</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://twitter.com/wordpressdotcom">Twitter</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://dribbble.com/automattic">Dribbble</a></li>
+</ul></div>	</div><!-- .social-menu -->
+
+	
+</div><!-- .site-title-wrapper -->
+
+	</header><!-- #masthead -->
+
+	
+<div class="main-navigation-container">
+	<nav id="site-navigation" class="nav-menu-wrapper" role="navigation">
+		<button class="menu-toggle" id="menu-toggle" aria-controls="primary-menu" aria-expanded="false">&#9776; Menu</button>
+		<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/">Home</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9"><a href="https://patribotics.blog/about/">About</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="https://patribotics.blog/contact/">Contact and Whistleblowing</a></li>
+</ul></div>	</nav><!-- #site-navigation -->
+</div>
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<article id="post-290" class="post-290 post type-post status-publish format-standard has-post-thumbnail hentry category-espionage category-national-security category-russia tag-anthony-wiener tag-boente tag-comey tag-confide-app tag-crackas-with-attitude tag-cwa tag-director-comey tag-eric-trump tag-fbi tag-formspring tag-gaston tag-hacking tag-hillary-clinton tag-hillarys-emails tag-impeachment tag-jeff-sessions tag-lara-trump tag-louise-mensch tag-mike-flynn tag-mkate tag-nikulin tag-north-carolina tag-putin tag-sexting tag-sputnik">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=1690&amp;h=900&amp;crop=1 1690w, https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=1024&amp;h=545&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="208" data-permalink="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/russian-dolls-copyright-louise-mensch/" data-orig-file="https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg" data-orig-size="4898,3265" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5&quot;,&quot;credit&quot;:&quot;Louise Menschh &lt;&quot;,&quot;camera&quot;:&quot;NIKON D7100&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1474563692&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;60&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="russian-dolls-copyright-louise-mensch" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/02/russian-dolls-copyright-louise-mensch.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/espionage/" rel="category tag">Espionage</a>, <a href="https://patribotics.blog/category/national-security/" rel="category tag">National Security</a>, <a href="https://patribotics.blog/category/russia/" rel="category tag">Russia</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/" rel="bookmark"><time class="entry-date published" datetime="2017-02-14T23:21:01+00:00">February 14, 2017</time><time class="updated" datetime="2017-05-19T18:08:32+00:00">May 19, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/" rel="permalink"><h1 class="entry-title">The Carolina Conspiracy</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<h1><span style="text-decoration:underline;"><span style="color:#ff0000;text-decoration:underline;"><a style="color:#ff0000;text-decoration:underline;" href="https://www.documentcloud.org/documents/3727178-U-S-v-Anthony-Weiner-Plea-Agreement.html">Corrected</a> </span>And Updated in Light of Weiner&#8217;s Crime:</span></h1>
+<p>It is very important to correct things that are wrong. I have two major corrections to make to my theory, articulated in this story, following<span style="color:#ff0000;"><a style="color:#ff0000;" href="https://www.documentcloud.org/documents/3727178-U-S-v-Anthony-Weiner-Plea-Agreement.html"><strong> Anthony Weiner&#8217;s guilty plea</strong></a></span> to one count of <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.newsday.com/news/new-york/united-states-of-america-v-anthony-weiner-court-documents-1.13649048">transferring obscene material to a minor</a> </span>and also of <span style="color:#ff0000;"><strong>&#8220;<a style="color:#ff0000;" href="http://www.newsday.com/news/new-york/united-states-of-america-v-anthony-weiner-court-documents-1.13649048">attempting&#8221; to do so</a>. </strong></span></p>
+<p><span style="color:#ff0000;"><strong>The firs</strong>t</span> is that Weiner did indeed, by his own account and that of prosecutors, transfer sexual material to a minor. The plea deal document said this happened &#8216;in 2016&#8217;. Therefore, all the following must be true, and I was wrong about them: Weiner did sext with a minor; the case was not invented, there was a real crime, with a real girl.</p>
+<p>That is a fact. This article was a theory, written as such. And that theory has been proven partly <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.newsday.com/news/new-york/united-states-of-america-v-anthony-weiner-court-documents-1.13649048"><strong>wrong by the facts, which I must acknowledge with prominence.</strong></a></span> There was a real crime and a very serious one.</p>
+<p>No 15 year old girl should ever have to undergo abusive contact by a predator like Weiner. Nor is she in <em>any way whatsoever</em> responsible for any actions by other adults. She is a pure victim.</p>
+<p><span style="color:#ff0000;"><strong>The second</strong></span> thing I want to correct in this story is my blame on ADA Dana Boente.  President Obama removed him from the line of succession. This now appears to have been a clever and successful feint into trapping Trump into reappointing Boente. He clearly has the trust of Director Comey and DUSA Rosenstein, and therefore has mine. I apologize fulsomely to him.</p>
+<p>As far as the rest of the story goes, it is vital to emphasize, and I do, that if men pretended that they were an abuse victim, that is on them and them alone. Such actions, showing intent, would <em>add to Weiner&#8217;s guilt and not diminish it</em>. If grown men faked any thing, as coming from an underage victim of crime, that, again, is on them, and not in any way whatsoever on the victim of the crime.</p>
+<h2>The Carolina Conspiracy Remains My Theory, Although Founded on a Real Crime</h2>
+<p>I also want to be clear, however, that I am not correcting, or altering, my overall theory in this article on Trump and Russia. I believe based on all the evidence that Mr. Weiner <em>also</em> sexted and emailed with grown men who were not the real girl he factually abused, but whom he <em>thought</em> were that same girl.</p>
+<p>I believe, based on the evidence of the<a href="https://www.justice.gov/opa/pr/yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-and-formspring"><strong> indictment by the FBI of Nikulin in Federal Court in October 2016,</strong></a> that he used Formspring to plant a virus on Anthony Weiner&#8217;s computer and sway the election. From none of that do I resile. Weiner is a predator and a true crime took place with an underage victim. That does not exclude the rest of these events happening, and the<a href="http://praguemonitor.com/2017/05/12/court-adjourns-hearing-russian-hackers-extradition"><strong> FBI charge of Nikulin supports it.</strong></a> Thus, the thrust of the theory of a conspiracy in South Carolina, by <a href="http://praguemonitor.com/2017/05/12/court-adjourns-hearing-russian-hackers-extradition">hackers allied with Donald Trump and with Russia,</a> to enable the seizure of Weiner&#8217;s computer, and to throw the election, remains. The fact is this conspiracy was enabled by a real offense of Weiner&#8217;s, it appears from his plea in court (as best I understand it). I have altered the text below to reflect the reality of that predatory offense.</p>
+<h3>How Vladimir Putin Catfished A US Election With the Collusion of Team Trump</h3>
+<p>Did Russia use a criminal case against Anthony Weiner &#8211; so their hacker Nikulin could plant Hillary’s emails on his computer?</p>
+<p>It was the Comey letter that handed the election to Trump. Even if corrupt elements in the FBI Field Office in New York, penetrated by Russia, forced Comey&#8217;s hand &#8211;  even if Russian hacker Nikulin <em>did </em>plant emails on Anthony Weiner&#8217;s computer &#8211; there had to be a separate criminal case in the first place for the NYPD and FBI to go looking. I thought there was not &#8211; as above, I was wrong.</p>
+<p>Did Vladimir Putin direct an attack  by a hardened group of adult hackers from North Carolina who penetrated the emails of Director Brennan of the CIA, and doxed and attacked hundreds of FBI and law enforcement personnel?</p>
+<p class="p1">In this story I exclusively report the connections between the USSR-CWA hacker group of North Carolina ‘Crackas With Attitude’ and the sexts with, ostensibly, a 15 year old girl from Gaston, North Carolina, who had early in 2016 been a genuine victim of Weiner&#8217;s predatory behavior. That started the chain of events that led to James Comey’s forced letter to Congress, including the fact that the an email to Weiner ostensibly written by his earlier victim  is in fact a series of plagiarized texts it is unlikely any 15 year old girl has read, including works by J.D. Salinger, David Foster Wallace, Charles Bukowski, and &#8211; yes &#8211; “Fight Club” by Chuck Palahniuk.</p>
+<p class="p1">There is also direct evidence that members of the Trump campaign were involved in this conspiracy and knew in advance what was coming &#8211; including Lara Trump, who visited Gaston, North Carolina, some days before she promised an ‘October surprise’ and ’tricks up our sleeve.’</p>
+<h3 class="p1">Russia’s Hacker Nikulin, Formspring, and Anthony Weiner</h3>
+<p class="p1">Russia, I believe, manipulated chain of events that forced James Comey’s letter to Congress. All available data shows that it was the timing of this letter that handed the election to Donald Trump. On November 3<span class="s1"><sup>rd</sup></span>, just before the election, the Russian plane MKATE and Putin’s bagman Rybolovev met Donald Trump’s campaign plane on the tarmac at Charlotte, North Carolina. By that time, events in North Carolina had swung the election to Mr. Trump.</p>
+<p class="p1">In my first piece of work at Patribotics I laid out a unified theory on Russian active measures against the United States, including as part of it that Russia has a team of influencers inside the FBI Field Office in New York (the criminal division) and I regret to say, the NYPD, who work directly with Rudy Giuliani and General Flynn.</p>
+<p class="p1">I drew readers’ attention to the arrest in Prague of the Russian hacker, Yvgeny Nikulin. He was indicted on charges of hacking Dropbox, Linked in and Formspring in 2012-2013.</p>
+<p class="p1">Formspring is the little-known sexting app that Anthony Weiner used for his sexting the first time around.</p>
+<p class="p1">My theory was that Nikulin, on instructions from the Russian state, “woke” or “planted”<span class="Apple-converted-space">  </span>a laptop of Anthony Weiner’s via a virus which he placed on it through his prior hack of Formspring, and alerted Russia’s moles and agents of influence in the FBI field office in New York, who subsequently “leaked” to all and sundry that the emails had been found, and, by Rudy Giuliani’s own testimony, pressured James Comey into sending the letter he did.</p>
+<p class="p1">However, the emails were &#8211; nonetheless-<span class="Apple-converted-space">  </span>found as part of an unrelated criminal investigation into Weiner’s sexting with a 15 year old girl. The story of these “sexts” broke Sep 21<span class="s1"><sup>st</sup></span> in the Daily Mail with a byline from Alana Goodman.</p>
+<h3 class="p1">Who Was Weiner Actually Talking To?</h3>
+<p class="p1">I can exclusively report that there is ample evidence that suggests that Weiner was sexting not only with a 15 year old girl,   but, <strong><a href="http://archive.is/aZziR">later and separately with hackers, </a></strong><a href="https://www.justice.gov/opa/pr/yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-and-formspring">working for Russia</a>, including the North Carolina hacking group ‘Crackas With Attitude’, who hacked the head of the CIA, and a great many FBI agents, police officers, and other law enforcement officials.</p>
+<p class="p1">There is evidence linking Russia’s propaganda outlet Sputnik to both acts of hacking; and there is, therefore, grave reason to be concerned about Trump’s choice of Dana Boente as Jeff Sessions’ second-in-command at the Justice Department. Which he now is. For in a little-noticed Executive Order released this weekend, Trump altered the order of succession at the Justice Department in order to make Boente second to Sessions.</p>
+<p class="p1">Two of the Americans involved in Crackas With Attitude were arrested and took a guilty plea in December.</p>
+<p class="p1">And one of the prosecuting AGs on that case? Dana Boente.</p>
+<p class="p1">As I have previously reported, Jeff Sessions was placed by Trump as Attorney General, I believe, for the sole reason of protecting Trump from impeachment and prosecution in the matter of Russia’s hack on America. The placement of Boente as Sessions’ number two ought to raise yet another red flag. For Dana Boente is listed as AG on the North Carolina Crackas With Attitude case.</p>
+<p class="p1">If I am right on the theory which I report here &#8211; that Crackas With Attitude conspired with Russian moles within the FBI and NY in New York, with the encouragement of Sputnik, to use a real criminal case against Anthony Weiner <i>in order that </i><a href="https://www.justice.gov/opa/pr/yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-and-formspring">Russia’s Nikulin could plant Hillary Clinton’s emails</a> on Weiner’s now “discoverable” laptop &#8211; then Messrs Trump and Bannon, above all other things, need the CWA case to <i>go away really fast </i><span class="s2"><i>&#8211; </i>and now its prosecutor Dana Boente finds himself number two to Jeff Sessions in Trump&#8217;s Justice Department. </span></p>
+<p class="p1">Thus far, the term ‘Russian hacking’ as it relates to the US elections has been understood by the mainstream media to mean two things: the hack of the DNC and Republican politicians’ emails, and the phishing attack on John Podesta, plus the subsequent release of emails obtained by those attacks through Russia’s puppet organization, Wikileaks. (To a lesser extent, the mainstream media also acknowledges that Russia backed and created a fleet of Twitter bots. They have not yet shown much sign of understanding that what is sloppily termed ‘fake news’ is in fact a coordinated Russian propaganda effort.)</p>
+<p class="p1">But the Russian hack on the United States was, it seems far more direct than that.</p>
+<p class="p1">It forced the Comey letter out of thin air. Using Weiner&#8217;s sleazebag tendencies, Russia used a real, underage victim of his sexts, to catfish Weiner into further communications actually written by an adult hacker, and thus used a real crime to commit a political hack on his computer. Then, with pliant moles in the NY FBI Field Office and NYPD, they seized his laptop. Nikulin planted Hillary&#8217;s emails upon it. Russian moles in the FBI Field Office leaked, tweeted and threatened &#8211; and even Lara Trump (from North Carolina) boasted in advance that the &#8216;October surprise&#8217; was coming.</p>
+<p class="p1">From start to finish, Russia manipulated the Director of the FBI into sending his letter &#8211; which Jason Chaffetz leaked, by arrangement with the Trump camp, I believe, in order directly to swing the election to Donald Trump, Putin&#8217;s puppet.</p>
+<h3 class="p1">Who Are Crackas With Attitude and How Do They Connect Weiner and Russia?</h3>
+<p class="p1">The hacker group’s name, sources say, is a pun. The letters USA in Cyrillic look like the American letters “CWA”. Be that as it may, CWA involved an underage English hacker who was arrested, and subsequent to his arrest, two of his co-conspirators in North Carolina were also arrested. Their attack on the United States was exceptionally serious. It involved obtaining emails from the then Director of the CIA and doxing hundreds of United States law enforcement and intelligence personnel.</p>
+<p class="p1">The 15 year old girl is also apparently from North Carolina, according to reports, and her father is an attorney.</p>
+<p class="p1">However, I can exclusively report that there is extensive evidence online that some “sexts” were not written by that 15 year old girl, but by members of the hacking gang.</p>
+<h3 class="p1">“You Got Catfished by a Dude”  &#8211; Or, The Infinite Jest of a Plagiarized Email</h3>
+<p class="p1">It was no use Yvgeny Nikulin planting Hillary Clinton’s emails on Weiner’s computer, or even waking Weiner’s computer, on behalf of Russian assets in the FBI New York, unless they had a right to look at Weiner’s computer. For that to happen, Anthony Weiner had to have committed a <i>criminal offense </i>that would enable NYPD to have probable cause to go through his computers in the first place.</p>
+<p class="p1">And for that, Nikulin used a crime against an underage victim to activate one of his own (<a href="https://www.justice.gov/opa/pr/yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-and-formspring">a previously implanted virus</a>).</p>
+<p class="p1">All of Anthony Weiner’s sleazy sexting prior to this had been done with girls and women over the age of sexual consent. The youngest among them was 17 years old. In order for a case to be created, there needed to be an underage victim &#8211; and now, contrary to my earlier theory, we know there was one. It seems evident that just such an operation was planned by Russia; to use a victim in a criminal case, to allow Weiner’s computers to be seized and for Nikulin to thereafter plant his emails via Formspring.</p>
+<p class="p1">According to the “breaking story” of September 21<span class="s1"><sup>st</sup></span>, by Alana Goodman in the Daily Mail, this girl had begun to sext with Weiner in January 2016. Her original story is odd and convoluted in a number of respects.</p>
+<p class="p1">Firstly, the story is dated September 21<span class="s1"><sup>st</sup></span>, but publishing dates on videos contained within the story appear to indicate that they were uploaded some six days earlier.</p>
+<p class="p1">Secondly, the story contains a report that Weiner “provided emails that he says proved he was the subject of a hoax” but the journalist does not tell us <i>why </i>Mr. Weiner said these emails proved this.</p>
+<p class="p1">Of course, there is the one sentence: “You got catfished by a dude.”</p>
+<p class="p1">But, I believe the 15 year old girl&#8217;s letter, as quoted, was not written by her.</p>
+<p class="p1">It is full of plagiarized quotes from novels. A second letter, ostensibly written by her to James Comey, appears to contain an odd phrase used by Julia Hahn, a former Breitbart writer whom Steve Bannon brought into the White House, and Michelle Bachman.</p>
+<p class="p1">The author of that letter not only <i>claims</i> to be a “dude” ‘catfishing’, that is to say, a hacker pretending to be a woman or girl in order to entrap, but “her” email contains the following passages:</p>
+<p class="p1">1. “My posture was consciously congruent to the back of my chair” &#8211; from the opening of Infinite Jest, David Foster Wallace</p>
+<p class="p1">2. “We’re the middle children of history….” To the words “But we won’t.” &#8211; From Fight Club, Chuck Palahniuk</p>
+<p class="p1">3. “Guilt is guilt. It doesn’t go away…” to the words “paralyzing you.” &#8211; From Raise High the Roofbeams, Carpenters and Seymour an Introduction, both by J.D. Salinger</p>
+<p class="p1">4. “I was losing my soul….” To “…you still have a soul to lose.” &#8211; From Tales of Ordinary Madness, “A Dollar and Twenty Cents” by Charles Bukowski.</p>
+<p class="p1">In the letter “she” signs off “Girl that lost her faith in America”. “Lost her faith in America” turns up both in a quote from Michelle Bachmann and a <a href="http://archive.is/3tsP1">Breitbart article by Julia Hahn.</a></p>
+<p class="p1">The above is the classic signature of a cat-fishing attempt. But there is plenty more online to connect this North Carolina teen with the Crackas With Attitude hack.</p>
+<p class="p1">Just as Nikulin planted a virus using Weiner’s little known sexting app Formspring, in this case, Weiner had been using the little-known app Confide. <a href="http://archive.is/aZziR">Online, arch references</a> were <a href="http://archive.is/pkpR3">made</a><a href="http://archive.is/aZziR">  in advance</a> about the publication of Goodman’s article as to what was going on, using the word <a href="http://archive.is/aZziR">“Confide”</a>. Other accounts with ostensibly no knowledge of the case stated plainly that Weiner was <a href="http://archive.is/pkpR3">actually sexting with a 28 year old hacker</a>.</p>
+<p class="p1">One of the North Carolina Crackas With Attitude is Justin Liverman, who is around 28. His co-conspirator is one Andrew Otto Boggs. The two were arrested and pled guilty in January. As recently as two weeks ago, the FBI had confiscated their laptops and thumb drives.</p>
+<h3 class="p1">CWA or USSR &#8211; The Hacking Group</h3>
+<p class="p1">Hackers need not be Russian to work on behalf of Russia. In this case, CWA’s UK and US branches had close links to Sputnik, the Russian state owned propaganda channel. A ‘journalist’ called Cassandra Fairbanks, @CassandraRules, on Twitter, who was and probably is ‘active in the hacker community’, posted photographs of herself with Liverman and said she was raising money for his defense. And why not? Weren’t CWA just some young punks that got in over their heads?</p>
+<p class="p1">The answer to that is no. The CWA hack managed to get into the emails of the director of the CIA. Executives at Sputnik pressured non-Russian staff to obtain these CIA emails and threatened them if they refused. However, it is almost certain that Sputnik already had the emails; as soon as American staff refused to release them, Wikileaks was handed them and put them out on the internet. The young boy, 15, in the UK, who had been tricked into doing a hack by and for adults, was conveniently too young to punish properly. But his fully adult co-conspirators were not. CWA’s North Carolina contingent used the same hack to dox FBI and law enforcement, mercilessly harassing American intelligence and police personnel, writing phone scripts that would ring officers on the hour through the hour through the night. Sputnik adopted Bernie Sanders and pro-Palestine colors when it wanted to defend the hackers.</p>
+<p class="p1">Meanwhile, Ms. Fairbanks was promoting every anti-American hacker, defined by the IC as Russian state hackers, known to mankind. She “loved” Guccifer 2. She fangirled over Wikileaks and the Russian asset Julian Assange. Fairbanks also pushed out co-ordinated Russian propaganda from Infowars and others during the election, including pizzagate and other Russian-organized propaganda spread by Mike Flynn and other Russian agents of influence. But with CWA she held personal meetings, photographing herself with Liverman and helping fund his defense in court.</p>
+<p class="p1">The Daily Mail, Sputnik, and Trump</p>
+<p class="p1">There seems to be a strong friendship between the Daily Mail’s journalist Alana Goodman, who wrote the 15 year old girl story on which the criminal case was based, and Ms. Fairbanks of Sputnik. They photographed themselves on multiple occasions together in social settings, such as sabering bottles of champagne at Trump Tower. They defended each other on Twitter. Ms. Goodman appears in many tweeted photographs by Miss Fairbanks. At one debate, Miss Goodman stars in a photograph of herself wearing a ‘Make America Great’ cap pulled down over her head. Sputnik’s Miss Fairbanks points everybody to Goodman’s story on Weiner of the 21<span class="s1"><sup>st</sup></span>. Goodman is also apparently close to the Trump campaign’s Moishe Lee.</p>
+<p class="p1">Sputnik’s Cassandra Fairbanks was also invited to the Inaugural Freedom Ball, which is quite an honor for a mouthpiece of the Russian state, and tweeted her pictures close to Trump and the First Lady. She followed this ostensibly unlikely triumph by spending New Year’s eve, too, with Miss Goodman (shortly after her photograph with Justin Liverman of CWA).</p>
+<p class="p1">Yet while Ms. Fairbanks promoted Ms. Goodman’s exclusive on the 15 year old girl, on Twitter, her own organ, Sputnik, and <a href="http://rt.com">RT.com</a>, seemed awfully reticent to promote it<span class="Apple-converted-space">  </span>&#8211; or even to touch it. Although both Russian channels covered the <i>preceding</i> Weiner scandal, involving the married Weiner, his young son in a photograph, and an adult woman, there was <i>no mention whatsoever </i>online on both Russian media channels of this story. Even though, ostensibly, it was the far more important one. Previously, all Anthony Weiner’s sexting had been done with overage women or girls over the age of consent. It was sleazy, and pathetic, certainly, and his wife, Huma Abedin, separated from him. But it was not criminal.</p>
+<p class="p1">Russia and its spies within the FBI needed it to be criminal.</p>
+<p class="p1">And yet RT and Sputnik showed an admirable, one might say inexplicable, level of restraint when confronted with the story of what appeared to be an <i>actual </i>crime by Weiner.</p>
+<p class="p1">There are other disturbing notes to be made about the manner of the publication of the story. While it was reported as ‘breaking news’ on September 21<span class="s1"><sup>st</sup></span> by Miss Goodman, online dates on the videos embedded within the story appear to show they were shot six days earlier. Why was the story held, if indeed it was? On September 21<span class="s1"><sup>st</sup></span>, Eric Lichtblau, who would later publish a substantially false story at the New York Times saying that the FBI investigating Trump’s server ‘found no clear links to Trump’, alerted Alfa Bank with a question about their involvement with the server. At that point, Trump’s server went dark. It was certainly a most opportune time to publish a major distraction that could have major consequences.</p>
+<p class="p1">Sputnik’s Miss Fairbanks also seemed to know that publication was imminent; she decided to pose in an arch t-shirt for Wikileaks that said ‘Publish or Perish’ which she said she was ‘wearing for traveling’.</p>
+<h3 class="p1">Foreknowledge from the FBI NY, the NYPD, Lara Trump, Giuliani and Flynn</h3>
+<p class="p1">It is by now well-known that now disgraced General Mike Flynn, and Rudy Giuliani, once a Secretary of State contender, boasted in advance of the ‘October surprise’ that was coming based on “emails discovered” on Weiner’s laptop as part of the “separate criminal case”. The FBI Field Office in New York, indeed, have hung themselves up nicely by leaking on Russia’s behalf to these people but also by tweeting from an account. Giuliani’s partner boasted that the NYPD was also corrupt; that if Director Comey did not write to Congress, the letter that handed the election to Trump, they, the NYPD, would call a press conference announcing all the ‘arrests’ they had made in the “Weiner sexting” case.</p>
+<p class="p1">But, partly perhaps from sexism, partly from fear of attacking the first family, not enough attention has been paid to the Trump family’s <i>own </i>Carolina connection, and part in the conspiracy. Lara Yunaska, NC, now Lara Trump, NY, boasted on the radio, in advance, that an October surprise was coming &#8211; something she had no legal way of knowing. The FBI and NYPD are not supposed to leak information on criminal cases, particularly those ostensibly involving sexual abuse of a minor, to politicians for political purposes. Yet Mrs. Eric Trump was on the radio, bold as brass, saying on October 24 that ‘there are still a few days in October’ and ‘we’ve got a couple of things up our sleeve.’</p>
+<p class="p1">On 29<span class="s1"><sup>th</sup></span> October, when the Comey letter had been leaked by Jason Chaffetz, North Carolina native Lara Trump went further, saying on the radio to ABC’s Rita Cosby that <i>Trump </i>had “forced” Comey’s hand with the letter.</p>
+<p class="p3"><span class="s3">“</span><span class="s4"><i>I think my father-in-law forced their hand in this. You know, he has been the one since the beginning saying that she shouldn’t be able to run for president, and I commend him on that”</i></span></p>
+<p class="p1">Lara Trump said.</p>
+<p class="p1">These interviews followed her trip, with her husband Eric, to Gastonia, Gaston County, North Carolina. <a href="http://www.gastongazette.com/news/20161019/eric-and-lara-trump-to-campaign-for-donald-in-gastonia">According to the Gaston County Gazette</a>, Lara and Eric Trump visited the GOP headquarters there on October 21<span class="s1"><sup>st</sup></span>.</p>
+<p class="p1">I tried to discover the identity of the real teenage girl and her father for this story (since both Ms. Goodman and Buzzfeed News claimed to have spoken to them). But I could not do so. I am glad now that I could not find out their identities.</p>
+			<style type="text/css">
+			div.wpmrec2x{max-width:610px;}
+			div.wpmrec2x div.u > div{float:left;margin-right:10px;}
+			div.wpmrec2x div.u > div:nth-child(3n){margin-right:0px;}
+			</style>		<div class="wpcnt">
+			<div class="wpa wpmrec wpmrec2x">
+				<span class="wpa-about">Advertisements</span>
+				<div class="u">
+								<script type='text/javascript' id="s1227313501">
+				(function(g,$){if("undefined"!=typeof g.__ATA){
+					g.__ATA.initAd({sectionId:1227313501, width:300, height:250});
+					g.__ATA.initAd({sectionId:1227313504, width:300, height:250});
+				}})(window,jQuery);
+			</script>
+				</div>
+				        <div id="crt-##DivID##" style="width:300px;height:250px;"></div>
+        <script type="text/javascript">
+        var o = document.getElementById('crt-##DivID##');
+        if ("undefined"!=typeof Criteo) {
+            var p = o.parentNode;
+            p.style.setProperty('display', 'inline-block', 'important');
+            o.style.setProperty('display', 'block', 'important');
+            Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-##DivID##",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-##DivID##'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); }
+        });
+        } else {
+            o.style.setProperty('display', 'none', 'important');
+            o.style.setProperty('visibility', 'hidden', 'important');
+        }
+        </script>
+			</div>
+		</div><div class="teads_slot"></div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-290" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-290" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-290" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=290&amp;origin=patribotics.wordpress.com&amp;obj_id=122731350-290-5924a36d04544' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+					<span class="comments-link"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comments">17 Comments</a></span>
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/anthony-wiener/" rel="tag">Anthony Wiener</a>, <a href="https://patribotics.blog/tag/boente/" rel="tag">Boente</a>, <a href="https://patribotics.blog/tag/comey/" rel="tag">Comey</a>, <a href="https://patribotics.blog/tag/confide-app/" rel="tag">Confide App</a>, <a href="https://patribotics.blog/tag/crackas-with-attitude/" rel="tag">Crackas With Attitude</a>, <a href="https://patribotics.blog/tag/cwa/" rel="tag">CWA</a>, <a href="https://patribotics.blog/tag/director-comey/" rel="tag">Director Comey</a>, <a href="https://patribotics.blog/tag/eric-trump/" rel="tag">Eric Trump</a>, <a href="https://patribotics.blog/tag/fbi/" rel="tag">FBI</a>, <a href="https://patribotics.blog/tag/formspring/" rel="tag">Formspring</a>, <a href="https://patribotics.blog/tag/gaston/" rel="tag">Gaston</a>, <a href="https://patribotics.blog/tag/hacking/" rel="tag">Hacking</a>, <a href="https://patribotics.blog/tag/hillary-clinton/" rel="tag">Hillary Clinton</a>, <a href="https://patribotics.blog/tag/hillarys-emails/" rel="tag">Hillary's Emails</a>, <a href="https://patribotics.blog/tag/impeachment/" rel="tag">Impeachment</a>, <a href="https://patribotics.blog/tag/jeff-sessions/" rel="tag">Jeff Sessions</a>, <a href="https://patribotics.blog/tag/lara-trump/" rel="tag">Lara Trump</a>, <a href="https://patribotics.blog/tag/louise-mensch/" rel="tag">Louise Mensch</a>, <a href="https://patribotics.blog/tag/mike-flynn/" rel="tag">Mike Flynn</a>, <a href="https://patribotics.blog/tag/mkate/" rel="tag">MKATE</a>, <a href="https://patribotics.blog/tag/nikulin/" rel="tag">Nikulin</a>, <a href="https://patribotics.blog/tag/north-carolina/" rel="tag">North Carolina</a>, <a href="https://patribotics.blog/tag/putin/" rel="tag">Putin</a>, <a href="https://patribotics.blog/tag/sexting/" rel="tag">Sexting</a>, <a href="https://patribotics.blog/tag/sputnik/" rel="tag">Sputnik</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+				<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links">
+			<div class="nav-previous"><a href="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/" rel="prev"><img width="150" height="100" src="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=150 150w, https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="2357" data-permalink="https://patribotics.blog/2017/02/07/jeff-sessions-attorney-general-suspect/sessions-dick/" data-orig-file="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Jeff Sessions arrested" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/02/sessions-dick.jpg?w=845" /><span class="previous-title prev-next">&larr; Previous Post</span><h4>Jeff Sessions: Attorney General,&nbsp;Suspect</h4><div class="excerpt">Our report, naming Jeff Sessions a Trump Russia suspect on the day he was confirmed. NOTE: He still is. (HINT) </div></a></div><div class="nav-next"><a href="https://patribotics.blog/2017/02/26/planespotting-michael-cohens-amazing-journey-louise-mensch/" rel="next"><img width="150" height="100" src="https://patribotics.files.wordpress.com/2017/01/dsc_6919.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/01/dsc_6919.jpg?w=150 150w, https://patribotics.files.wordpress.com/2017/01/dsc_6919.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="17" data-permalink="https://patribotics.blog/?attachment_id=17" data-orig-file="https://patribotics.files.wordpress.com/2017/01/dsc_6919.jpg" data-orig-size="6000,4000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;9&quot;,&quot;credit&quot;:&quot;Louise Menschh &lt;&quot;,&quot;camera&quot;:&quot;NIKON D7100&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1477231667&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.003125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="dsc_6919" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/01/dsc_6919.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/01/dsc_6919.jpg?w=845" /><span class="next-title prev-next">Next Post &rarr;</span><h4>Planespotting: Michael Cohen&#8217;s Amazing&nbsp;Journey</h4><div class="excerpt">Michael Cohen's story of why he couldn't have met Russian hackers doesn't hold water. </div></a></div>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+			
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			17 thoughts on &ldquo;The Carolina Conspiracy&rdquo;		</h2>
+
+		
+		<ol class="comment-list">
+					<li id="comment-198" class="comment byuser comment-author-ryanwc4 even thread-even depth-1 highlander-comment">
+			<article id="div-comment-198" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://1.gravatar.com/avatar/d85ab55b7341d56799fd13d5fe3a6abf?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">ryanwc4</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-198">
+							<time datetime="2017-02-19T08:48:12+00:00">
+								February 19, 2017 at 8:48 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Have you looked at the twitter user bobbitt&#8217;s weather?  He opened his account in 11/1/16, posts almost exclusively about North Carolina weather, except that on 1/1 he replied to the Goodman/Fairbanks photo tweet (the one from 1/1, not 12/31) asking &#8216;how much did he pay yall?&#8217;  </p>
+<p>I went all the way back through his feed.  He does have some fairly tame pro-Trump tweets in early Nov.  And his follows are weather tweeters plus a very standard set of Trumpista sites.</p>
+<p>But on election night he has a 1-word tweet, WOW, to @CassandraRules!</p>
+<p>I think he knows.  He didn&#8217;t tweet Cassanda &#8220;how much he pay you?&#8221;  And he could have tweeted her anytime.  Instead, he tweeted &#8216;yall&#8217; at the Goodman/Fairbanks photo.</p>
+<p id="comment-like-198" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=198&#038;_wpnonce=0df31c21ab" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-198" class="comment-like-feedback">Liked by <a href="#" class="view-likers" data-like-count="1">1 person</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=198#respond' onclick='return addComment.moveForm( "div-comment-198", "198", "respond", "290" )' aria-label='Reply to ryanwc4'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-242" class="comment odd alt thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-242" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/2bb47baabcc7a6a36deb05fab4e15b8f?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">Julian</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-242">
+							<time datetime="2017-02-24T16:49:38+00:00">
+								February 24, 2017 at 4:49 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>&#8216;let’s see how László Bartus, currently editor-in-chief of Népszava, the oldest Hungarian-language paper in the United States, remembers Gorka from those days. Bartus was working as a journalist in Hungary at the time. He claims that it was discovered that Gorka had never attended any institution of higher education. This may have been the case in 2002&#8230;&#8221;</p>
+<p><a href="http://hungarianspectrum.org/2017/02/02/sebastian-l-von-gorkas-encounter-with-the-hungarian-national-security-office/" rel="nofollow">http://hungarianspectrum.org/2017/02/02/sebastian-l-von-gorkas-encounter-with-the-hungarian-national-security-office/</a></p>
+<p>I guess it sort of raises the question &#8211; if he wasn&#8217;t ever at an HE how did he get into the TA of the uni of london&#8230;</p>
+<p>That sounds more likely though i suspect the adage is you can never trust the internet&#8230;</p>
+<p id="comment-like-242" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=242&#038;_wpnonce=1a1917c04b" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-242" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=242#respond' onclick='return addComment.moveForm( "div-comment-242", "242", "respond", "290" )' aria-label='Reply to Julian'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-276" class="comment even thread-even depth-1 highlander-comment">
+			<article id="div-comment-276" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/55ee1350289b2d9f57e102ac06ca2755?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">PA Kolb</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-276">
+							<time datetime="2017-02-26T23:36:20+00:00">
+								February 26, 2017 at 11:36 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>You may already have received this feedback, but CWA stands for USA in Cyrillic, not USSR.</p>
+<p id="comment-like-276" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=276&#038;_wpnonce=7929211cbb" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-276" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=276#respond' onclick='return addComment.moveForm( "div-comment-276", "276", "respond", "290" )' aria-label='Reply to PA Kolb'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-334" class="comment byuser comment-author-meticulouslyclean-2 odd alt thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-334" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/ca4ea7f6a1524f1f1f7ecfc50497503f?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn"><a href='http://gravatar.com/marlahughes' rel='external nofollow' class='url'>MarlaHughes</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-334">
+							<time datetime="2017-03-02T00:06:56+00:00">
+								March 2, 2017 at 12:06 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Interesting coincidence: Trumpcoast, who said in August: &#8220;If you don&#8217;t yet have sufficient reason to at least vote against Hillary, please let Anthony Weiner sexting with a baby, be the last straw.&#8221;  was RTed by Donald Trump (more likely his media handlers- Parscale?) in March earlier in 2016: <a href="https://twitter.com/realDonaldTrump/status/711163293365198848" rel="nofollow">https://twitter.com/realDonaldTrump/status/711163293365198848</a><br />
+People think Trump just picks random followers to RT but I&#8217;ve long thought his account has lists, just like everyone else and those RTs are for messaging. Even if they&#8217;re not it&#8217;s a strange coincidence that the account who was talking about Weiner sexting w/an underaged girl before anyone knew about it was also RTed by Trump&#8217;s account, isn&#8217;t it?</p>
+<p id="comment-like-334" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=334&#038;_wpnonce=62e6ecfddb" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-334" class="comment-like-feedback">Liked by <a href="#" class="view-likers" data-like-count="3">3 people</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=334#respond' onclick='return addComment.moveForm( "div-comment-334", "334", "respond", "290" )' aria-label='Reply to MarlaHughes'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-350" class="comment even thread-even depth-1 highlander-comment">
+			<article id="div-comment-350" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/c2b98c1aa4a5596b011ea804553c1fe0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">John Sow</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-350">
+							<time datetime="2017-03-03T01:42:40+00:00">
+								March 3, 2017 at 1:42 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I think you mean the Cyrillic abbreviation of USA, which is США.</p>
+<p id="comment-like-350" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=350&#038;_wpnonce=f242aaa842" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-350" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=350#respond' onclick='return addComment.moveForm( "div-comment-350", "350", "respond", "290" )' aria-label='Reply to John Sow'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-351" class="comment odd alt thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-351" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://1.gravatar.com/avatar/766b316aae5418f3b8e2b92e57aa334a?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">Cyril</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-351">
+							<time datetime="2017-03-03T02:53:45+00:00">
+								March 3, 2017 at 2:53 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Cwa is USA not ussr.</p>
+<p id="comment-like-351" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=351&#038;_wpnonce=b33cf1843e" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-351" class="comment-like-feedback">Liked by <a href="#" class="view-likers" data-like-count="1">1 person</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=351#respond' onclick='return addComment.moveForm( "div-comment-351", "351", "respond", "290" )' aria-label='Reply to Cyril'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-361" class="comment even thread-even depth-1 highlander-comment">
+			<article id="div-comment-361" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/f8b1ed37a47da3547e6f0b6f60a916a3?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn"><a href='http://jeroen.vangoey.be' rel='external nofollow' class='url'>Jeroen Van Goey</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-361">
+							<time datetime="2017-03-03T10:10:45+00:00">
+								March 3, 2017 at 10:10 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>&gt;  The letters USSR in Cyrillic look like the American letters “CWA”. </p>
+<p>I think you mean: The letters USA  in Cyrillic look like the American letters “CWA”. </p>
+<p>USA in Cyrillic is  &#8220;США&#8221; which stands for &#8220;Соединенные Штаты Америки&#8221; aka &#8220;United States of America&#8221;</p>
+<p id="comment-like-361" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=361&#038;_wpnonce=10e35ef5c5" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-361" class="comment-like-feedback">Liked by <a href="#" class="view-likers" data-like-count="1">1 person</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=361#respond' onclick='return addComment.moveForm( "div-comment-361", "361", "respond", "290" )' aria-label='Reply to Jeroen Van Goey'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-378" class="comment odd alt thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-378" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/f5cd6e53d32ebd19326e7e4c908db591?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">throwaway so russians dont come after me too</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-378">
+							<time datetime="2017-03-05T08:38:26+00:00">
+								March 5, 2017 at 8:38 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I&#8217;ve been following your work on Russia/Trump connections and I find much of it convincing.  That being said, I have some questions about this particular article.   If the Russian hacker hypothesis is correct, do the alleged daughter and father exist at all?  If they do, why not come out against the Daily Mail&#8217;s piece?  Even if the 15 yr old was a setup by a 28 yr old Russian hacker, doesn&#8217;t the fact that Anthony Weiner obviously thought he was communicating with a 15 yr old girl make him liable for criminal prosecution in any case?</p>
+<p>I do find the bizarrely plagiarized catfishing email, the dates on the videos, the travel logs, and the Fairbanks &#8211; Goodman connection to be extremely suspect. The means, motive, and opportunity you list make a lot of sense. I also think your theory about the Russian intelligence agencies having inside men at the Bureau and NYPD to be completely plausible.  After all, the Soviets stole the secret of the Bomb using infiltrators with extraordinarily high levels of access back in the &#8217;40s.  And as Schindler points out, Russian methods of intelligence work have remained very consistent for 100 years.  </p>
+<p>How would you respond to the argument laid out in this article? <a href="http://www.nationalreview.com/article/445496/special-prosecutor-trump-campaign-russia-jeff-sessions-recuse-ambassador-sergey-kislyak" rel="nofollow">http://www.nationalreview.com/article/445496/special-prosecutor-trump-campaign-russia-jeff-sessions-recuse-ambassador-sergey-kislyak</a> Is there any specific crime you think one can point to as reason for an investigation? Maybe communication with whoever or whatever it was that was sufficient to obtain the FISA warrant?   How much do you think NSA/FBI/CIA really know? </p>
+<p>I can&#8217;t believe I voted for Trump to be president.  I do think it unfortunate that the man&#8217;s valid campaign message on certain controversial political points will become extremely tarnished when the truth of his dealings with Russian intelligence come to light.  Both Repubs and Dems need to focus first on fixing the problem of Russian infiltration. To their credit, Dems seem to be facing reality first sooner, albeit mostly out of political partisanship rather than real concern for natsec. After 8 years of ignoring the Russia problem, Dems woke up only at the 11th hour due to partisan concerns.  Obama could have paid attention to what his intel chiefs told him and stood up to Putin&#8217;s aggression 8 years earlier. Still, a late awakening is better than none, which is where all Republican officials seem to be at right now.  From the party of Reagan to the useful idiots and knowing agents of Vlad Putin in 30 years.</p>
+<p id="comment-like-378" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=378&#038;_wpnonce=0a92b5f08a" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-378" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=378#respond' onclick='return addComment.moveForm( "div-comment-378", "378", "respond", "290" )' aria-label='Reply to throwaway so russians dont come after me too'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-380" class="comment even thread-even depth-1 highlander-comment">
+			<article id="div-comment-380" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/2bb47baabcc7a6a36deb05fab4e15b8f?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">Julian</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-380">
+							<time datetime="2017-03-05T18:36:19+00:00">
+								March 5, 2017 at 6:36 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Hi louise &#8211; see tweets am getting to grips with twitter &#8211; was never able to use social media so apologies.</p>
+<p>Key points &#8211; meet the press<br />
+1) very poor interviewer &#8211; assume questions agreed in advance?<br />
+2) first q &#8211; were there &#8216;illegal wiretaps&#8217; answer 1 = no (query whether this includes legal) &#8211; besring in mind clappers previous &#8216;record on truth?&#8217;<br />
+3) answer 1 continues caveat only those IC reporting to me &#8211; not state or local or other title 3<br />
+4 ) second question &#8211; *only relates to FBI wiretaps &#8211; no &#8211; to my knowledge &#8211; note the addition &#8211; on this sort of matter yes i would know &#8211; query whether fbi crime reports<br />
+5) clapper suppresses smile at 2:30 &#8216;more may have developed after i left&#8217; &#8211; note he resigned 17 niv &#8211; effective 20 jan<br />
+6) can you allow dms on twitter please &#8211; as i really have little idea you read this. Hopefully i pass the not too mad test.</p>
+<p id="comment-like-380" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=380&#038;_wpnonce=e24db5b45e" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-380" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=380#respond' onclick='return addComment.moveForm( "div-comment-380", "380", "respond", "290" )' aria-label='Reply to Julian'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-384" class="pingback odd alt thread-odd thread-alt depth-1 highlander-comment">
+			<div class="comment-body">
+				Pingback: <a href='http://www.liberalvoice.tv/daily-kos-radio-is-live-at-9-am-et-2/' rel='external nofollow' class='url'>Daily Kos Radio is LIVE at 9 AM ET! - LiberalVoiceLiberalVoice &mdash; Your source for everything about liberals and progressives! &mdash; News and tweets about everything liberals and progressives</a> 			</div>
+</li><!-- #comment-## -->
+		<li id="comment-385" class="comment even thread-even depth-1 highlander-comment">
+			<article id="div-comment-385" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/bb57728fda14b70971510b5ed1318dc4?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">Belle</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-385">
+							<time datetime="2017-03-06T14:14:34+00:00">
+								March 6, 2017 at 2:14 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>The letters USSR in Cyrillic look like the American letters “CCCP.&#8221; The Russian Cyrillic letters that look like &#8220;CWA&#8221; would translate to &#8220;USA&#8221; in English. I see you blocked me on twitter for pointing this out, but I am simply trying to help you. Google Translate will confirm this: type USA in English and then translate it to Russian; do the same for USSR.</p>
+<p id="comment-like-385" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=385&#038;_wpnonce=c83ac83bee" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-385" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=385#respond' onclick='return addComment.moveForm( "div-comment-385", "385", "respond", "290" )' aria-label='Reply to Belle'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-387" class="comment odd alt thread-odd thread-alt depth-1 parent highlander-comment">
+			<article id="div-comment-387" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/8cc29524e6853db27e11ec00ee41e869?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">ANDREA Lingenfelter</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-387">
+							<time datetime="2017-03-06T21:23:42+00:00">
+								March 6, 2017 at 9:23 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Great article. Not sure where you got the idea that CWA looks like Cyrillic for USSR. The Cyrillic for USSR looks like CCCP. CWA is a play on NWA&#8211;&#8220;N&#8212;&#8211;s with Attitude&#8221; the South Central LA hip hop band. Since n&#8212;&#8211; is a pejorative for African American, the substitution of &#8220;cracker&#8221; (pejorative for low class white, usually Southern; see also &#8220;hillbilly&#8221; and &#8220;white trash&#8221;) is a (suspiciously alt-right sounding) sophomoric moniker. Racist and proud of it.</p>
+<p id="comment-like-387" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=387&#038;_wpnonce=669f26438a" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-387" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=387#respond' onclick='return addComment.moveForm( "div-comment-387", "387", "respond", "290" )' aria-label='Reply to ANDREA Lingenfelter'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-388" class="comment even depth-2 highlander-comment">
+			<article id="div-comment-388" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/8cc29524e6853db27e11ec00ee41e869?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">ANDREA Lingenfelter</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-388">
+							<time datetime="2017-03-06T21:26:20+00:00">
+								March 6, 2017 at 9:26 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Racist and proud of it refers to CWA, as their moniker implies.</p>
+<p id="comment-like-388" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=388&#038;_wpnonce=e10e81b9ac" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-388" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=388#respond' onclick='return addComment.moveForm( "div-comment-388", "388", "respond", "290" )' aria-label='Reply to ANDREA Lingenfelter'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-399" class="comment byuser comment-author-oruacat2 odd alt thread-even depth-1 highlander-comment">
+			<article id="div-comment-399" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/5012074122c52bc91253564e96566be9?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">oruacat2</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-399">
+							<time datetime="2017-03-07T16:50:48+00:00">
+								March 7, 2017 at 4:50 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Don&#8217;t forget that Roger Stone is mixed up in this, too.</p>
+<p id="comment-like-399" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=399&#038;_wpnonce=2f62e61f0b" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-399" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=399#respond' onclick='return addComment.moveForm( "div-comment-399", "399", "respond", "290" )' aria-label='Reply to oruacat2'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-407" class="comment even thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-407" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://1.gravatar.com/avatar/d2b2813888cd4ce574f72d48b0a19d44?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">Sarah R. Benton</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-407">
+							<time datetime="2017-03-08T20:27:06+00:00">
+								March 8, 2017 at 8:27 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Thank you for this!</p>
+<p id="comment-like-407" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=407&#038;_wpnonce=02a0bf22b6" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-407" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=407#respond' onclick='return addComment.moveForm( "div-comment-407", "407", "respond", "290" )' aria-label='Reply to Sarah R. Benton'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-426" class="comment odd alt thread-even depth-1 highlander-comment">
+			<article id="div-comment-426" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/3081af90daecf7af060e786b56927500?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">Susan</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-426">
+							<time datetime="2017-03-11T23:00:43+00:00">
+								March 11, 2017 at 11:00 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Connecting the dots. Fascinating</p>
+<p id="comment-like-426" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=426&#038;_wpnonce=18cbe535bc" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-426" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=426#respond' onclick='return addComment.moveForm( "div-comment-426", "426", "respond", "290" )' aria-label='Reply to Susan'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-429" class="comment even thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-429" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/9a0472ee069317624aafcd9b6572af7c?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />						<b class="fn">Cynthia Buckwalter</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#comment-429">
+							<time datetime="2017-03-12T10:09:18+00:00">
+								March 12, 2017 at 10:09 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Did you see how trump gave Comey a kiss on the cheek even blowing a kiss to Comey? Comey walked over too him like a little girl. Undercover??</p>
+<p id="comment-like-429" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?like_comment=429&#038;_wpnonce=5eb4295218" class="comment-like-link needs-login" rel="nofollow" data-blog="122731350"><span>Like</span></a><span id="comment-like-count-429" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://patribotics.blog/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/?replytocom=429#respond' onclick='return addComment.moveForm( "div-comment-429", "429", "respond", "290" )' aria-label='Reply to Cynthia Buckwalter'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://patribotics.blog/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="93b06b37cc" /><input type="hidden" name="_wp_http_referer" value="/2017/02/14/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='290' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="e6333d2f13" /></p>
+<input type="hidden" name="genseq" value="1495573357" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="117"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<div id="secondary" class="widget-area" role="complementary">
+
+	<aside id="image-3" class="widget widget_image"><h6 class="widget-title">Donate with PayPal</h6><div style="overflow:hidden;"><figure style="width: 522px" class="wp-caption alignnone"><a href="http://paypal.me/LouiseMensch"><img src="https://patribotics.files.wordpress.com/2017/05/papal.jpeg?w=522&amp;h=208" alt="Donate with PayPal" title="Donate with PayPal" width="522" height="208" /></a><figcaption class="wp-caption-text">If you enjoy our work, please consider a donation. </figcaption></figure></div>
+</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://patribotics.blog/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="archives-2" class="widget widget_archive"><h6 class="widget-title">Archives</h6>		<ul>
+			<li><a href='https://patribotics.blog/2017/05/'>May 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/04/'>April 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/03/'>March 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/02/'>February 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/01/'>January 2017</a></li>
+		</ul>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h6 class="widget-title">Recent Posts</h6>		<ul>
+					<li>
+				<a href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/">EXCLUSIVE: Marshal of the Supreme Court Warned Trump over &#8216;Muslim&nbsp;Ban&#8217;</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/22/mike-flynn-turns-on-trump-talks-to-fbi/">Mike Flynn Turns on Trump, Talks To&nbsp;FBI</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/20/exclusive-judiciary-committee-considering-articles-of-impeachment/">EXCLUSIVE: Judiciary Committee Considering Articles of&nbsp;Impeachment</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/">Comey&#8217;s FBI Computer Illegally Accessed: Data Given to Russian&nbsp;Diplomats</a>
+						</li>
+					<li>
+				<a href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/">EXCLUSIVE: U.S. Marshals Readying; Plan Approved By Justice Dept&nbsp;Official</a>
+						</li>
+				</ul>
+		</aside>		
+</div><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-footer-inner">
+
+			
+
+<div class="footer-widget-area count-1">
+
+	
+	<div class="footer-widget">
+		<aside id="image-4" class="widget widget_image"><h6 class="widget-title">Donate with PayPal</h6><div style="overflow:hidden;"><figure style="width: 522px" class="wp-caption aligncenter"><a href="http://paypal.me/LouiseMensch"><img src="https://patribotics.files.wordpress.com/2017/05/papal.jpeg?w=522&amp;h=208" title="Donate with PayPal" width="522" height="208" /></a><figcaption class="wp-caption-text">If you enjoy our work, please consider donating.</figcaption></figure></div>
+</aside>	</div>
+
+	
+	
+	
+</div>
+
+
+		</div><!-- .site-footer-inner -->
+	</footer><!-- #colophon -->
+
+	
+<div class="site-info-wrapper">
+	<div class="site-info">
+		<div class="site-info-inner">
+
+			<h6>Exposing Vladimir Putin&#039;s War on America</h6>
+
+			
+			<div class="social-menu">
+				<h6 class="find-us">Find us on</h6>
+				<div class="menu-social-links-container"><ul id="menu-social-links-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://facebook.com/">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://twitter.com/wordpressdotcom">Twitter</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://dribbble.com/automattic">Dribbble</a></li>
+</ul></div>			</div><!-- .social-menu -->
+
+			
+			<div class="site-info-text">
+				<a></a>
+				
+							</div><!-- .site-info-text -->
+
+		</div><!-- .site-info-inner -->
+	</div><!-- .site-info -->
+</div><!-- .site-info-wrapper -->
+</div><!-- #page -->
+
+<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201721y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-d85ab55b7341d56799fd13d5fe3a6abf">
+	</div>
+	<div class="grofile-hash-map-2bb47baabcc7a6a36deb05fab4e15b8f">
+	</div>
+	<div class="grofile-hash-map-55ee1350289b2d9f57e102ac06ca2755">
+	</div>
+	<div class="grofile-hash-map-ca4ea7f6a1524f1f1f7ecfc50497503f">
+	</div>
+	<div class="grofile-hash-map-c2b98c1aa4a5596b011ea804553c1fe0">
+	</div>
+	<div class="grofile-hash-map-766b316aae5418f3b8e2b92e57aa334a">
+	</div>
+	<div class="grofile-hash-map-f8b1ed37a47da3547e6f0b6f60a916a3">
+	</div>
+	<div class="grofile-hash-map-f5cd6e53d32ebd19326e7e4c908db591">
+	</div>
+	<div class="grofile-hash-map-bb57728fda14b70971510b5ed1318dc4">
+	</div>
+	<div class="grofile-hash-map-8cc29524e6853db27e11ec00ee41e869">
+	</div>
+	<div class="grofile-hash-map-5012074122c52bc91253564e96566be9">
+	</div>
+	<div class="grofile-hash-map-d2b2813888cd4ce574f72d48b0a19d44">
+	</div>
+	<div class="grofile-hash-map-3081af90daecf7af060e786b56927500">
+	</div>
+	<div class="grofile-hash-map-9a0472ee069317624aafcd9b6572af7c">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/patribotics.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?action=logout&_wpnonce=dc5bb2aed9","homeURL":"https:\/\/patribotics.blog\/","postID":"290","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+			<script type="text/javascript">
+			try {
+				window._ttf = window._ttf || [];
+				_ttf.push({
+					pid          : 25030
+					,lang        : "en"
+				 	,format      : "inread"
+					,slot        : ".teads_slot"
+					,slotMode    : "in"
+					,minSlot     : 1
+					,css         : "margin: 10px auto; max-width: 550px;"
+				});
+				(function (d) {
+				        var js, s = d.getElementsByTagName('script')[0];
+				        js = d.createElement('script');
+				        js.async = true;
+				        js.src = '//cdn.teads.tv/media/format.js';
+				        s.parentNode.insertBefore(js, s);
+				})(window.document);
+			} catch(e) {}
+			</script>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/patribotics.blog\/2017\/02\/14\/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch\/":290};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"122731350","siteName":"patribotics","siteURL":"https:\/\/patribotics.blog","icon":"<img alt='' src='https:\/\/patribotics.files.wordpress.com\/2017\/01\/cropped-mon-12-sep-13491.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/dailymag","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F02%2F14%2Fthe-carolina-conspiracy-putin-catfished-weiner-louise-mensch%2F","themeURL":"https:\/\/wordpress.com\/theme\/dailymag\/","xhrURL":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"ebeaf38cf0","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"08ad06bcf1\" \/>","referer":"https:\/\/patribotics.blog\/2017\/02\/14\/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/patribotics.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fpatribotics.wordpress.com%2F2017%2F02%2F14%2Fthe-carolina-conspiracy-putin-catfished-weiner-louise-mensch%2F","postID":"290","shortlink":"http:\/\/wp.me\/p8iY1U-4G","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/patribotics.blog\/290","statsLink":"https:\/\/wordpress.com\/stats\/post\/290\/patribotics.blog","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: DailyMag","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 14,037 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F02%2F14%2Fthe-carolina-conspiracy-putin-catfished-weiner-louise-mensch%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVkNFuwyAMRX9olLaaNu1h2rdQcIgTDMyGdP37gaZF7SZFyhPW9T0X2/qalU2xQCx6Eu1gQQv56zDJk75rUVU5VI9RdMAZRH9WqDCa6ALwhtkmoiapH2jq9EXLFTPsgR6Ev2AZgZotMxBW0s5guJHxnYtmQW8KprgDypw8g+z5R2bMbbg4qyHZKmrA9YAYbajucQ2GHG4Hwn9T3d3AuNZXF8OajBTgVqm0ADP2sFXbSrB98Z6wVhvunKSoIRhkLaNhjP73bdAHvZ+e387H48vp/Dp9A7yF03U='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.defer = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'122731350','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'122731350','v':'wpcom','tz':'0','user_id':'0','post':'290','subd':'patribotics'}]);
+_stq.push(['extra', {'crypt':##Crypt##'}]);q
+_stq.push([ 'clickTrackerInit', '122731350', '290' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+<!--
+##GeneratedSeconds##
+##Batcache##
+-->

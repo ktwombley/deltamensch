@@ -1094,5 +1094,5 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 ##GeneratedSeconds##
 ##GeneratedSeconds##
 ##Batcache##
-	expires in 262 seconds
+	expires in 81 seconds
 -->

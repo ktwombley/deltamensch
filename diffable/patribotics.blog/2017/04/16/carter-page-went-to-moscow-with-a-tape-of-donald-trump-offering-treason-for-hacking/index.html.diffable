@@ -771,7 +771,7 @@ _tkq = window._tkq || [];
 _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'122731350','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 _stq.push(['view', {'blog':'122731350','v':'wpcom','tz':'0','user_id':'0','post':'1546','subd':'patribotics'}]);
-_stq.push(['extra', {'crypt':##Crypt##'}]);q
+_stq.push(['extra', {'crypt':##Crypt##'}]);
 _stq.push([ 'clickTrackerInit', '122731350', '1546' ]);
 	</script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>

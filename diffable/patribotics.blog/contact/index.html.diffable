@@ -234,7 +234,7 @@ img.emoji {
 	</div>
 	<p class='contact-submit'>
 		<input type='submit' value='Submit &#187;' class='pushbutton-wide'/>
-		<input type='hidden' name='contact-form-id' value='3' />
+		<input type='hidden' name='contact-form-id' value='##Number##' />
 		<input type='hidden' name='action' value='grunion-contact-form' />
 	</p>
 </form>

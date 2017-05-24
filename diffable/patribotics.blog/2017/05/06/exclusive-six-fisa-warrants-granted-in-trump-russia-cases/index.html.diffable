@@ -826,7 +826,3 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 </script>
 </body>
 </html>
-<!--
-##GeneratedSeconds##
-##Batcache##
--->

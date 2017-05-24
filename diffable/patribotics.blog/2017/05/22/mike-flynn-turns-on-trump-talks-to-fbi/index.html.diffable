@@ -162,7 +162,7 @@ var related_posts_js_options = {"post_heading":"h4"};
 </head>
 <body class="post-template-default single single-post postid-2896 single-format-standard mp6 customizer-styles-applied layout-two-column-default highlander-enabled highlander-light">
 
-<progress value="##Number##"></progress>
+<progress value="##HexNum##"></progress>
 <div id="page" class="hfeed site">
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
@@ -559,11 +559,11 @@ jQuery(document).ready( highlander_expando_javascript );
 
 
 
-<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='##Number##' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='##Number##' />
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='##HexNum##' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='##HexNum##' />
 </p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="##HexNum##" /></p>
-<input type="hidden" name="genseq" value="##Number##" />
-<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="##Number##"/></p>			</form>
+<input type="hidden" name="genseq" value="##HexNum##" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="##HexNum##"/></p>			</form>
 			</div><!-- #respond -->
 	<div style="clear: both"></div>
 </div><!-- #comments -->
@@ -768,7 +768,7 @@ var comment_like_text = {"loading":"Loading..."};
 </script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var actionbardata = {"siteID":"122731350","siteName":"patribotics","siteURL":"https:\/\/patribotics.blog","icon":"<img alt='' src='https:\/\/patribotics.files.wordpress.com\/2017\/01\/cropped-mon-12-sep-13491.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/dailymag","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F05%2F22%2Fmike-flynn-turns-on-trump-talks-to-fbi%2F","themeURL":"https:\/\/wordpress.com\/theme\/dailymag\/","xhrURL":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"620ed2e0d3","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"##HexNum##\" \/>","referer":"https:\/\/patribotics.blog\/2017\/05\/22\/mike-flynn-turns-on-trump-talks-to-fbi\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/patribotics.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fpatribotics.wordpress.com%2F2017%2F05%2F22%2Fmike-flynn-turns-on-trump-talks-to-fbi%2F","postID":"2896","shortlink":"http:\/\/wp.me\/p8iY1U-KI","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/patribotics.blog\/2896","statsLink":"https:\/\/wordpress.com\/stats\/post\/2896\/patribotics.blog","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: DailyMag","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join ##Followers## other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F05%2F22%2Fmike-flynn-turns-on-trump-talks-to-fbi%2F\">Log in now.<\/a>","stats":"Stats"}};
+var actionbardata = {"siteID":"122731350","siteName":"patribotics","siteURL":"https:\/\/patribotics.blog","icon":"<img alt='' src='https:\/\/patribotics.files.wordpress.com\/2017\/01\/cropped-mon-12-sep-13491.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/dailymag","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F05%2F22%2Fmike-flynn-turns-on-trump-talks-to-fbi%2F","themeURL":"https:\/\/wordpress.com\/theme\/dailymag\/","xhrURL":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"##HexNum##","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"##HexNum##\" \/>","referer":"https:\/\/patribotics.blog\/2017\/05\/22\/mike-flynn-turns-on-trump-talks-to-fbi\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/patribotics.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fpatribotics.wordpress.com%2F2017%2F05%2F22%2Fmike-flynn-turns-on-trump-talks-to-fbi%2F","postID":"2896","shortlink":"http:\/\/wp.me\/p8iY1U-KI","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/patribotics.blog\/2896","statsLink":"https:\/\/wordpress.com\/stats\/post\/2896\/patribotics.blog","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: DailyMag","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join ##Followers## other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F05%2F22%2Fmike-flynn-turns-on-trump-talks-to-fbi%2F\">Log in now.<\/a>","stats":"Stats"}};
 /* ]]> */
 </script>
 <script type='text/javascript'>

@@ -9,3 +9,5 @@ s|(_stq.push\(\['extra', \{'crypt':).*('\}\]\);)|\1##Crypt##\2|g
 s|(obj_id=)[a-f0-9-]+'|\1##OBJ_ID##'|g
 /<\/html>/,${//!d}
 /Recent Posts<\/h6>/,/<\/ul>/{//!d}
+/<link rel='prev' title=.*\/>/d
+/<link rel='next' title=.*\/>/d

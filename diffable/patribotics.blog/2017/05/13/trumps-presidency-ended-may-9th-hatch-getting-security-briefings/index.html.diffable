@@ -318,6 +318,9 @@ var related_posts_js_options = {"post_heading":"h4"};
 		</ul>
 		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h6 class="widget-title">Recent Posts</h6>		<ul>
 					<li>
+				<a href="https://patribotics.blog/2017/05/25/milo-yiannopoulus-has-an-account-with-a-fisa-targeted-russian-bank/">Milo Yiannopoulus Has An Account With a FISA-Targeted Russian&nbsp;Bank</a>
+						</li>
+					<li>
 				<a href="https://patribotics.blog/2017/05/23/exclusive-marshal-of-the-supreme-court-warned-trump-over-muslim-ban/">EXCLUSIVE: Marshal of the Supreme Court Warned Trump over &#8216;Muslim&nbsp;Ban&#8217;</a>
 						</li>
 					<li>
@@ -328,9 +331,6 @@ var related_posts_js_options = {"post_heading":"h4"};
 						</li>
 					<li>
 				<a href="https://patribotics.blog/2017/05/17/comeys-fbi-computer-illegally-accessed-data-given-to-russian-diplomats/">Comey&#8217;s FBI Computer Illegally Accessed: Data Given to Russian&nbsp;Diplomats</a>
-						</li>
-					<li>
-				<a href="https://patribotics.blog/2017/05/16/exclusive-u-s-marshals-readying-plan-approved-by-justice-dept-official/">EXCLUSIVE: U.S. Marshals Readying; Plan Approved By Justice Dept&nbsp;Official</a>
 						</li>
 				</ul>
 		</aside>		

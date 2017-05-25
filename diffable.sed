@@ -7,5 +7,5 @@ s|(nonce":")[a-f[:digit:]]+"|\1##HexNum##"|g
 s|Join [0-9,]+ other followers|Join ##Followers## other followers|g
 s|(_stq.push\(\['extra', \{'crypt':).*('\}\]\);)|\1##Crypt##\2|g
 s|(obj_id=)[a-f0-9-]+'|\1##OBJ_ID##'|g
-/<\/html>/{h; :a; /-->/x; N; b a; }
-
+/<\/html>/,${//!d}
+/Recent Posts<\/h6>/,/<\/ul>/{//!d}

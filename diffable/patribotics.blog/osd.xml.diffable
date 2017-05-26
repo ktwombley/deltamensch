@@ -11,7 +11,7 @@
 	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=16</Image>
 	<Image height="64" width="64" type="image/jpeg">https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=64</Image>
 	<Query role="example" searchTerms="photography" />
-	<Tags>impeachment louise-mensch hacking fbi fisa mike-flynn comey patribotics trump donald-trump</Tags>
+	<Tags>impeachment louise-mensch fbi fisa hacking comey mike-flynn patribotics trump donald-trump</Tags>
 	<Developer>Automattic</Developer>
 	<SyndicationRight>open</SyndicationRight>
 	<AdultContent>false</AdultContent>

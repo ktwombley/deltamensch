@@ -58,7 +58,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJx9j90OgjAMhV/I2RAJ6oXxWcbWwLBlCx0hvL3D+RPFcNO0zfl6emAKyvg+Yh+BRxVobFwvMAXjWQk7wvln2huRHfzHyN1QoMMYtLmpx7SS1+Sbj48frLYCDfla09Zp4wdMew46LgpG6zQScpJtYRyqF7W0bfprM0GOWtdhQBGVKruRVWyT0SaXqOWVnBmS8HuTUQe9jy7R8m5WN7MVPJ3Bakcz6wYkzoSL+sqXojwdD1VRnsvuDvuPqBg=' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJyFj90OgjAMhV/IWUwM4oXxWcZooLBuCx0hvL2bqIk/wZumbc7XcwpzUMa7iC4CTyrYqSUnMAfjWQmTxeVj2huRHfzGLA0o0GMM2gzqPm3JjR8x7TnomBWMDWm0yEm2hXEon1Ruu+S1abPGr+swoohKlWliFbtk9Cce5yjrH5CE75sVJXA+UqLl1XzdXK3g4QyNJruwbkHiYjGrr3w5HMvzqaqKoupvLSGXdg==' type='text/css' media='all' />
 <link rel='stylesheet' id='dailymag-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%7CAbril+Fatface%3A400%7CLora%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=0.9.0' type='text/css' media='all' />
 <link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJzTLy/QTc7PK0nNK9HPLdUtyClNz8wr1k9PzdfNyU9OLMnMz0Ph6KblJGYW6SUXF+voY9dalJqUk58OZKbrA1UhcUGa7HNtDU1MLU1MLMwNTbIAmkQtqg==' type='text/css' media='all' />
 <link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
@@ -83,6 +83,7 @@ img.emoji {
 <meta property="og:image:height" content="800" />
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:text:title" content="About" />
 <meta name="twitter:image:src" content="https://patribotics.files.wordpress.com/2017/04/flaggy.jpg?w=640" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
@@ -131,16 +132,7 @@ img.emoji {
 		</style>
 		<meta name="application-name" content="patribotics" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Exposing Vladimir Putin&#039;s War on America" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://patribotics.blog/feed/;icon-uri=https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="About | patribotics on WordPress.com" />
 <meta name="description" content="This is just a short excerpt for the about&nbsp;page." />
- 		<script type="text/javascript">
-		var _ipw_custom = {
-				wordAds: '1',
-				adSafe: '1',
-				domain: 'patribotics.blog',
-				pageURL: 'https://patribotics.blog/about/'
-			};
-		</script>
- 		<script type="text/javascript" src="//s.pubmine.com/head.js"></script>
-		<script type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script><style type="text/css" id="syntaxhighlighteranchor"></style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
 <link rel="icon" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=32" sizes="32x32" />
 <link rel="icon" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=192" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=180" />
@@ -210,30 +202,7 @@ img.emoji {
 	<h1 class="entry-title">About</h1></header><!-- .entry-header -->
 	<div class="entry-content">
 	<p>Investigative journalism and analysis of the Russian hack on America&#8217;s election and related topics. Pro-America, pro-democracy, pro-NATO, pro-Russia, anti-Putin.</p>
-		<div class="wpcnt">
-			<div class="wpa wpmrec">
-				<span class="wpa-about">Advertisements</span>
-				<div class="u">
-								<script type='text/javascript'>
-				(function(g){if("undefined"!=typeof g.__ATA){g.__ATA.initAd({sectionId:1227313501, width:300, height:250});}})(window);
-			</script>
-				</div>
-				        <div id="crt-##DivID##" style="width:300px;height:250px;"></div>
-        <script type="text/javascript">
-        var o = document.getElementById('crt-##DivID##');
-        if ("undefined"!=typeof Criteo) {
-            var p = o.parentNode;
-            p.style.setProperty('display', 'inline-block', 'important');
-            o.style.setProperty('display', 'block', 'important');
-            Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-##DivID##",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-##DivID##'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); }
-        });
-        } else {
-            o.style.setProperty('display', 'none', 'important');
-            o.style.setProperty('visibility', 'hidden', 'important');
-        }
-        </script>
-			</div>
-		</div><div class="teads_slot"></div>	</div><!-- .entry-content -->
+	</div><!-- .entry-content -->
 	<footer class="entry-footer">
 	</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
@@ -333,27 +302,7 @@ var WPGroHo = {"my_hash":""};
 
 		<div style="display:none">
 	</div>
-			<script type="text/javascript">
-			try {
-				window._ttf = window._ttf || [];
-				_ttf.push({
-					pid          : 25030
-					,lang        : "en"
-				 	,format      : "inread"
-					,slot        : ".teads_slot"
-					,slotMode    : "in"
-					,minSlot     : 1
-					,css         : "margin: 10px auto; max-width: 550px;"
-				});
-				(function (d) {
-				        var js, s = d.getElementsByTagName('script')[0];
-				        js = d.createElement('script');
-				        js.async = true;
-				        js.src = '//cdn.teads.tv/media/format.js';
-				        s.parentNode.insertBefore(js, s);
-				})(window.document);
-			} catch(e) {}
-			</script><script type='text/javascript'>
+<script type='text/javascript'>
 /* <![CDATA[ */
 var comment_like_text = {"loading":"Loading..."};
 /* ]]> */

@@ -76,7 +76,7 @@ img.emoji {
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="website" />
 <meta property="og:title" content="patribotics" />
-<meta property="og:description" content="Michael Cohen, Trump&#039;s lawyer, could have met and paid off Russian hackers as Steele dossier says. Do private plane registrations raise questions?" />
+<meta property="og:description" content="Wikileaks secret Russian servers get busted. Laurelai Bailey, original Wikileaker, exposes Assange&#039;s Podesta connection " />
 <meta property="og:url" content="https://patribotics.blog/" />
 <meta property="og:site_name" content="patribotics" />
 <meta property="og:image" content="https://patribotics.files.wordpress.com/2017/01/cropped-mon-12-sep-13491.jpg?w=200" />
@@ -194,6 +194,138 @@ img.emoji {
 
 		
 						
+				<article id="post-793" class="post-793 post type-post status-publish format-standard has-post-thumbnail hentry category-espionage category-national-security category-russia category-wikileaks tag-chayanov tag-guccifer2 tag-hacking tag-laurelai-bailey tag-opferguson tag-peter-chayanov tag-trump tag-wikileaks">
+
+	
+<div class="featured-image">
+	<img width="845" height="450" src="https://patribotics.files.wordpress.com/2017/02/correa.jpg?w=845&amp;h=450&amp;crop=1" class="attachment-dailymag-featured size-dailymag-featured wp-post-image" alt="" srcset="https://patribotics.files.wordpress.com/2017/02/correa.jpg?w=845&amp;h=450&amp;crop=1 845w, https://patribotics.files.wordpress.com/2017/02/correa.jpg?w=150&amp;h=80&amp;crop=1 150w, https://patribotics.files.wordpress.com/2017/02/correa.jpg?w=300&amp;h=160&amp;crop=1 300w, https://patribotics.files.wordpress.com/2017/02/correa.jpg?w=768&amp;h=409&amp;crop=1 768w, https://patribotics.files.wordpress.com/2017/02/correa.jpg?w=1024&amp;h=546&amp;crop=1 1024w" sizes="(max-width: 845px) 100vw, 845px" data-attachment-id="108" data-permalink="https://patribotics.blog/?attachment_id=108" data-orig-file="https://patribotics.files.wordpress.com/2017/02/correa.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="correa" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/02/correa.jpg?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/02/correa.jpg?w=845" /></div><!-- .featured-image -->
+
+	<header class="entry-header">
+	<div class="entry-header-row">
+		<div class="entry-header-column">
+						<div class="entry-meta">
+														<span class="cat-links">
+						<a href="https://patribotics.blog/category/espionage/" rel="category tag">Espionage</a>, <a href="https://patribotics.blog/category/national-security/" rel="category tag">National Security</a>, <a href="https://patribotics.blog/category/russia/" rel="category tag">Russia</a>, <a href="https://patribotics.blog/category/wikileaks/" rel="category tag">Wikileaks</a>					</span>
+									
+				<span class="posted-on"><a href="https://patribotics.blog/2017/03/12/wikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims/" rel="bookmark"><time class="entry-date published" datetime="2017-03-12T21:25:11+00:00">March 12, 2017</time><time class="updated" datetime="2017-03-12T22:42:12+00:00">March 12, 2017</time></a></span>			</div><!-- .entry-meta -->
+			
+			<a href="https://patribotics.blog/2017/03/12/wikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims/" rel="permalink"><h1 class="entry-title">Wikileaks is Connected to Russia &#8211; Despite Their&nbsp;Claims</h1></a>
+		</div><!-- .entry-header-column -->
+	</div><!-- .entry-header-row -->
+</header><!-- .entry-header -->
+	<div class="entry-content">
+	<p>By <a href="https://twitter.com/stuxnetsource">Laurelai Bailey</a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">Wikileaks has time and time again denied any connections to Russia or the Russian state, but &#8211; like Donald Trump &#8211; they are lying. This weekend, it was exposed on Twitter that they acquired major Russian servers &#8211; from a known hacker &#8211; one week before the Podesta emails were released.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">I will walk you through the proof, since its a little complex for non computer experts. So let’s start with a primer.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">All websites on the internet have an address, much like houses in the real world. This address are usually names and things you recognize, like google.com or amazon.com. But behind that address there are a series of numbers, unique to each server known as internet protocol addresses. If you have ever had to log in to your wireless router, you wound up typing a number into your browser like 192.168.1.1, this is an IP address.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">Now IP addresses have physical locations, in the real world, and tools exist to discover where those addresses are.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">Wikileaks  -like every other website &#8211;  has servers and IP addresses behind the domain name &#8220;wikileaks.org&#8221;. When we do a command on a linux machine called “dig” we find out all of the IP addresses behind the domain name. Here is the output of the dig command. Don&#8217;t worry if you can&#8217;t understand this part &#8211; just scroll down to the rest of the article. The writing in the middle explains it, but for those that want proof, we need to list how we get from a to b. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;"> dig wikileaks.org</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">; &lt;&lt;&gt;&gt; DiG 9.8.2rc1-RedHat-9.8.2-0.47.rc1.el6_8.4 &lt;&lt;&gt;&gt; wikileaks.org</span></p>
+<p><span style="font-weight:400;">;; global options: +cmd</span></p>
+<p><span style="font-weight:400;">;; Got answer:</span></p>
+<p><span style="font-weight:400;">;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 4839</span></p>
+<p><span style="font-weight:400;">;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 8</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">;; QUESTION SECTION:</span></p>
+<p><span style="font-weight:400;">;wikileaks.org.                 IN      A</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">;; ANSWER SECTION:</span></p>
+<p><span style="font-weight:400;">wikileaks.org.          600     IN      A       95.211.113.154</span></p>
+<p><strong>wikileaks.org.          600     IN      A       141.105.65.113</strong></p>
+<p><strong>wikileaks.org.          600     IN      A       141.105.69.239</strong></p>
+<p><span style="font-weight:400;">wikileaks.org.          600     IN      A       195.35.109.44</span></p>
+<p><span style="font-weight:400;">wikileaks.org.          600     IN      A       195.35.109.53</span></p>
+<p><span style="font-weight:400;">wikileaks.org.          600     IN      A       95.211.113.131</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">;; AUTHORITY SECTION:</span></p>
+<p><span style="font-weight:400;">wikileaks.org.          1470    IN      NS      ns2.wikileaks.org.</span></p>
+<p><span style="font-weight:400;">wikileaks.org.          1470    IN      NS      ns1.wikileaks.org.</span></p>
+<p><span style="font-weight:400;">wikileaks.org.          1470    IN      NS      ns4.wikileaks.org.</span></p>
+<p><span style="font-weight:400;">wikileaks.org.          1470    IN      NS      ns3.wikileaks.org.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">;; ADDITIONAL SECTION:</span></p>
+<p><span style="font-weight:400;">ns1.wikileaks.org.      80774   IN      A       46.28.206.81</span></p>
+<p><span style="font-weight:400;">ns2.wikileaks.org.      83083   IN      A       46.28.206.82</span></p>
+<p><span style="font-weight:400;">ns3.wikileaks.org.      80774   IN      A       95.211.113.131</span></p>
+<p><span style="font-weight:400;">ns3.wikileaks.org.      80774   IN      A       195.35.109.54</span></p>
+<p><span style="font-weight:400;">ns3.wikileaks.org.      80774   IN      A       31.192.105.18</span></p>
+<p><span style="font-weight:400;">ns4.wikileaks.org.      80774   IN      A       195.35.109.44</span></p>
+<p><span style="font-weight:400;">ns4.wikileaks.org.      80774   IN      A       95.211.113.154</span></p>
+<p><span style="font-weight:400;">ns4.wikileaks.org.      80774   IN      A       141.105.65.114</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">;; Query time: 20 msec</span></p>
+<p><span style="font-weight:400;">;; SERVER: 213.186.33.99#53(213.186.33.99)</span></p>
+<p><span style="font-weight:400;">;; WHEN: Fri Mar 10 16:21:37 2017</span></p>
+<p><span style="font-weight:400;">;; MSG SIZE  rcvd: 327</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">Now the above might mostly seem like junk to you, if you don&#8217;t speak computer, so we&#8217;ll cut out everything not that&#8217;s not relevant and focus on what is relevant, namely, these two addresses:</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">wikileaks.org.          600     IN      A       141.105.65.113</span></p>
+<p><span style="font-weight:400;">wikileaks.org.          600     IN      A       141.105.69.239</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">When you look up these addresses, listed above, via a command known as “whois”, you can find their physical location in the real world.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">organisation:   ORG-MTL21-RIPE</span></p>
+<p><span style="font-weight:400;">org-name:       Mir Telematiki Ltd</span></p>
+<p><span style="font-weight:400;">org-type:       LIR</span></p>
+<p><span style="font-weight:400;">address:        Barabannii pereulok 4/4</span></p>
+<p><span style="font-weight:400;">address:        107023</span></p>
+<p><span style="font-weight:400;">address:        Moscow</span></p>
+<p><span style="font-weight:400;">address:        RUSSIAN FEDERATION</span></p>
+<p><span style="font-weight:400;">phone:          +7 495 369 9796</span></p>
+<p><span style="font-weight:400;">fax-no:         +7 495 369 9796</span></p>
+<p><span style="font-weight:400;">mnt-ref:        MTLM-MNT</span></p>
+<p><span style="font-weight:400;">mnt-ref:        RIPE-NCC-HM-MNT</span></p>
+<p><span style="font-weight:400;">mnt-by:         RIPE-NCC-HM-MNT</span></p>
+<p><span style="font-weight:400;">mnt-by:         MTLM-MNT</span></p>
+<p><span style="font-weight:400;">abuse-mailbox:  abuse@hostkey.ru</span></p>
+<p><span style="font-weight:400;">abuse-c:        HA2800-RIPE</span></p>
+<p><span style="font-weight:400;">created:        2010-10-06T10:46:46Z</span></p>
+<p><span style="font-weight:400;">last-modified:  2016-09-30T12:14:19Z</span></p>
+<p><span style="font-weight:400;">source:         RIPE # Filtered</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">This information is the same for both IP addresses, and if you notice the last modified date as <strong>“2016-09-30”</strong> that is when the IP address&#8217;s pointing to a server was changed. So we can safely bet that this is when wikileaks added these addresses to their systems. </span></p>
+<p><span style="font-weight:400;">In turn, this proves Wikileaks gained Russian hosting on September 30</span><span style="font-weight:400;">th</span><span style="font-weight:400;"> 2016, <em>one week</em> before the <strong>Podesta emails</strong> were made public. <strong>Wikileaks got Russian Federation virtual addresses one week before the Podesta emails.</strong> Let that sink in.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">Now the actual owner of the IP addresses is a man by the name of Peter Chayanov, whose IP addresses have hosted spammers and hackers, according to my sources, who work in internet backbone companies. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;"><a href="https://drive.google.com/open?id=0B1-vUdYnSL1MdWRRSjhSYkFUbWs">Chayanov&#8217;s IP space is a virtual equivalent of a bad neighborhood t</a>hat makes you lock your car doors when you drive through it. So this further implies a connection to Wikileaks and Russian hackers. That sort of stuff is Chayanov&#8217;s day job. And, further, it&#8217;s important to remember, this web host also stays around at the consent of the Russian government despite (or because of?) being known cyber criminal hosts.</span></p>
+<p><img data-attachment-id="830" data-permalink="https://patribotics.blog/2017/03/12/wikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims/chayanov/" data-orig-file="https://patribotics.files.wordpress.com/2017/03/chayanov.jpg?w=845" data-orig-size="1200,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chayanov" data-image-description="" data-medium-file="https://patribotics.files.wordpress.com/2017/03/chayanov.jpg?w=845?w=300" data-large-file="https://patribotics.files.wordpress.com/2017/03/chayanov.jpg?w=845?w=845" class="alignnone size-full wp-image-830" src="https://patribotics.files.wordpress.com/2017/03/chayanov.jpg?w=845" alt="chayanov.jpg" srcset="https://patribotics.files.wordpress.com/2017/03/chayanov.jpg?w=845 845w, https://patribotics.files.wordpress.com/2017/03/chayanov.jpg?w=150 150w, https://patribotics.files.wordpress.com/2017/03/chayanov.jpg?w=300 300w, https://patribotics.files.wordpress.com/2017/03/chayanov.jpg?w=768 768w, https://patribotics.files.wordpress.com/2017/03/chayanov.jpg?w=1024 1024w, https://patribotics.files.wordpress.com/2017/03/chayanov.jpg 1200w" sizes="(max-width: 845px) 100vw, 845px"   /></p>
+<p><span style="font-weight:400;">The other addresses I told you to ignore before? When you do a whois on wikileaks itself you get shown IP&#8217;s in Amsterdam and Zurich, ones that make much more sense to have since they are in countries with strong freedom of speech and transparency laws. Places you would want an organization like that in, but the Russian IP spaces, to be visible to you have to be dug for carefully to find them. They did a fairly good job obfuscating it, but <a href="https://drive.google.com/open?id=0B1-vUdYnSL1MdWRRSjhSYkFUbWs">the records </a>will always be able to be found.</span></p>
+<p>Mr. Chayanov did not disguise his hosting carefully enough. And when he was exposed this weekend on Twitter, he made matters worse by <a href="https://twitter.com/LouiseMensch/status/840237787026726916">deleting his account</a> at once.</p>
+<p><span style="font-weight:400;">So why would Wikileaks, a “transparency” org acquire hosting in a </span><a href="http://www.independent.co.uk/news/world/europe/russia-diplomats-deaths-theories-putin-kremlin-a7602201.html"><span style="font-weight:400;">country thats known to assassinate whistleblowers</span></a><span style="font-weight:400;">? Especially ones that challenge Trumps presidency? It makes no sense for people who claim to be for transparency to take up virtual residence in an autocratic nation that might try to kill them. So why would they do it? Well, it’s pretty simple; they would only be there with the consent of the Russian government, ieVladimir Putin. He wants them to be there and allows them to be there. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">Why would he do that? Sounds an awful lot like putting a rattlesnake in your own bed to keep the neighbors away. That is if wikileaks was as neutral and would leak against anyone like they claim. Putin might be an autocrat, but he isn’t an idiot. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">He would not allow them there unless he got something out of it for himself, like immunity to being leaked against or by having influence over what gets leaked and when. Putin like all politicians is a self interested lout and acts in ways that keep him in power. Much like many other world leaders. So wikileaks dropping info on the US alone isn’t enough to allow them to stay, he knows he would be next on the leaking list.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">So that strongly suggests Russia is getting some kind of favorable or special treatment. Its also likely that the CIA was already aware of this and that this is part of the information they base their claims of Russian interference on. When you see this alone its enough to strongly suggests collusion with the Russian government either directly or indirectly. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">So it seems fairly sure to me that Wikileaks is now in bed with the Russian government in some form or fashion. Will we<a href="https://drive.google.com/open?id=0B1-vUdYnSL1MdWRRSjhSYkFUbWs"> shortly discover that Mr. Chayanov</a> is also connected to Guccifer2? </span></p>
+<p>Laurelai Bailey was an original Wikileaks activist.</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-793" class="share-twitter sd-button share-icon no-text" href="https://patribotics.blog/2017/03/12/wikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-793" class="share-facebook sd-button share-icon no-text" href="https://patribotics.blog/2017/03/12/wikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-793" class="share-google-plus-1 sd-button share-icon no-text" href="https://patribotics.blog/2017/03/12/wikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-##ID##' data-src='//widgets.wp.com/likes/#blog_id=122731350&amp;post_id=793&amp;origin=patribotics.wordpress.com&amp;obj_id=##OBJ_ID##' data-name='like-post-##ID##'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+	<div class="entry-footer-right">
+					<span class="comments-link"><a href="https://patribotics.blog/2017/03/12/wikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims/#comments">13 Comments</a></span>
+		
+			</div>
+
+					<span class="tags-links">
+			Filed under: <a href="https://patribotics.blog/tag/chayanov/" rel="tag">Chayanov</a>, <a href="https://patribotics.blog/tag/guccifer2/" rel="tag">Guccifer2</a>, <a href="https://patribotics.blog/tag/hacking/" rel="tag">Hacking</a>, <a href="https://patribotics.blog/tag/laurelai-bailey/" rel="tag">Laurelai Bailey</a>, <a href="https://patribotics.blog/tag/opferguson/" rel="tag">OpFerguson</a>, <a href="https://patribotics.blog/tag/peter-chayanov/" rel="tag">Peter Chayanov</a>, <a href="https://patribotics.blog/tag/trump/" rel="tag">Trump</a>, <a href="https://patribotics.blog/tag/wikileaks/" rel="tag">Wikileaks</a>		</span>
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
 				<article id="post-433" class="post-433 post type-post status-publish format-standard has-post-thumbnail hentry category-espionage category-national-security category-russia tag-beauty-central tag-fbi tag-hacking tag-impeachment tag-michael-cohen tag-north-carolina tag-russia tag-steele-dossier">
 
 	
@@ -791,7 +923,7 @@ var WPGroHo = {"my_hash":""};
 	</div>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/patribotics.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?action=logout&_wpnonce=##HexNum##","homeURL":"https:\/\/patribotics.blog\/","postID":"433","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/patribotics.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?action=logout&_wpnonce=##HexNum##","homeURL":"https:\/\/patribotics.blog\/","postID":"793","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
@@ -819,7 +951,7 @@ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"P
 	</div>
 
 	<script type="text/javascript">
-		window.WPCOM_sharing_counts = {"https:\/\/patribotics.blog\/2017\/02\/26\/planespotting-michael-cohens-amazing-journey-louise-mensch\/":433,"https:\/\/patribotics.blog\/2017\/02\/14\/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch\/":290,"https:\/\/patribotics.blog\/2017\/02\/07\/jeff-sessions-attorney-general-suspect\/":135,"https:\/\/patribotics.blog\/2017\/01\/17\/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia\/":4};
+		window.WPCOM_sharing_counts = {"https:\/\/patribotics.blog\/2017\/03\/12\/wikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims\/":793,"https:\/\/patribotics.blog\/2017\/02\/26\/planespotting-michael-cohens-amazing-journey-louise-mensch\/":433,"https:\/\/patribotics.blog\/2017\/02\/14\/the-carolina-conspiracy-putin-catfished-weiner-louise-mensch\/":290,"https:\/\/patribotics.blog\/2017\/02\/07\/jeff-sessions-attorney-general-suspect\/":135,"https:\/\/patribotics.blog\/2017\/01\/17\/dear-mr-putin-lets-play-chess-louise-mensch-trump-russia\/":4};
 	</script>
 		<script type="text/javascript">
 			var windowOpen;
@@ -863,12 +995,12 @@ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"P
 <![endif]-->
 <script type='text/javascript'>
 /* <![CDATA[ */
-var actionbardata = {"siteID":"122731350","siteName":"patribotics","siteURL":"https:\/\/patribotics.blog","icon":"<img alt='' src='https:\/\/patribotics.files.wordpress.com\/2017\/01\/cropped-mon-12-sep-13491.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/dailymag","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F02%2F26%2Fplanespotting-michael-cohens-amazing-journey-louise-mensch%2F","themeURL":"https:\/\/wordpress.com\/theme\/dailymag\/","xhrURL":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"##HexNum##","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"##HexNum##\" \/>","referer":"https:\/\/patribotics.blog\/page\/5\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/patribotics.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fpatribotics.wordpress.com%2Fpage%2F5%2F","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: DailyMag","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join ##Followers## other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F02%2F26%2Fplanespotting-michael-cohens-amazing-journey-louise-mensch%2F\">Log in now.<\/a>","stats":"Stats"}};
+var actionbardata = {"siteID":"122731350","siteName":"patribotics","siteURL":"https:\/\/patribotics.blog","icon":"<img alt='' src='https:\/\/patribotics.files.wordpress.com\/2017\/01\/cropped-mon-12-sep-13491.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/dailymag","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F03%2F12%2Fwikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims%2F","themeURL":"https:\/\/wordpress.com\/theme\/dailymag\/","xhrURL":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"##HexNum##","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"##HexNum##\" \/>","referer":"https:\/\/patribotics.blog\/page\/5\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/patribotics.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fpatribotics.wordpress.com%2Fpage%2F5%2F","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: DailyMag","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join ##Followers## other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F03%2F12%2Fwikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims%2F\">Log in now.<\/a>","stats":"Stats"}};
 /* ]]> */
 </script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"##HexNum##","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F02%2F26%2Fplanespotting-michael-cohens-amazing-journey-louise-mensch%2F","blog_id":"122731350","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=122731350&v=wpcom&tz=0&user_id=0&subd=patribotics","is_public":"1","reblog_enabled":""};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/patribotics.blog\/wp-admin\/admin-ajax.php","nonce":"##HexNum##","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/patribotics.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpatribotics.blog%2F2017%2F03%2F12%2Fwikileaks-is-connected-to-russia-despite-their-claimswikileaks-is-connected-to-russia-despite-their-claims%2F","blog_id":"122731350","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=122731350&v=wpcom&tz=0&user_id=0&subd=patribotics","is_public":"1","reblog_enabled":""};
 /* ]]> */
 </script>
 <script type='text/javascript'>

@@ -482,7 +482,8 @@ jQuery(document).ready( highlander_expando_javascript );
 				</label>
 				<input type="submit" class="search-submit" value="Search" />
 			</form></aside><aside id="archives-2" class="widget widget_archive"><h6 class="widget-title">Archives</h6>		<ul>
-			<li><a href='https://patribotics.blog/2017/05/'>May 2017</a></li>
+			<li><a href='https://patribotics.blog/2017/06/'>June 2017</a></li>
+	<li><a href='https://patribotics.blog/2017/05/'>May 2017</a></li>
 	<li><a href='https://patribotics.blog/2017/04/'>April 2017</a></li>
 	<li><a href='https://patribotics.blog/2017/03/'>March 2017</a></li>
 	<li><a href='https://patribotics.blog/2017/02/'>February 2017</a></li>

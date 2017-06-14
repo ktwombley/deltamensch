@@ -11,3 +11,4 @@ s|(obj_id=)[a-f0-9-]+'|\1##OBJ_ID##'|g
 /Recent Posts<\/h6>/,/<\/ul>/{//!d}
 /<link rel='prev' title=.*\/>/d
 /<link rel='next' title=.*\/>/d
+/link rel="alternate" type="application/json+oembed".*\/>/d
